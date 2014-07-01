@@ -12,18 +12,29 @@ while read country gec && read iso2 iso3 junk && read junk cctld junk ; do
 	fi
 
 	url="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/`echo $gec | tr A-Z a-z`-lgflag.gif"
-	out="$iso2.gif"
+	gif="$iso2.gif"
+	png="$iso2.png"
 
-	test -s "$out" && continue
-	test -f "$out" && rm -f "$out"
+	test -s "$png" && continue
+	rm -f "$gif" "$png"
 
 	echo "Downloading:	$iso2	$country ($gec; $cctld)"
 
-	if wget -q -O "$out.partial" "$url"; then
-		mv "$out.partial" "$out"
+	if wget -q -O "$gif.partial" "$url"; then
+		mv "$gif.partial" "$gif"
 	else
-		rm -f "$out.partial"
+		rm -f "$gif.partial"
 		echo "ERROR: Download failed.  Investigate."
+		continue
+	fi
+
+	echo "Converting from GIF to PNG and optimizing PNG"
+	if convert "$gif" "$png" && optipng -quiet "$png"; then
+		rm -f "$gif"
+	else
+		rm -f "$gif" "$png"
+		echo "ERROR: convert or optipng failed.  Investigate."
+		continue
 	fi
 
 done < appendix-d.txt
