@@ -11,6 +11,7 @@ The file appendix-d.txt is a massaged version of:
 https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
 
 The script download.sh downloads missing images and converts them to PNG.
+Note that some flags have been manually edited for various issues.
 
 Note that currently the following entries fail:
 
