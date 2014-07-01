@@ -187,7 +187,7 @@ HRV	.hr
 Cuba	CU	
 CU	CUB	192
 CUB	.cu	 
-Curacao	UC	
+Curacao	CC	
 CW	CUW	531
 -	.cw	 
 Cyprus	CY	
@@ -664,7 +664,7 @@ SLE	.sl
 Singapore	SN	
 SG	SGP	702
 SGP	.sg	 
-Sint Maarten	NN	
+Sint Maarten	SK	
 SX	SXM	534
 -	.sx	 
 Slovakia	LO	
