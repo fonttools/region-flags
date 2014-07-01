@@ -1,5 +1,12 @@
+This package is a collection of country flags in PNG format.
+
+Original images where downloaded in gif format from the CIA World Factbook.
+See:
+
 https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
-https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html
-https://www.cia.gov/about-cia/site-policies/#copy
+
+The file appendix-d.txt is a massaged version of:
 
 https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
+
+The script download.sh downloads missing images and converts them to PNG.
