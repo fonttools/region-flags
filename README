@@ -10,3 +10,16 @@ The file appendix-d.txt is a massaged version of:
 https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
 
 The script download.sh downloads missing images and converts them to PNG.
+
+Note that currently the following entries fail:
+
+Downloading:	AQ	Antarctica (AY; .aq)
+ERROR: Download failed.  Investigate.
+Downloading:	PS	Gaza Strip (GZ; .ps)
+ERROR: Download failed.  Investigate.
+Downloading:	PS	West Bank (WE; .ps)
+ERROR: Download failed.  Investigate.
+
+Antarctica is not a country, so that one is ok.
+The CIA World Factbook doesn't have a flag for Palestine currently.
+We should source one and import manually.
