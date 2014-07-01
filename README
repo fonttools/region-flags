@@ -1,4 +1,5 @@
-This package is a collection of country flags in PNG format.
+This package is a collection of country flags in PNG format.  The icons
+are named by their ISO 3166-2 country code.
 
 Original images where downloaded in gif format from the CIA World Factbook.
 See:
