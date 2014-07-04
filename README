@@ -1,17 +1,13 @@
 This package is a collection of country flags in PNG format.  The icons
 are named by their ISO 3166-2 country code.
 
-Original images where downloaded in gif format from the CIA World Factbook.
-See:
-
-https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
-
-The file appendix-d.txt is a massaged version of:
-
-https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
+Original images where downloaded in gif format from the CIA World Factbook
+at [1]  The file appendix-d.txt is a massaged version of [2] used for
+scripted downloading.
 
 The script download.sh downloads missing images and converts them to PNG.
-Note that some flags have been manually edited for various issues.
+Note that some flags have been manually edited to address various issues.
+See commit history for such modifications.
 
 Note that currently the following entries fail:
 
@@ -25,3 +21,13 @@ ERROR: Download failed.  Investigate.
 Antarctica is not a country, so that one is ok.
 The CIA World Factbook doesn't have a flag for Palestine currently.
 We should source one and import manually.
+
+Exceptions:
+
+CIA World Factbook does not have an entry for the European Union region.
+The European Union flag was downloaded from [3].
+
+
+[1] https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
+[2] https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
+[3] http://europa.eu/about-eu/basic-information/symbols/flag/index_en.htm
