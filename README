@@ -9,7 +9,7 @@ The script download.sh downloads missing images and converts them to PNG.
 Note that some flags have been manually edited to address various issues.
 See commit history for such modifications.
 
-Note that currently the following entries fail:
+Using the download script the following entries fail:
 
 Downloading:	AQ	Antarctica (AY; .aq)
 ERROR: Download failed.  Investigate.
@@ -18,8 +18,7 @@ ERROR: Download failed.  Investigate.
 Downloading:	PS	West Bank (WE; .ps)
 ERROR: Download failed.  Investigate.
 
-We currently don't have one for Antarctica.  For Palestine,
-see exceptions below.
+We fullfilled those (and others) manually.  See below.
 
 Exceptions:
 
@@ -30,7 +29,10 @@ are not correctly mapped.  The following have been sourced separately:
 
 - The flag of Palestine was downloaded from [3].
 
+- The flag / map of Antarctica was downloaded from [4].
+
 
 [1] https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
 [2] https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
 [3] http://en.wikipedia.org/wiki/Palestinian_flag#mediaviewer/File:Flag_of_Palestine.svg
+[4] http://openclipart.org/detail/47329/antarctica-by-anonymous
