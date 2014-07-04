@@ -18,21 +18,19 @@ ERROR: Download failed.  Investigate.
 Downloading:	PS	West Bank (WE; .ps)
 ERROR: Download failed.  Investigate.
 
-Antarctica is not a country, so that one is ok.
-The CIA World Factbook doesn't have a flag for Palestine currently.
-We should source one and import manually.
+We currently don't have one for Antarctica.  For Palestine,
+see exceptions below.
 
 Exceptions:
 
-CIA World Factbook does not have an entry for some regions.  The following
-have been sourced separately:
+CIA World Factbook does not have an entry for some regions, or some
+are not correctly mapped.  The following have been sourced separately:
 
-- The European Union flag was downloaded from [3].
+- The European Union flag was downloaded from [1] manually.
 
-- The flag of Palestine was downloaded from [4].
+- The flag of Palestine was downloaded from [3].
 
 
 [1] https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
 [2] https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
-[3] http://europa.eu/about-eu/basic-information/symbols/flag/index_en.htm
-[4] http://en.wikipedia.org/wiki/Palestinian_flag#mediaviewer/File:Flag_of_Palestine.svg
+[3] http://en.wikipedia.org/wiki/Palestinian_flag#mediaviewer/File:Flag_of_Palestine.svg
