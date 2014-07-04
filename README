@@ -24,10 +24,15 @@ We should source one and import manually.
 
 Exceptions:
 
-CIA World Factbook does not have an entry for the European Union region.
-The European Union flag was downloaded from [3].
+CIA World Factbook does not have an entry for some regions.  The following
+have been sourced separately:
+
+- The European Union flag was downloaded from [3].
+
+- The flag of Palestine was downloaded from [4].
 
 
 [1] https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
 [2] https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
 [3] http://europa.eu/about-eu/basic-information/symbols/flag/index_en.htm
+[4] http://en.wikipedia.org/wiki/Palestinian_flag#mediaviewer/File:Flag_of_Palestine.svg
