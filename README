@@ -49,7 +49,12 @@ are not correctly mapped.  The following have been sourced separately:
 
 - The European Union flag was downloaded from [1] manually.
 
-- The flag of Palestine was downloaded from [3].
+- The following flags have been downloaded from Wikipedia.  We only
+  do this when the file is in Public Domain (and NOT Creative Commons)
+  in Wikipedia.
+
+  * Flag of Palestine (PS) [3]
+  * Flag of the Canary Islands (IC) [5]
 
 - The flag / map of Antarctica was downloaded from [4].
 
@@ -72,5 +77,6 @@ See file COPYING for details.
 [0] http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 [1] https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
 [2] https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
-[3] http://en.wikipedia.org/wiki/Palestinian_flag#mediaviewer/File:Flag_of_Palestine.svg
+[3] https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg
 [4] http://openclipart.org/detail/47329/antarctica-by-anonymous
+[5] https://commons.wikimedia.org/wiki/File:Flag_of_the_Canary_Islands.svg
