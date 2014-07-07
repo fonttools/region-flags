@@ -1,5 +1,8 @@
-This package is a collection of country flags in PNG format.  The icons
-are named by their ISO 3166-2 country code.
+This package is a collection of flags for BCP 47 region codes.  Most people
+think of these as country flags, but there are a few codes / flags that do
+not correspond to countries.  The icons are in PNG format and named by their
+BCP 47 region code, which for countries is the same as ISO 3166-2 country
+code.
 
 Original images where downloaded in gif format from the CIA World Factbook
 at [1]  The file appendix-d.txt is a massaged version of [2] used for
@@ -31,6 +34,16 @@ are not correctly mapped.  The following have been sourced separately:
 
 - The flag / map of Antarctica was downloaded from [4].
 
+- The following regions use the same flag as a country and as such
+  are symlinked:
+
+  * Caribbean Netherlands (BQ) uses the same flag as Netherlands (NL),
+
+  * United States Minor Outlying Islands (UM) uses the same flag as
+    United States (US),
+
+
+References:
 
 [1] https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
 [2] https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
