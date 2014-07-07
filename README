@@ -56,6 +56,8 @@ are not correctly mapped.  The following have been sourced separately:
   * Flag of Palestine (PS) [3]
   * Flag of the Canary Islands (IC) [5]
   * Flag of Tristan da Cunha (TA) [6]
+  * Diego Garcia (DG) does not have a flag; we use the flag of British
+    Indian Ocean Territory [7]
 
 - The flag / map of Antarctica was downloaded from [4].
 
@@ -88,3 +90,4 @@ See file COPYING for details.
 [4] http://openclipart.org/detail/47329/antarctica-by-anonymous
 [5] https://commons.wikimedia.org/wiki/File:Flag_of_the_Canary_Islands.svg
 [6] https://commons.wikimedia.org/wiki/File:Flag_of_Tristan_da_Cunha.svg
+[7] https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Indian_Ocean_Territory.svg
