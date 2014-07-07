@@ -30,6 +30,7 @@ for r in regions.values():
 	del r['Type']
 	del r['Subtag']
 
-keys = sorted(regions.keys())
-for k in keys:
-	print("%s	%s" % (k, regions[k]))
+if __name__ == '__main__':
+	keys = sorted(regions.keys())
+	for k in keys:
+		print("%s	%s" % (k, regions[k]))
