@@ -70,6 +70,9 @@ are not correctly mapped.  The following have been sourced separately:
   * The Clipperton Island (CP) is an overseas possession of France (FR)
     and does not have a flag,
 
+  * Ceutal and Melilla each have a flag, but the combined region
+    'Ceuta, Melilla' (EA) does not have one; we use Spain (ES) flag,
+
 
 == License ==
 
