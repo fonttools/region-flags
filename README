@@ -1,16 +1,34 @@
+== Introduction ==
+
 This package is a collection of flags for BCP 47 region codes.  Most people
 think of these as country flags, but there are a few codes / flags that do
 not correspond to countries.  The icons are in PNG format and named by their
 BCP 47 region code, which for countries is the same as ISO 3166-2 country
 code.
 
-Original images where downloaded in gif format from the CIA World Factbook
-at [1]  The file appendix-d.txt is a massaged version of [2] used for
-scripted downloading.
+The canonical way to get all region codes is to look for records in
+language-subtag-registry (which is downloaded from [0]) with the following
+fields:
 
-The script download.sh downloads missing images and converts them to PNG.
-Note that some flags have been manually edited to address various issues.
-See commit history for such modifications.
+	Type: region
+	Subtag: [A-Z]{2}
+	AND NOT Description: Private use
+	AND NOT Deprecated: .*
+
+The script regions.py lists all regions with their metadata.
+The script missing.sh shows all such regions that we don't have flags for.
+
+
+== CIA World Factbook ==
+
+This repository was originally populated using flags from the CIA World
+Factbook.  Original images where downloaded in gif format from [1].  The
+file appendix-d.txt is a massaged version of [2] used for scripted
+downloading.
+
+The script cia-download.sh downloads missing images and converts them to
+PNG.  Note that some flags have been manually edited to address various
+issues.  See commit history for such modifications.
 
 Using the download script the following entries fail:
 
@@ -23,7 +41,8 @@ ERROR: Download failed.  Investigate.
 
 We fullfilled those (and others) manually.  See below.
 
-Exceptions:
+
+== Exceptions ==
 
 CIA World Factbook does not have an entry for some regions, or some
 are not correctly mapped.  The following have been sourced separately:
@@ -43,8 +62,14 @@ are not correctly mapped.  The following have been sourced separately:
     United States (US),
 
 
-References:
+== License ==
 
+See file COPYING for details.
+
+
+== References ==
+
+[0] http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 [1] https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
 [2] https://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-d.html
 [3] http://en.wikipedia.org/wiki/Palestinian_flag#mediaviewer/File:Flag_of_Palestine.svg
