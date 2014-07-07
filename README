@@ -57,8 +57,6 @@ are not correctly mapped.  The following have been sourced separately:
   * Flag of Palestine (PS) [3]
   * Flag of the Canary Islands (IC) [5]
   * Flag of Tristan da Cunha (TA) [6]
-  * Diego Garcia (DG) does not have a flag; we use the flag of British
-    Indian Ocean Territory [7]
   * Flag of Åland (AX) [8]
   * Flag of Qatar (QA) [9]
 
@@ -78,6 +76,9 @@ are not correctly mapped.  The following have been sourced separately:
   * Ceutal and Melilla each have a flag, but the combined region
     'Ceuta, Melilla' (EA) does not have one; we use Spain (ES) flag,
 
+  * Diego Garcia (DG) does not have a flag; we use the flag of British
+    Indian Ocean Territory (IO),
+
 
 == License ==
 
@@ -93,6 +94,5 @@ See file COPYING for details.
 [4] http://openclipart.org/detail/47329/antarctica-by-anonymous
 [5] https://commons.wikimedia.org/wiki/File:Flag_of_the_Canary_Islands.svg
 [6] https://commons.wikimedia.org/wiki/File:Flag_of_Tristan_da_Cunha.svg
-[7] https://commons.wikimedia.org/wiki/File:Flag_of_the_British_Indian_Ocean_Territory.svg
 [8] https://commons.wikimedia.org/wiki/File:Flag_of_%C3%85land.svg
 [9] https://en.wikipedia.org/wiki/File:Flag_of_Qatar.svg
