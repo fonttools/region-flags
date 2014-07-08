@@ -26,7 +26,7 @@ Factbook.  Original images where downloaded in gif format from [1].  The
 file appendix-d.txt is a massaged version of [2] used for scripted
 downloading.
 
-The script cia-download.sh downloads missing images and converts them to
+The script download-cia.sh downloads missing images and converts them to
 PNG.  Note that some flags have been manually edited to address various
 issues.  See commit history for such modifications.
 
