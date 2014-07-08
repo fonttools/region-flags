@@ -1,23 +1,32 @@
 #!/usr/bin/python3
 
-entries = []
-entry = {}
-f = open("language-subtag-registry", encoding='utf-8')
-f.readline ()
-f.readline ()
-for line in f:
-	if line.startswith('%%'):
-		entries.append(entry)
-		entry = {}
-		continue
-	if line.startswith('  '):
-		# Continuation
-		entry[fields[0]] += ' ' + line.strip()
-		continue
-	fields = [x.strip() for x in line.split(':')]
-	entry[fields[0]] = fields[1]
-entries.append(entry)
-del(entry)
+
+def load_aliases(filename):
+	return dict([[x.strip() for x in line.split('	')]
+		    for line in open(filename)])
+
+def load_regions(filename):
+	entries = []
+	entry = {}
+	f = open(filename, encoding='utf-8')
+	f.readline ()
+	f.readline ()
+	for line in f:
+		if line.startswith('%%'):
+			entries.append(entry)
+			entry = {}
+			continue
+		if line.startswith('  '):
+			# Continuation
+			entry[fields[0]] += ' ' + line.strip()
+			continue
+		fields = [x.strip() for x in line.split(':')]
+		entry[fields[0]] = fields[1]
+	entries.append(entry)
+	return entries
+
+
+entries = load_regions("language-subtag-registry") + load_regions("language-subtag-private")
 
 regions = [e for e in entries if
 		e['Type'] == 'region' and
