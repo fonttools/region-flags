@@ -62,22 +62,10 @@ are not correctly mapped.  The following have been sourced separately:
 
 - The flag / map of Antarctica was downloaded from [4].
 
-- The following regions use the same flag as a country and as such
-  are symlinked:
-
-  * Caribbean Netherlands (BQ) uses the same flag as Netherlands (NL),
-
-  * United States Minor Outlying Islands (UM) uses the same flag as
-    United States (US),
-
-  * The Clipperton Island (CP) is an overseas possession of France (FR)
-    and does not have a flag,
-
-  * Ceutal and Melilla each have a flag, but the combined region
-    'Ceuta, Melilla' (EA) does not have one; we use Spain (ES) flag,
-
-  * Diego Garcia (DG) does not have a flag; we use the flag of British
-    Indian Ocean Territory (IO),
+- Some regions do not have their own flag.  In such cases, they are
+  symlinked to the best flag to represent them, which in most cases is
+  the flag of their regional or political parent.  These are listed in
+  file name ALIASES.
 
 
 == License ==
