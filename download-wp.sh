@@ -17,6 +17,10 @@ while read region htmlurl ; do
 		continue
 	fi
 
+	if ! grep -q public_domain "$html"; then
+		echo "WARNING: flag NOT in public domain; check license"
+	fi
+
 	svgurl="https:`cat "$html" | LANG=C sed 's@.*href="\(//upload.wikimedia.org/wikipedia/commons/[^"]*[.]svg\)".*@\1@' | grep '^//upload.wikimedia' | grep -v '/archive/' | head -n1`"
 	svgdata="`wget -q -O - "$svgurl"`"
 	if test "x$svgdata" = x; then
