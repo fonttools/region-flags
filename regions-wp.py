@@ -1,12 +1,15 @@
 #!/usr/bin/python3
 
-from regions import regions, load_aliases
+from regions import load_regions, load_aliases
 
-aliases = load_aliases("ALIASES")
-aliases_wp = load_aliases("ALIASES-WP")
+def load_region_urls():
 
-if __name__ == '__main__':
+	aliases = load_aliases("ALIASES")
+	aliases_wp = load_aliases("ALIASES-WP")
+	regions = load_regions()
+
 	keys = sorted(regions.keys())
+	urls = {}
 	for k in keys:
 
 		# If this uses another flag, skip
@@ -20,4 +23,11 @@ if __name__ == '__main__':
 
 		s = s.replace(' ', '_')
 		url = "https://commons.wikimedia.org/wiki/File:Flag_of_%s.svg" % s
-		print("%s	%s" % (k, url))
+		urls[k] = url
+	return urls
+
+if __name__ == '__main__':
+	urls = load_region_urls()
+	keys = sorted(urls.keys())
+	for k in keys:
+		print("%s	%s" % (k, urls[k]))

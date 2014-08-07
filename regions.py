@@ -5,7 +5,7 @@ def load_aliases(filename):
 	return dict([[x.strip() for x in line.split('	')]
 		    for line in open(filename)])
 
-def load_regions(filename):
+def load_entries(filename):
 	entries = []
 	entry = {}
 	f = open(filename, encoding='utf-8')
@@ -25,21 +25,25 @@ def load_regions(filename):
 	entries.append(entry)
 	return entries
 
+def load_regions():
 
-entries = load_regions("language-subtag-registry") + load_regions("language-subtag-private")
+	entries = load_entries("language-subtag-registry") + load_entries("language-subtag-private")
 
-regions = [e for e in entries if
-		e['Type'] == 'region' and
-		len(e['Subtag']) == 2 and
-		e['Description'] != 'Private use' and
-		'Deprecated' not in e]
+	regions = [e for e in entries if
+			e['Type'] == 'region' and
+			len(e['Subtag']) == 2 and
+			e['Description'] != 'Private use' and
+			'Deprecated' not in e]
 
-regions = {e['Subtag']:e for e in regions}
-for r in regions.values():
-	del r['Type']
-	del r['Subtag']
+	regions = {e['Subtag']:e for e in regions}
+	for r in regions.values():
+		del r['Type']
+		del r['Subtag']
+
+	return regions
 
 if __name__ == '__main__':
+	regions = load_regions()
 	keys = sorted(regions.keys())
 	for k in keys:
 		print("%s	%s" % (k, regions[k]))
