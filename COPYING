@@ -1,73 +1,18 @@
 == Copying ==
 
-The flags in this package, unless otherwise stated below, are in public
-domain.
+The flags in this package were downloaded from Wikipedia and checked to be in
+public domain or otherwise exempt from copyright.  In particular, the following
+are not explicitly tagged as "public_domain":
 
-Unless otherwise specified below, the flgs were downloaded from CIA
-World Factbook at [0].  Quoting the Factbook's license from [1]:
+AM	https://commons.wikimedia.org/wiki/File:Flag_of_Armenia.svg
+AZ	https://commons.wikimedia.org/wiki/File:Flag_of_Azerbaijan.svg
+JE	https://commons.wikimedia.org/wiki/File:Flag_of_Jersey.svg
+KG	https://commons.wikimedia.org/wiki/File:Flag_of_Kyrgyzstan.svg
+KZ	https://commons.wikimedia.org/wiki/File:Flag_of_Kazakhstan.svg
+MD	https://commons.wikimedia.org/wiki/File:Flag_of_Moldova.svg
+MX	https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg
+MY	https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.svg
+RS	https://commons.wikimedia.org/wiki/File:Flag_of_Serbia.svg
+YT	https://commons.wikimedia.org/wiki/File:Flag_of_Mayotte_(local).svg
 
-	The Factbook is in the public domain. Accordingly, it may be copied
-	freely without permission of the Central Intelligence Agency (CIA).
-
-The flag of Palestine was downloaded from [3] with following notice:
-
-	This file is ineligible for copyright and therefore in the public
-	domain, because it consists entirely of information that is common
-	property and contains no original authorship.View
-
-The flag / map of Antarctica was downloaded from [4] with following notice:
-
-	Description: public domain art uploaded anonymously from OCAL 0.18
-
-The flag of Canary Islands was downloaded from [5] with following notice:
-
-	This work has been released into the public domain by its author,
-	Zirland. This applies worldwide.  In some countries this may not be
-	legally possible; if so: Zirland grants anyone the right to use this
-	work for any purpose, without any conditions, unless such conditions
-	are required by law.
-
-The flag of Tristan da Cunha was downloaded from [6] with following notice:
-
-	This file is in the public domain, because the creator of the image
-	released the image in to the public domain.  In case this is not
-	legally possible: The right to use this work is granted to anyone for
-	any purpose, without any conditions, unless such conditions are
-	required by law.
-
-The flag of Åland was downloaded from [8] with following notice:
-
-	This file is in the public domain because it is a part of a decision
-	or a statement issued by a public authority or other public body in
-	Finland. Section 9 of the Finnish Copyright Act specifies that no
-	copyright exists in such material.
-
-The flag of Qatar was downloaded from [9] with the following notice:
-
-	I, the copyright holder of this work, release this work into the public
-	domain. This applies worldwide.  In some countries this may not be
-	legally possible; if so: I grant anyone the right to use this work for
-	any purpose, without any conditions, unless such conditions are
-	required by law.
-
-The flag of Ascension Island was downloaded from [10] with the following notice:
-
-	I, the copyright holder of this work, release this work into the public
-	domain. This applies worldwide.  In some countries this may not be
-	legally possible; if so: I grant anyone the right to use this work for
-	any purpose, without any conditions, unless such conditions are
-	required by law.
-
-
-== References ==
-
-[0] https://www.cia.gov/library/publications/the-world-factbook/docs/flagsoftheworld.html
-[1] https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html
-[2] http://europa.eu/about-eu/basic-information/symbols/flag/index_en.htm
-[3] https://commons.wikimedia.org/wiki/File:Flag_of_Palestine.svg
-[4] http://openclipart.org/detail/47329/antarctica-by-anonymous
-[5] https://commons.wikimedia.org/wiki/File:Flag_of_the_Canary_Islands.svg
-[6] https://commons.wikimedia.org/wiki/File:Flag_of_Tristan_da_Cunha.svg
-[8] https://commons.wikimedia.org/wiki/File:Flag_of_%C3%85land.svg
-[9] https://commons.wikimedia.org/wiki/File:Flag_of_Qatar.svg
-[10] https://commons.wikimedia.org/wiki/File:Flag_of_Ascension_Island_PD.svg
+For individual details see files in html/.
