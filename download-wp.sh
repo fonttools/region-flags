@@ -1,23 +1,23 @@
 #!/bin/sh
 IFS='	'
 ./regions-wp.py |
-while read region pageurl ; do
+while read region htmlurl ; do
 
+	html="html/$region.html"
 	svg="svg/$region.svg"
 	png="png/$region.png"
 
-	test -s "$svg" && continue
-	rm -f "$svg"
+	test -s "$html" && continue
+	rm -f "$html" "$svg" "$png"
 
-	echo "Downloading:	$region	$pageurl"
+	echo "Downloading:	$region	$htmlurl"
 
-	page="`wget -q -O - "$pageurl"`"
-	if test "x$page" = x; then
-		echo "ERROR: failed downloading page: $pageurl"
+	if ! wget -q -O "$html" "$htmlurl"; then
+		echo "ERROR: failed downloading html: $htmlurl"
 		continue
 	fi
 
-	svgurl="https:`echo "$page" | LANG=C sed 's@.*href="\(//upload.wikimedia.org/wikipedia/commons/[^"]*[.]svg\)".*@\1@' | grep '^//upload.wikimedia' | grep -v '/archive/' | head -n1`"
+	svgurl="https:`cat "$html" | LANG=C sed 's@.*href="\(//upload.wikimedia.org/wikipedia/commons/[^"]*[.]svg\)".*@\1@' | grep '^//upload.wikimedia' | grep -v '/archive/' | head -n1`"
 	svgdata="`wget -q -O - "$svgurl"`"
 	if test "x$svgdata" = x; then
 		echo "ERROR: failed downloading SVG: $svgurl"
