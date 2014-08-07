@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+import urllib.parse
 from regions import load_regions, load_aliases
 
 def load_region_urls():
@@ -22,7 +23,7 @@ def load_region_urls():
 		s = aliases_wp.get(s, s)
 
 		s = s.replace(' ', '_')
-		url = "https://commons.wikimedia.org/wiki/File:Flag_of_%s.svg" % s
+		url = "https://commons.wikimedia.org/wiki/File:Flag_of_%s.svg" % urllib.parse.quote(s)
 		urls[k] = url
 	return urls
 
