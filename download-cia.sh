@@ -13,7 +13,7 @@ while read country gec && read iso2 iso3 junk && read junk cctld junk ; do
 
 	url="https://www.cia.gov/library/publications/the-world-factbook/graphics/flags/large/`echo $gec | tr A-Z a-z`-lgflag.gif"
 	gif="$iso2.gif"
-	png="$iso2.png"
+	png="png/$iso2.png"
 
 	test -s "$png" && continue
 	rm -f "$gif" "$png"
