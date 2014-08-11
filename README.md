@@ -1,4 +1,4 @@
-== Introduction ==
+# Introduction
 
 This package is a collection of flags for BCP 47 region codes.  Most people
 think of these as country flags, but there are a few codes / flags that do
@@ -35,7 +35,7 @@ for these flags were resolved for the initial import:
   Kosovo
 
 
-== Scripts ==
+# Scripts
 
 The script regions.py lists all regions with their metadata.
 
@@ -50,7 +50,7 @@ The script download-wp.py downloads missing flags from Wikipedia and
 generating optimized SVG and PNG versions.
 
 
-== Updating ==
+# Updating
 
 If new regions are needed, update language-subtag-registry [0], or add new
 regions to language-subtag-private before.  Then update ALIASES and ALIASES-WP
@@ -67,11 +67,11 @@ To update to latest flags from Wikipedia, delete the html, svg, and png
 directories, then run make-aliases.sh followed by download-wp.py.
 
 
-== License ==
+# License
 
 See file COPYING for details.
 
 
-== References ==
+# References
 
 [0] http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
