@@ -1,0 +1,62 @@
+; ISO 3166-2:US
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:US
+; Extracted on: 20150531
+; 
+; Subdivision category	3166-2 code	Subdivision name	Language code	Romanization system	Parent subdivision
+state	US-AL	Alabama	en		
+state	US-AK	Alaska	en		
+outlying area	US-AS	American Samoa (see also separate country code entry under AS)	en		
+state	US-AZ	Arizona	en		
+state	US-AR	Arkansas	en		
+state	US-CA	California	en		
+state	US-CO	Colorado	en		
+state	US-CT	Connecticut	en		
+state	US-DE	Delaware	en		
+district	US-DC	District of Columbia	en		
+state	US-FL	Florida	en		
+state	US-GA	Georgia	en		
+outlying area	US-GU	Guam (see also separate country code entry under GU)	en		
+state	US-HI	Hawaii	en		
+state	US-ID	Idaho	en		
+state	US-IL	Illinois	en		
+state	US-IN	Indiana	en		
+state	US-IA	Iowa	en		
+state	US-KS	Kansas	en		
+state	US-KY	Kentucky	en		
+state	US-LA	Louisiana	en		
+state	US-ME	Maine	en		
+state	US-MD	Maryland	en		
+state	US-MA	Massachusetts	en		
+state	US-MI	Michigan	en		
+state	US-MN	Minnesota	en		
+state	US-MS	Mississippi	en		
+state	US-MO	Missouri	en		
+state	US-MT	Montana	en		
+state	US-NE	Nebraska	en		
+state	US-NV	Nevada	en		
+state	US-NH	New Hampshire	en		
+state	US-NJ	New Jersey	en		
+state	US-NM	New Mexico	en		
+state	US-NY	New York	en		
+state	US-NC	North Carolina	en		
+state	US-ND	North Dakota	en		
+outlying area	US-MP	Northern Mariana Islands (see also separate country code entry under MP)	en		
+state	US-OH	Ohio	en		
+state	US-OK	Oklahoma	en		
+state	US-OR	Oregon	en		
+state	US-PA	Pennsylvania	en		
+outlying area	US-PR	Puerto Rico (see also separate country code entry under PR)	en		
+state	US-RI	Rhode Island	en		
+state	US-SC	South Carolina	en		
+state	US-SD	South Dakota	en		
+state	US-TN	Tennessee	en		
+state	US-TX	Texas	en		
+outlying area	US-UM	United States Minor Outlying Islands (see also separate country code entry under UM)	en		
+state	US-UT	Utah	en		
+state	US-VT	Vermont	en		
+state	US-VA	Virginia	en		
+outlying area	US-VI	Virgin Islands, U.S. (see also separate country code entry under VI)	en		
+state	US-WA	Washington	en		
+state	US-WV	West Virginia	en		
+state	US-WI	Wisconsin	en		
+state	US-WY	Wyoming	en		
