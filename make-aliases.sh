@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/usr/bin/env sh
+
 mkdir -p html svg png
 IFS='	'
 while read from to; do
@@ -13,4 +14,4 @@ while read from to; do
 		ln -s "$to.$dir" "$f"
 
 	done
-done < ALIASES
+done < data/ALIASES
