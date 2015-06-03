@@ -18,7 +18,7 @@ while read region htmlurl ; do
 		continue
 	fi
 
-	if ! grep -q -E "public_domain|Category:PD[-_]" "$html"; then
+	if ! grep -q public_domain $html; then
 		echo "WARNING: flag NOT in public domain; check license"
 	fi
 
