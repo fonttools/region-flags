@@ -1,6 +1,7 @@
-#!/bin/sh
-IFS='	'
-./regions-wp.py |
+#!/usr/bin/env sh
+
+IFS='    '
+python3 ./regions-wp.py |
 while read region htmlurl ; do
 
 	html="html/$region.html"
@@ -12,12 +13,12 @@ while read region htmlurl ; do
 
 	echo "Downloading:	$region	$htmlurl"
 
-	if ! wget -q -O "$html" "$htmlurl"; then
-		echo "ERROR: failed downloading html: $htmlurl"
+	if ! wget -q -O "$html" "${htmlurl}"; then
+		echo "ERROR: failed downloading html: ${htmlurl}"
 		continue
 	fi
 
-	if ! grep -q public_domain "$html"; then
+	if ! grep -q public_domain $html; then
 		echo "WARNING: flag NOT in public domain; check license"
 	fi
 

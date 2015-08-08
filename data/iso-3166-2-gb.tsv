@@ -1,0 +1,244 @@
+; ISO 3166-2:GB
+; ISO source: https://www.iso.org/obp/ui/#iso:code:3166:GB
+; Extracted on: 20150531
+; 
+; Subdivision category	3166-2 code	Subdivision name	Language code	Romanization system	Parent subdivision
+council area	GB-ABE	Aberdeen City	en		GB-SCT
+council area	GB-ABD	Aberdeenshire	en		GB-SCT
+council area	GB-ANS	Angus	en		GB-SCT
+district council area	GB-ANT	Antrim	en		GB-NIR
+district council area	GB-ARD	Ards	en		GB-NIR
+council area	GB-AGB	Argyll and Bute	en		GB-SCT
+district council area	GB-ARM	Armagh	en		GB-NIR
+district council area	GB-BLA	Ballymena	en		GB-NIR
+district council area	GB-BLY	Ballymoney	en		GB-NIR
+district council area	GB-BNB	Banbridge	en		GB-NIR
+London borough	GB-BDG	Barking and Dagenham	en		GB-ENG
+London borough	GB-BNE	Barnet	en		GB-ENG
+metropolitan district	GB-BNS	Barnsley	en		GB-ENG
+unitary authority	GB-BAS	Bath and North East Somerset	en		GB-ENG
+unitary authority	GB-BDF	Bedford	en		GB-ENG
+district council area	GB-BFS	Belfast	en		GB-NIR
+London borough	GB-BEX	Bexley	en		GB-ENG
+metropolitan district	GB-BIR	Birmingham	en		GB-ENG
+unitary authority	GB-BBD	Blackburn with Darwen	en		GB-ENG
+unitary authority	GB-BPL	Blackpool	en		GB-ENG
+unitary authority	GB-BGW	Blaenau Gwent	en		GB-WLS
+metropolitan district	GB-BOL	Bolton	en		GB-ENG
+unitary authority	GB-BMH	Bournemouth	en		GB-ENG
+unitary authority	GB-BRC	Bracknell Forest	en		GB-ENG
+metropolitan district	GB-BRD	Bradford	en		GB-ENG
+London borough	GB-BEN	Brent	en		GB-ENG
+unitary authority	GB-BGE	Bridgend [Pen-y-bont ar Ogwr GB-POG]	en		GB-WLS
+unitary authority	GB-BNH	Brighton and Hove	en		GB-ENG
+unitary authority	GB-BST	Bristol, City of	en		GB-ENG
+London borough	GB-BRY	Bromley	en		GB-ENG
+two-tier county	GB-BKM	Buckinghamshire	en		GB-ENG
+metropolitan district	GB-BUR	Bury	en		GB-ENG
+unitary authority	GB-CAY	Caerphilly [Caerffili GB-CAF]	en		GB-WLS
+metropolitan district	GB-CLD	Calderdale	en		GB-ENG
+two-tier county	GB-CAM	Cambridgeshire	en		GB-ENG
+London borough	GB-CMD	Camden	en		GB-ENG
+unitary authority	GB-CRF	Cardiff [Caerdydd GB-CRD]	en		GB-WLS
+unitary authority	GB-CMN	Carmarthenshire [Sir Gaerfyrddin GB-GFY]	en		GB-WLS
+district council area	GB-CKF	Carrickfergus	en		GB-NIR
+district council area	GB-CSR	Castlereagh	en		GB-NIR
+unitary authority	GB-CBF*	Central Bedfordshire	en		GB-ENG
+unitary authority	GB-CGN	Ceredigion [Sir Ceredigion]	en		GB-WLS
+unitary authority	GB-CHE*	Cheshire East	en		GB-ENG
+unitary authority	GB-CHW*	Cheshire West and Chester	en		GB-ENG
+council area	GB-CLK	Clackmannanshire	en		GB-SCT
+district council area	GB-CLR	Coleraine	en		GB-NIR
+unitary authority	GB-CWY	Conwy	en		GB-WLS
+district council area	GB-CKT	Cookstown	en		GB-NIR
+unitary authority	GB-CON	Cornwall	en		GB-ENG
+metropolitan district	GB-COV	Coventry	en		GB-ENG
+district council area	GB-CGV	Craigavon	en		GB-NIR
+London borough	GB-CRY	Croydon	en		GB-ENG
+two-tier county	GB-CMA	Cumbria	en		GB-ENG
+unitary authority	GB-DAL	Darlington	en		GB-ENG
+unitary authority	GB-DEN	Denbighshire [Sir Ddinbych GB-DDB]	en		GB-WLS
+unitary authority	GB-DER	Derby	en		GB-ENG
+two-tier county	GB-DBY	Derbyshire	en		GB-ENG
+district council area	GB-DRY	Derry	en		GB-NIR
+two-tier county	GB-DEV	Devon	en		GB-ENG
+metropolitan district	GB-DNC	Doncaster	en		GB-ENG
+two-tier county	GB-DOR	Dorset	en		GB-ENG
+district council area	GB-DOW	Down	en		GB-NIR
+metropolitan district	GB-DUD	Dudley	en		GB-ENG
+council area	GB-DGY	Dumfries and Galloway	en		GB-SCT
+council area	GB-DND	Dundee City	en		GB-SCT
+district council area	GB-DGN	Dungannon and South Tyrone	en		GB-NIR
+unitary authority	GB-DUR	Durham County	en		GB-ENG
+London borough	GB-EAL	Ealing	en		GB-ENG
+council area	GB-EAY	East Ayrshire	en		GB-SCT
+council area	GB-EDU	East Dunbartonshire	en		GB-SCT
+council area	GB-ELN	East Lothian	en		GB-SCT
+council area	GB-ERW	East Renfrewshire	en		GB-SCT
+unitary authority	GB-ERY	East Riding of Yorkshire	en		GB-ENG
+two-tier county	GB-ESX	East Sussex	en		GB-ENG
+council area	GB-EDH	Edinburgh, City of	en		GB-SCT
+council area	GB-ELS	Eilean Siar	en		GB-SCT
+London borough	GB-ENF	Enfield	en		GB-ENG
+country	GB-ENG	England	en		
+nation	GB-EAW	England and Wales	en		
+two-tier county	GB-ESS	Essex	en		GB-ENG
+council area	GB-FAL	Falkirk	en		GB-SCT
+district council area	GB-FER	Fermanagh	en		GB-NIR
+council area	GB-FIF	Fife	en		GB-SCT
+unitary authority	GB-FLN	Flintshire [Sir y Fflint GB-FFL]	en		GB-WLS
+metropolitan district	GB-GAT	Gateshead	en		GB-ENG
+council area	GB-GLG	Glasgow City	en		GB-SCT
+two-tier county	GB-GLS	Gloucestershire	en		GB-ENG
+nation	GB-GBN	Great Britain	en		
+London borough	GB-GRE	Greenwich	en		GB-ENG
+unitary authority	GB-GWN	Gwynedd	en		GB-WLS
+London borough	GB-HCK	Hackney	en		GB-ENG
+unitary authority	GB-HAL	Halton	en		GB-ENG
+London borough	GB-HMF	Hammersmith and Fulham	en		GB-ENG
+two-tier county	GB-HAM	Hampshire	en		GB-ENG
+London borough	GB-HRY	Haringey	en		GB-ENG
+London borough	GB-HRW	Harrow	en		GB-ENG
+unitary authority	GB-HPL	Hartlepool	en		GB-ENG
+London borough	GB-HAV	Havering	en		GB-ENG
+unitary authority	GB-HEF	Herefordshire	en		GB-ENG
+two-tier county	GB-HRT	Hertfordshire	en		GB-ENG
+council area	GB-HLD	Highland	en		GB-SCT
+London borough	GB-HIL	Hillingdon	en		GB-ENG
+London borough	GB-HNS	Hounslow	en		GB-ENG
+council area	GB-IVC	Inverclyde	en		GB-SCT
+unitary authority	GB-AGY	Isle of Anglesey [Sir Ynys Môn GB-YNM]	en		GB-WLS
+unitary authority	GB-IOW	Isle of Wight	en		GB-ENG
+unitary authority	GB-IOS*	Isles of Scilly	en		GB-ENG
+London borough	GB-ISL	Islington	en		GB-ENG
+London borough	GB-KEC	Kensington and Chelsea	en		GB-ENG
+two-tier county	GB-KEN	Kent	en		GB-ENG
+unitary authority	GB-KHL	Kingston upon Hull	en		GB-ENG
+London borough	GB-KTT	Kingston upon Thames	en		GB-ENG
+metropolitan district	GB-KIR	Kirklees	en		GB-ENG
+metropolitan district	GB-KWL	Knowsley	en		GB-ENG
+London borough	GB-LBH	Lambeth	en		GB-ENG
+two-tier county	GB-LAN	Lancashire	en		GB-ENG
+district council area	GB-LRN	Larne	en		GB-NIR
+metropolitan district	GB-LDS	Leeds	en		GB-ENG
+unitary authority	GB-LCE	Leicester	en		GB-ENG
+two-tier county	GB-LEC	Leicestershire	en		GB-ENG
+London borough	GB-LEW	Lewisham	en		GB-ENG
+district council area	GB-LMV	Limavady	en		GB-NIR
+two-tier county	GB-LIN	Lincolnshire	en		GB-ENG
+district council area	GB-LSB	Lisburn	en		GB-NIR
+metropolitan district	GB-LIV	Liverpool	en		GB-ENG
+city corporation	GB-LND	London, City of	en		GB-ENG
+unitary authority	GB-LUT	Luton	en		GB-ENG
+district council area	GB-MFT	Magherafelt	en		GB-NIR
+metropolitan district	GB-MAN	Manchester	en		GB-ENG
+unitary authority	GB-MDW	Medway	en		GB-ENG
+unitary authority	GB-MTY	Merthyr Tydfil [Merthyr Tudful GB-MTU]	en		GB-WLS
+London borough	GB-MRT	Merton	en		GB-ENG
+unitary authority	GB-MDB	Middlesbrough	en		GB-ENG
+council area	GB-MLN	Midlothian	en		GB-SCT
+unitary authority	GB-MIK	Milton Keynes	en		GB-ENG
+unitary authority	GB-MON	Monmouthshire [Sir Fynwy GB-FYN]	en		GB-WLS
+council area	GB-MRY	Moray	en		GB-SCT
+district council area	GB-MYL	Moyle	en		GB-NIR
+unitary authority	GB-NTL	Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]	en		GB-WLS
+metropolitan district	GB-NET	Newcastle upon Tyne	en		GB-ENG
+London borough	GB-NWM	Newham	en		GB-ENG
+unitary authority	GB-NWP	Newport [Casnewydd GB-CNW]	en		GB-WLS
+district council area	GB-NYM	Newry and Mourne	en		GB-NIR
+district council area	GB-NTA	Newtownabbey	en		GB-NIR
+two-tier county	GB-NFK	Norfolk	en		GB-ENG
+two-tier county	GB-NTH	Northamptonshire	en		GB-ENG
+council area	GB-NAY	North Ayrshire	en		GB-SCT
+district council area	GB-NDN	North Down	en		GB-NIR
+unitary authority	GB-NEL	North East Lincolnshire	en		GB-ENG
+province	GB-NIR	Northern Ireland	en		
+council area	GB-NLK	North Lanarkshire	en		GB-SCT
+unitary authority	GB-NLN	North Lincolnshire	en		GB-ENG
+unitary authority	GB-NSM	North Somerset	en		GB-ENG
+metropolitan district	GB-NTY	North Tyneside	en		GB-ENG
+unitary authority	GB-NBL	Northumberland	en		GB-ENG
+two-tier county	GB-NYK	North Yorkshire	en		GB-ENG
+unitary authority	GB-NGM	Nottingham	en		GB-ENG
+two-tier county	GB-NTT	Nottinghamshire	en		GB-ENG
+metropolitan district	GB-OLD	Oldham	en		GB-ENG
+district council area	GB-OMH	Omagh	en		GB-NIR
+council area	GB-ORK	Orkney Islands	en		GB-SCT
+two-tier county	GB-OXF	Oxfordshire	en		GB-ENG
+unitary authority	GB-PEM	Pembrokeshire [Sir Benfro GB-BNF]	en		GB-WLS
+council area	GB-PKN	Perth and Kinross	en		GB-SCT
+unitary authority	GB-PTE	Peterborough	en		GB-ENG
+unitary authority	GB-PLY	Plymouth	en		GB-ENG
+unitary authority	GB-POL	Poole	en		GB-ENG
+unitary authority	GB-POR	Portsmouth	en		GB-ENG
+unitary authority	GB-POW	Powys	en		GB-WLS
+unitary authority	GB-RDG	Reading	en		GB-ENG
+London borough	GB-RDB	Redbridge	en		GB-ENG
+unitary authority	GB-RCC	Redcar and Cleveland	en		GB-ENG
+council area	GB-RFW	Renfrewshire	en		GB-SCT
+unitary authority	GB-RCT	Rhondda, Cynon, Taff [Rhondda, Cynon,Taf]	en		GB-WLS
+London borough	GB-RIC	Richmond upon Thames	en		GB-ENG
+metropolitan district	GB-RCH	Rochdale	en		GB-ENG
+metropolitan district	GB-ROT	Rotherham	en		GB-ENG
+unitary authority	GB-RUT	Rutland	en		GB-ENG
+metropolitan district	GB-SLF	Salford	en		GB-ENG
+metropolitan district	GB-SAW	Sandwell	en		GB-ENG
+country	GB-SCT	Scotland	en		
+council area	GB-SCB	Scottish Borders, The	en		GB-SCT
+metropolitan district	GB-SFT	Sefton	en		GB-ENG
+metropolitan district	GB-SHF	Sheffield	en		GB-ENG
+council area	GB-ZET	Shetland Islands	en		GB-SCT
+unitary authority	GB-SHR	Shropshire	en		GB-ENG
+unitary authority	GB-SLG	Slough	en		GB-ENG
+metropolitan district	GB-SOL	Solihull	en		GB-ENG
+two-tier county	GB-SOM	Somerset	en		GB-ENG
+unitary authority	GB-STH	Southampton	en		GB-ENG
+council area	GB-SAY	South Ayrshire	en		GB-SCT
+unitary authority	GB-SOS	Southend-on-Sea	en		GB-ENG
+unitary authority	GB-SGC	South Gloucestershire	en		GB-ENG
+council area	GB-SLK	South Lanarkshire	en		GB-SCT
+metropolitan district	GB-STY	South Tyneside	en		GB-ENG
+London borough	GB-SWK	Southwark	en		GB-ENG
+metropolitan district	GB-SHN	St. Helens	en		GB-ENG
+two-tier county	GB-STS	Staffordshire	en		GB-ENG
+council area	GB-STG	Stirling	en		GB-SCT
+metropolitan district	GB-SKP	Stockport	en		GB-ENG
+unitary authority	GB-STT	Stockton-on-Tees	en		GB-ENG
+unitary authority	GB-STE	Stoke-on-Trent	en		GB-ENG
+district council area	GB-STB	Strabane	en		GB-NIR
+two-tier county	GB-SFK	Suffolk	en		GB-ENG
+metropolitan district	GB-SND	Sunderland	en		GB-ENG
+two-tier county	GB-SRY	Surrey	en		GB-ENG
+London borough	GB-STN	Sutton	en		GB-ENG
+unitary authority	GB-SWA	Swansea [Abertawe GB-ATA]	en		GB-WLS
+unitary authority	GB-SWD	Swindon	en		GB-ENG
+metropolitan district	GB-TAM	Tameside	en		GB-ENG
+unitary authority	GB-TFW	Telford and Wrekin	en		GB-ENG
+unitary authority	GB-THR	Thurrock	en		GB-ENG
+unitary authority	GB-TOB	Torbay	en		GB-ENG
+unitary authority	GB-TOF	Torfaen [Tor-faen]	en		GB-WLS
+London borough	GB-TWH	Tower Hamlets	en		GB-ENG
+metropolitan district	GB-TRF	Trafford	en		GB-ENG
+nation	GB-UKM	United Kingdom	en		
+unitary authority	GB-VGL	Vale of Glamorgan, The [Bro Morgannwg GB-BMG]	en		GB-WLS
+metropolitan district	GB-WKF	Wakefield	en		GB-ENG
+country	GB-WLS	Wales [Cymru GB-CYM]	en		
+metropolitan district	GB-WLL	Walsall	en		GB-ENG
+London borough	GB-WFT	Waltham Forest	en		GB-ENG
+London borough	GB-WND	Wandsworth	en		GB-ENG
+unitary authority	GB-WRT	Warrington	en		GB-ENG
+two-tier county	GB-WAR	Warwickshire	en		GB-ENG
+unitary authority	GB-WBK	West Berkshire	en		GB-ENG
+council area	GB-WDU	West Dunbartonshire	en		GB-SCT
+council area	GB-WLN	West Lothian	en		GB-SCT
+London borough	GB-WSM	Westminster	en		GB-ENG
+two-tier county	GB-WSX	West Sussex	en		GB-ENG
+metropolitan district	GB-WGN	Wigan	en		GB-ENG
+unitary authority	GB-WIL	Wiltshire	en		GB-ENG
+unitary authority	GB-WNM	Windsor and Maidenhead	en		GB-ENG
+metropolitan district	GB-WRL	Wirral	en		GB-ENG
+unitary authority	GB-WOK	Wokingham	en		GB-ENG
+metropolitan district	GB-WLV	Wolverhampton	en		GB-ENG
+two-tier county	GB-WOR	Worcestershire	en		GB-ENG
+unitary authority	GB-WRX	Wrexham [Wrecsam GB-WRC]	en		GB-WLS
+unitary authority	GB-YOR	York	en		GB-ENG
