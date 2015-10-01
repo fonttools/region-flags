@@ -2,16 +2,17 @@
 
 mkdir -p html svg png
 IFS='	'
-while read from to; do
+while read dst src; do
 
 	for dir in html svg png; do
-		f="$dir/$from.$dir"
+		s="$dir/$src.$dir"
+		d="$dir/$dst.$dir"
 
-		if test -f "$f"; then
-			echo "ERROR: $f exist; skipping"
+		if test -f "$d"; then
+			echo "ERROR: $d exist; skipping"
 			continue
 		fi
-		ln -s "$to.$dir" "$f"
+		cp -f "$s" "$d"
 
 	done
 done < data/ALIASES
