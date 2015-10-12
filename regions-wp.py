@@ -10,7 +10,7 @@ def load_region_wp_urls(region_keys_names):
     for region_key, region_name in region_keys_names.items():
 
         # Apply Wikipedia-specific mappings
-        region_name = aliases_wp.get(region_name, region_name)
+        region_name = aliases_wp.get(region_key, aliases_wp.get(region_name, region_name))
         region_name = region_name.replace(' ', '_')
         urls[region_key] = "https://commons.wikimedia.org/wiki/File:Flag_of_%s.svg" % region_name
 
