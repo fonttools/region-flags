@@ -28,7 +28,7 @@ regional or political parent. These are listed in file `ALIASES`.
 
 The sub-regions currently covered are:
 
-- US states
+- US states and the District of Columbia
 - Countries of England, Scotland, and Wales in Great Britain
 - The province Northern Ireland in Great Britain
 
