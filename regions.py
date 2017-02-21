@@ -70,7 +70,7 @@ def load_subregions():
 
     subregions = [e for e in entries if
                   e['Subdivision category']
-                  in ['province', 'country', 'state']] # US states, plus countries of GB
+                  in ['province', 'country', 'state', 'district']] # US states and DC, plus countries of GB
 
     subregions = {e['3166-2 code']: e for e in subregions}
 
