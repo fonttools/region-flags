@@ -1,0 +1,31 @@
+; ISO 3166-2:CA
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:CA
+; Extracted on: 20170221
+; 
+; Subdivision category	3166-2 code	Subdivision name	Language code	Romanization system	Parent subdivision
+province	CA-AB	Alberta	fr		
+province	CA-AB	Alberta	en		
+province	CA-BC	British Columbia	en		
+province	CA-BC	Colombie-Britannique	fr		
+province	CA-PE	Île-du-Prince-Édouard	fr		
+province	CA-MB	Manitoba	en		
+province	CA-MB	Manitoba	fr		
+province	CA-NB	New Brunswick	en		
+province	CA-NL	Newfoundland and Labrador	en		
+territory	CA-NT	Northwest Territories	en		
+province	CA-NB	Nouveau-Brunswick	fr		
+province	CA-NS	Nouvelle-Écosse	fr		
+province	CA-NS	Nova Scotia	en		
+territory	CA-NU	Nunavut	fr		
+territory	CA-NU	Nunavut	en		
+province	CA-ON	Ontario	fr		
+province	CA-ON	Ontario	en		
+province	CA-PE	Prince Edward Island	en		
+province	CA-QC	Quebec	en		
+province	CA-QC	Québec	fr		
+province	CA-SK	Saskatchewan	fr		
+province	CA-SK	Saskatchewan	en		
+province	CA-NL	Terre-Neuve-et-Labrador	fr		
+territory	CA-NT	Territoires du Nord-Ouest	fr		
+territory	CA-YT	Yukon	fr		
+territory	CA-YT	Yukon	en		

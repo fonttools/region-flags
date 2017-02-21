@@ -2,7 +2,8 @@
 
 This package is a collection of flags for geographic region and sub-region codes.
 The regions are based on the data from [BCP 47][0] and selected sub-regions (US
-states and some sub-regions of Great Britain) are based on [ISO 3166-2:US][1] and [ISO-3166-2:GB][2].
+states, Canadian provinces and territories, and some sub-regions of Great Britain)
+are based on [ISO 3166-2:US][1], [ISO 3166-2:CA][2], and [ISO-3166-2:GB][2].
 
 Most people think of these regions from BCP 47 as country flags, but there are a
 few codes / flags that do not correspond to countries. The flags are in SVG and
@@ -29,6 +30,7 @@ regional or political parent. These are listed in file `ALIASES`.
 The sub-regions currently covered are:
 
 - US states and the District of Columbia
+- Canadian provinces and territories
 - Countries of England, Scotland, and Wales in Great Britain
 - The province Northern Ireland in Great Britain
 
@@ -88,3 +90,4 @@ See file `COPYING` for details.
 [0]: http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry
 [1]: https://www.iso.org/obp/ui/#iso:code:3166:US
 [2]: https://www.iso.org/obp/ui/#iso:code:3166:GB
+[3]: https://www.iso.org/obp/ui/#iso:code:3166:CA
