@@ -1,7 +1,8 @@
 #!/usr/bin/env sh
 
 IFS='    '
-python3 ./regions-wp.py |
+
+cat SOURCES |
 while read region htmlurl ; do
 
 	html="html/$region.html"
