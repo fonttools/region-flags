@@ -12,7 +12,7 @@
 <rect height="480" width="840" fill="#ce1126"/>
 <rect height="480" width="560" fill="#fff"/>
 <rect height="480" width="280" fill="#006847"/>
-<g id="coa">
+<g id="coa" transform="translate(-0.0014,1.3532)">
 <g id="branches">
 <g fill="#fcca3e" stroke="#aa8c30">
 <path stroke-width="0.35" d="m466.96,303.53,0,0,0.29345,5.8781,2.2196-1.4668-1.702-4.8389z"/>
