@@ -3,7 +3,6 @@
 from regions import load_regions, load_subregions, load_aliases
 
 def load_region_wp_urls(region_keys_names):
-
     aliases_wp = load_aliases("data/ALIASES-WP")
     urls = {}
 

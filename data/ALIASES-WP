@@ -12,8 +12,6 @@ European Union	Europe
 Falkland Islands (Malvinas)	the Falkland Islands
 Faroe Islands	the Faroe Islands
 Guadeloupe	Guadeloupe (local)
-US-DC	Washington, D.C.
-US-GA	Georgia (U.S. state)
 Holy See (Vatican City State)	the Vatican City
 Islamic Republic of Iran	Iran
 Isle of Man	the Isle of Man
@@ -22,6 +20,10 @@ Lao People's Democratic Republic	Laos
 Macao	Macau
 Marshall Islands	the Marshall Islands
 Mayotte	Mayotte (local)
+MX-CMX	Mexican Federal District
+MX-COA	Coahuila
+MX-MIC	Michoacan
+MX-VER	Veracruz
 Northern Mariana Islands	the Northern Mariana Islands
 Pitcairn	Pitcairn Islands
 Saint Helena, Ascension and Tristan da Cunha	Saint Helena
@@ -37,5 +39,7 @@ Timor-Leste	East Timor
 Turks and Caicos Islands	the Turks and Caicos Islands
 United Nations	the United Nations
 United Republic of Tanzania	Tanzania
+US-DC	Washington, D.C.
+US-GA	Georgia (U.S. state)
 U.S. Virgin Islands	the United States Virgin Islands
 Viet Nam	Vietnam
