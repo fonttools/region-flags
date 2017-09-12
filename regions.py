@@ -5,8 +5,10 @@ import unicodedata
 
 
 def load_aliases(filename):
-    return dict([[x.strip() for x in line.split('\t')]
-                 for line in open(filename, encoding='utf-8')])
+    return dict([
+        [x.strip() for x in line.split('\t')]
+        for line in open(filename, encoding='utf-8')
+    ])
 
 
 def load_region_entries(filename):
@@ -33,31 +35,20 @@ def load_region_entries(filename):
     return entries
 
 
-def load_subregion_entries(filename):
-    entries = []
-    subregions_file_obj = open(filename, encoding='utf-8')
-    schema = ['Subdivision category', '3166-2 code',
-              'Subdivision name', 'Language code',
-              'Romanization system', 'Parent subdivision']
-    for line in subregions_file_obj:
-        if line.startswith(';') == False:
-            fields = [x for x in line.strip('\n').split('\t')]
-            entries.append({k: v for k, v in zip(schema, fields)})
-    return entries
-
-
 def load_regions():
     entries = []
     entries.extend(load_region_entries('data/language-subtag-registry'))
     entries.extend(load_region_entries('data/language-subtag-private'))
 
-    regions = [e for e in entries if
-               e['Type'] == 'region' and
-               len(e['Subtag']) == 2 and
-               e['Description'] != 'Private use' and
-               'Deprecated' not in e]
+    regions = {
+        e['Subtag']: e
+        for e in entries
+        if e['Type'] == 'region'
+        and len(e['Subtag']) == 2
+        and e['Description'] != 'Private use'
+        and 'Deprecated' not in e
+    }
 
-    regions = {e['Subtag']:e for e in regions}
     for r_val_key in regions.values():
         del r_val_key['Type']
         del r_val_key['Subtag']
@@ -71,49 +62,70 @@ def strip_accents(s):
         if unicodedata.category(c) != 'Mn'
     )
 
+def strip_brackets(s):
+    return re.sub(r' \[.*\]', '', s)
+
+
+def load_subregion_entries(filename):
+    entries = []
+    subregions_file_obj = open(filename, encoding='utf-8')
+    schema = [
+        'Subdivision category',
+        '3166-2 code',
+        'Subdivision name',
+        'Language code',
+        'Romanization system',
+        'Parent subdivision',
+    ]
+    for line in subregions_file_obj:
+        if line.startswith(';') == False:
+            fields = [x for x in line.strip('\n').split('\t')]
+            entries.append({k: v for k, v in zip(schema, fields)})
+    return entries
+
 
 def load_subregions():
-    subregions = []
+    subregions = {}
 
-    # US states and DC
-    subregions.extend([
-        e
+    # US: States (50) and DC
+    subregions.update({
+        e['3166-2 code']: {
+            'Subdivision name': e['Subdivision name'],
+        }
         for e in load_subregion_entries('data/iso-3166-2-us.tsv')
         if e['Language code'] == 'en'
         and e['Subdivision category'] in ['state', 'district']
-    ])
+    })
 
-    # Countries of GB
-    subregions.extend([
-        e
+    # GB: Countries (3) and provinces (1)
+    subregions.update({
+        e['3166-2 code']: {
+            'Subdivision name': strip_brackets(e['Subdivision name']),
+        }
         for e in load_subregion_entries('data/iso-3166-2-gb.tsv')
         if e['Language code'] == 'en'
         and e['Subdivision category'] in ['country', 'province']
-    ])
+    })
 
-    # Provinces and territories of Canada
-    subregions.extend([
-        e
+    # CA: Provinces (10) and territories (3)
+    subregions.update({
+        e['3166-2 code']: {
+            'Subdivision name': e['Subdivision name'],
+        }
         for e in load_subregion_entries('data/iso-3166-2-ca.tsv')
         if e['Language code'] == 'en'
         and e['Subdivision category'] in ['province', 'territory']
-    ])
+    })
 
-    # MX states and federal district
-    subregions.extend([
-        e
+    # MX: States (31) and CDMX
+    subregions.update({
+        e['3166-2 code']: {
+            'Subdivision name': strip_accents(e['Subdivision name']),
+        }
         for e in load_subregion_entries('data/iso-3166-2-mx.tsv')
         if e['Language code'] == 'es'
         and e['Subdivision category'] in ['state', 'federal district']
-    ])
-
-    subregions = {e['3166-2 code']: e for e in subregions}
-
-    for r_val_key in subregions.values():
-        del r_val_key['3166-2 code'], r_val_key['Romanization system'], r_val_key['Language code']
-        r_val_key['Subdivision name'] = strip_accents(
-            re.sub(r' \[.*\]', '', r_val_key['Subdivision name'])
-        )
+    })
 
     return subregions
 
