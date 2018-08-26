@@ -1,0 +1,82 @@
+; ISO 3166-2:ES
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:ES
+; Extracted on: 20180826
+;
+; Subdivision category	3166-2 code	Subdivision name	Romanization system	Parent subdivision
+province	ES-C	A Coruña [La Coruña]	gl		ES-GA
+province	ES-A	Alacant*	ca		ES-VC
+province	ES-AB	Albacete	es		ES-CM
+province	ES-A	Alicante	es		ES-VC
+province	ES-AL	Almería	es		ES-AN
+autonomous community	ES-AN*	Andalucía	es
+province	ES-VI	Araba*	eu		ES-PV
+autonomous community	ES-AR*	Aragón	es
+province	ES-O	Asturias	es		ES-AS
+autonomous community	ES-AS*	Asturias, Principado de	es
+province	ES-BA	Badajoz	es		ES-EX
+province	ES-PM	Balears [Baleares]	ca		ES-IB
+province	ES-B	Barcelona [Barcelona]	es		ES-CT
+province	ES-BI	Bizkaia	eu		ES-PV
+province	ES-BU	Burgos	es		ES-CL
+autonomous community	ES-CN*	Canarias	es
+autonomous community	ES-CB*	Cantabria	es
+province	ES-S	Cantabria	es		ES-CB
+province	ES-CS	Castelló*	ca		ES-VC
+province	ES-CS	Castellón	es		ES-VC
+autonomous community	ES-CL*	Castilla y León	es
+autonomous community	ES-CM*	Castilla-La Mancha	es
+autonomous community	ES-CT*	Catalunya [Cataluña]	ca
+autonomous city in North Africa	ES-CE	Ceuta	es
+province	ES-CR	Ciudad Real	es		ES-CM
+province	ES-CU	Cuenca	es		ES-CM
+province	ES-CC	Cáceres	es		ES-EX
+province	ES-CA	Cádiz	es		ES-AN
+province	ES-CO	Córdoba	es		ES-AN
+autonomous community	ES-PV*	Euskal Herria	eu
+autonomous community	ES-EX*	Extremadura	es
+autonomous community	ES-GA*	Galicia [Galicia]	gl
+province	ES-SS	Gipuzkoa	eu		ES-PV
+province	ES-GI	Girona [Gerona]	ca		ES-CT
+province	ES-GR	Granada	es		ES-AN
+province	ES-GU	Guadalajara	es		ES-CM
+province	ES-H	Huelva	es		ES-AN
+province	ES-HU	Huesca	es		ES-AR
+autonomous community	ES-IB*	Illes Balears [Islas Baleares]	ca
+province	ES-J	Jaén	es		ES-AN
+autonomous community	ES-RI*	La Rioja	es
+province	ES-LO	La Rioja	es		ES-RI
+province	ES-GC	Las Palmas	es		ES-CN
+province	ES-LE	León	es		ES-CL
+province	ES-L	Lleida [Lérida]	ca		ES-CT
+province	ES-LU	Lugo [Lugo]	gl		ES-GA
+province	ES-M	Madrid	es		ES-MD
+autonomous community	ES-MD*	Madrid, Comunidad de	es
+autonomous city in North Africa	ES-ML	Melilla	es
+province	ES-MU	Murcia	es		ES-MC
+autonomous community	ES-MC*	Murcia, Región de	es
+province	ES-MA	Málaga	es		ES-AN
+province	ES-NA	Nafarroa*	eu		ES-NC
+autonomous community	ES-NC*	Nafarroako Foru Komunitatea*	eu
+province	ES-NA	Navarra	es		ES-NC
+autonomous community	ES-NC*	Navarra, Comunidad Foral de	es
+province	ES-OR	Ourense [Orense]	gl		ES-GA
+province	ES-P	Palencia	es		ES-CL
+autonomous community	ES-PV*	País Vasco	es
+province	ES-PO	Pontevedra [Pontevedra]	gl		ES-GA
+province	ES-SA	Salamanca	es		ES-CL
+province	ES-TF	Santa Cruz de Tenerife	es		ES-CN
+province	ES-SG	Segovia	es		ES-CL
+province	ES-SE	Sevilla	es		ES-AN
+province	ES-SO	Soria	es		ES-CL
+province	ES-T	Tarragona [Tarragona]	ca		ES-CT
+province	ES-TE	Teruel	es		ES-AR
+province	ES-TO	Toledo	es		ES-CM
+province	ES-V	Valencia	es		ES-VC
+autonomous community	ES-VC*	Valenciana, Comunidad	es
+autonomous community	ES-VC*	Valenciana, Comunitat*	ca
+province	ES-VA	Valladolid	es		ES-CL
+province	ES-V	València*	ca		ES-VC
+province	ES-ZA	Zamora	es		ES-CL
+province	ES-Z	Zaragoza	es		ES-AR
+province	ES-VI	Álava	es		ES-PV
+province	ES-AV	Ávila	es		ES-CL
