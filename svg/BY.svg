@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="900" height="450" viewBox="0 0 1098 549">
+<?xml version="1.0"?>
+<svg version="1.1" width="900" height="450" viewBox="0 0 9000 4500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>Flag of Belarus</title>
-<rect fill="#C8313E" width="1098" height="549"/>
-<rect y="366" fill="#4AA657" width="1098" height="183"/>
-<rect fill="#FFF" width="122" height="549"/>
-<g id="h">
-<g id="q" fill="#C8313E" fill-rule="evenodd" transform="scale(5.304347826,9)">
-<path d="M4,0h3v1h1v1h1v1h1v1h1v1h-1v1h-1v1h-1v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h1v-1h1v-1h1v-1h1zM5,2h1v1h1v1h1v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h1v-1h1zM5,4h1v1h-1zM0,1h1v1h-1zM0,7h1v1h-1zM11,0h0.6v2h-.6zM11,7h.6v2h-.6zM2,9h1v1h1v1h1v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h1v-1h1zM2,11h1v1h-1zM8,9h1v1h1v1h1v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h1v-1h1zM8,11h1v1h-1zM0,15h1v1h-1zM11,14h.6v2h-.6z"/>
-<path d="M0,18h1v-1h1v-1h1v-1h1v-1h1v-1h1v1h1v1h1v1h1v1h1v1h1v1h.6v4h-.6v1h-1v1h-1v1h-1v1h-1v1h-1v2.6h-2v-0.6h-1v-1h-1v-1h-1v-1h-1 v-3h1v1h1v1h1v1h1v-1h1v-1h1v-1h1v-1h1v-1h1v-1h-1v-1h-1v-1h-3v1h2v1h-1v1h-1v1h-1v-1h-1v-1h-1v-1h-1zM0,22h1v1h-1zM11,25h.6v1h-.6zM9,27h1v1h1v1h.6v1.6h-.6v-.6h-1v-1h-1zM7,30h1v.6h-1z"/>
+<rect width="100%" height="100%" fill="#c8313e"/>
+<rect y="3e3" width="100%" height="1500" fill="#4aa657"/>
+<rect width="1e3" height="100%" fill="#fff"/>
+<g id="a">
+<path id="b" d="m173.9 0h130.4v73.77h43.48v73.77h43.48v73.77h43.48v73.77h43.48v73.77h-43.48v73.77h-43.48v73.77h-43.48v73.77h-43.48v73.77h-43.48v73.77h-43.48v-73.77h-43.48v-73.77h-43.48v-73.77h-43.48v-73.77h-43.48v-73.77h-43.48v-73.77h43.48v-73.77h43.48v-73.77h43.48v-73.77h43.48zm43.48 147.5h43.48v73.77h43.48v73.77h43.48v73.77h-43.48v73.77h-43.48v73.77h-43.48v-73.77h-43.48v-73.77h-43.48v-73.77h43.48v-73.77h43.48zm0 147.5h43.48v73.77h-43.48zm-217.4-221.3h43.48v73.77h-43.48zm0 442.6h43.48v73.77h-43.48zm478.2-516.4h26.09v147.5h-26.09zm0 516.4h26.09v147.5h-26.09zm-391.3 147.5h43.48v73.77h43.48v73.77h43.48v73.77h-43.48v73.77h-43.48v73.77h-43.48v-73.77h-43.48v-73.77h-43.48v-73.77h43.48v-73.77h43.48zm0 147.5h43.48v73.77h-43.48zm260.9-147.5h43.48v73.77h43.48v73.77h43.48v73.77h-43.48v73.77h-43.48v73.77h-43.48v-73.77h-43.48v-73.77h-43.48v-73.77h43.48v-73.77h43.48zm0 147.5h43.48v73.77h-43.48zm-347.8 295.1h43.48v73.77h-43.48zm478.2-73.77h26.09v147.5h-26.09zm-478.2 295.1h43.48v-73.77h43.48v-73.77h43.48v-73.77h43.48v-73.77h43.48v-73.77h43.48v73.77h43.48v73.77h43.48v73.77h43.48v73.77h43.48v73.77h43.48v73.77h26.09v295.1h-26.09v73.77h-43.48v73.77h-43.48v73.77h-43.48v73.77h-43.48v73.77h-43.48v191.8h-86.95v-44.26h-43.48v-73.77h-43.48v-73.77h-43.48v-73.77h-43.48v-221.3h43.48v73.77h43.48v73.77h43.48v73.77h43.48v-73.77h43.48v-73.77h43.48v-73.77h43.48v-73.77h43.48v-73.77h43.48v-73.77h-43.48v-73.77h-43.48v-73.77h-130.4v73.77h86.95v73.77h-43.48v73.77h-43.48v73.77h-43.48v-73.77h-43.48v-73.77h-43.48v-73.77h-43.48zm0 295.1h43.48v73.77h-43.48zm478.2 221.3h26.09v73.77h-26.09zm-86.95 147.5h43.48v73.77h43.48v73.77h26.09v118h-26.09v-44.26h-43.48v-73.77h-43.48zm-86.95 221.3h43.48v44.26h-43.48z" fill="#c8313e" fill-rule="evenodd"/>
+<use transform="matrix(-1 0 0 1 1e3 0)" xlink:href="#b"/>
 </g>
-<use xlink:href="#q" transform="translate(122,0) scale(-1,1)"/>
-</g>
-<use xlink:href="#h" transform="translate(0,549) scale(1,-1)"/>
+<use transform="matrix(1 0 0 -1 0 4500)" xlink:href="#a"/>
 </svg>
