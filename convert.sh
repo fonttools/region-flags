@@ -10,6 +10,18 @@ echo "Options: yes, true, 1"
 echo -n "Do you want to optimize the converted file? "
 read OPTIPNGOP
 
+updatealiases(){
+    echo "Updating aliases!"
+    IFS='	'
+    while read dst src; do
+        for dir in png; do
+            s="$dir/$src.$dir"
+            d="$dir/$dst.$dir"
+            cp -f "$s" "$d"
+        done
+    done < data/ALIASES
+}
+
 rsvgconvert() {
     case $OPTIPNGOP in
         "yes" | "true" | "1")
@@ -78,6 +90,7 @@ usersvgconvert() {
         done
     fi
     
+    updatealiases
 }
 
 
