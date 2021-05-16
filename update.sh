@@ -6,5 +6,6 @@ python3 ./regions-wp.py > SOURCES
 rm -rf html svg png
 mkdir -p html svg png
 
-bash ./download-wp.sh
+bash ./download-wp.sh true
 bash ./make-aliases.sh
+
