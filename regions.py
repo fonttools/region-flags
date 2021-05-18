@@ -62,6 +62,12 @@ def strip_accents(s):
         if unicodedata.category(c) != 'Mn'
     )
 
+
+def full_title(s):
+    parts = s.split(", ")
+    return " ".join(parts[::-1])
+
+
 def strip_brackets(s):
     return re.sub(r' \[.*\]', '', s)
 
@@ -125,6 +131,17 @@ def load_subregions():
         for e in load_subregion_entries('data/iso-3166-2-mx.tsv')
         if e['Language code'] == 'es'
         and e['Subdivision category'] in ['state', 'federal district']
+    })
+
+    # ES: Autonomous communities(17) and autonomous cities in North Africa (2)
+    subregions.update({
+        e['3166-2 code'].rstrip("*"): {
+            'Subdivision name': full_title(strip_brackets(e['Subdivision name'])),
+        }
+        for e in load_subregion_entries('data/iso-3166-2-es.tsv')
+        if e['Subdivision category'] in ['autonomous community',
+                                         'autonomous city in North Africa']
+        and not e['Subdivision name'].endswith('*')
     })
 
     # AU: States (6) and territories (2)
