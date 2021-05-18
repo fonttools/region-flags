@@ -33,6 +33,7 @@ The sub-regions currently covered are:
 - Canadian provinces and territories
 - Countries of England, Scotland, and Wales in Great Britain
 - The province Northern Ireland in Great Britain
+- Australia's states and its two self-governing internal territories
 
 The flags are downloaded from Wikipedia. When Wikipedia flags were copyrighted,
 we worked we Wikipedia editors to either relicense them, or drew / sourced and
