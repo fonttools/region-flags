@@ -144,6 +144,16 @@ def load_subregions():
         and not e['Subdivision name'].endswith('*')
     })
 
+    # AU: States (6) and territories (2)
+    subregions.update({
+        e['3166-2 code']: {
+            'Subdivision name': e['Subdivision name'],
+        }
+        for e in load_subregion_entries('data/iso-3166-2-au.tsv')
+        if e['Language code'] == 'en'
+        and e['Subdivision category'] in ['state', 'territory']
+    })
+
     return subregions
 
 
