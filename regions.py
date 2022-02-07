@@ -154,6 +154,15 @@ def load_subregions():
         and e['Subdivision category'] in ['state', 'territory']
     })
 
+    # DE: Lands (16)
+    subregions.update({
+        e['3166-2 code']: {
+            'Subdivision name': e['Subdivision name'],
+        }
+        for e in load_subregion_entries('data/iso-3166-2-de.tsv')
+        if e['Subdivision category'] in ['land']
+    })
+
     return subregions
 
 
