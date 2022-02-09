@@ -6,6 +6,22 @@ Description: Kosovo
 Added: 2014-07-07
 %%
 Type: region
-Subtag: UN
-Description: United Nations
-Added: 2016-06-29
+Subtag: CQ
+Description: Island of Sark
+Added: 2005-10-16
+%%
+Type: region
+Subtag: FX
+Description: Metropolitan France
+Added: 2005-10-16
+Preferred-Value: FR
+%%
+Type: region
+Subtag: SU
+Description: Union of Soviet Socialist Republics
+Added: 2005-10-16
+%%
+Type: region
+Subtag: UK
+Description: United Kingdom
+Added: 2005-10-16
