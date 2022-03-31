@@ -123,6 +123,15 @@ def load_subregions():
         and e['Subdivision category'] in ['province', 'territory']
     })
 
+    # CO: departments (32) and capital districts (1)
+    subregions.update({
+        e['3166-2 code']: {
+            'Subdivision name': e['Subdivision name'],
+        }
+        for e in load_subregion_entries('data/iso-3166-2-co.tsv')
+        if e['Subdivision category'] in ['department', 'capital district']
+    })
+
     # MX: States (31) and CDMX
     subregions.update({
         e['3166-2 code']: {
