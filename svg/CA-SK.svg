@@ -1,8 +1,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
 "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="992.12598" height="496.06299" version="1">
-  <path fill="#076a21" fill-rule="evenodd" d="M0-.000004h992.12598v248.03149H0z"/>
-  <path fill="#fdd401" fill-rule="evenodd" d="M0 248.03149h992.12598v248.03149H0z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="992" height="496" version="1">
+  <path fill="#076a21" fill-rule="evenodd" d="M0-.000004h992v496H0z"/>
+  <path fill="#fdd401" fill-rule="evenodd" d="M0 248.03149h992v248H0z"/>
   <path fill="none" stroke="#000" stroke-width="1.89796" d="M782.439509 189.739493l-4.859688-38.337545"/>
   <g stroke="#003d00" stroke-width="1.245536">
     <path fill="#016b29" fill-rule="evenodd" d="M825.469471 373.478852s-13.543301-9.849665-15.390127-20.314953c-1.846811-10.465273-3.078014-24.624197-3.078014-24.624197l9.84968 5.540448s1.231216 14.15891 1.84681 20.314952c.615609 6.156057 6.771651 19.08375 6.771651 19.08375zm20.427009-118.780527c10.421373-.821229 10.96884 15.974533 10.96884 15.974533s-18.468141-9.849679-26.47101-9.849679c-8.002853 0 15.50217-6.124854 15.50217-6.124854z"/>

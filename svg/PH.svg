@@ -1,109 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="900"
-   height="450"
-   viewBox="0 0 180 90"
-   id="svg4650"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="Flag_of_the_Philippines.svg">
-  <rect
-     width="180"
-     height="90"
-     fill="#0038a8"
-     id="rect4656" />
-  <rect
-     y="45"
-     width="180"
-     height="45"
-     fill="#ce1126"
-     id="rect4658" />
-  <path
-     d="M 77.942286,45 0,90 0,0"
-     fill="#fff"
-     id="path4660" />
-  <path
-     style="fill:#fcd116;fill-opacity:1;stroke:none"
-     d="M 22.5,38.971146 36.045287,50.676561 51.728267,42.043159 44.781476,58.542664 57.838635,70.790198 40,69.282035 32.38679,85.484828 28.308694,68.053229 10.546308,65.819574 25.864543,56.554416 z"
-     id="path4820"
-     inkscape:connector-curvature="0"
-     transform="scale(0.2,0.2)"
-     sodipodi:nodetypes="ccccccccccc" />
-  <path
-     style="fill:#fcd116;fill-opacity:1;stroke:none"
-     d="M 327.43685,201.22358 327.8016,219.12214 344.71143,225 327.8016,230.87785 327.43685,248.77642 316.62126,234.51056 299.486,239.69463 309.71143,225 299.486,210.30537 l 17.13526,5.18407 z"
-     id="path5330"
-     inkscape:connector-curvature="0"
-     transform="scale(0.2,0.2)"
-     sodipodi:nodetypes="ccccccccccc" />
-  <path
-     style="fill:#fcd116;fill-opacity:1;stroke:none"
-     d="M 32.38679,364.51517 40,380.71797 l 17.838635,-1.50817 -13.057159,12.24754 6.946791,16.4995 -15.68298,-8.6334 L 22.5,411.02885 l 3.364543,-17.58327 -15.318235,-9.26515 17.762386,-2.23366 z"
-     id="path5332"
-     inkscape:connector-curvature="0"
-     transform="scale(0.2,0.2)"
-     sodipodi:nodetypes="ccccccccccc" />
-  <path
-     inkscape:connector-curvature="0"
-     id="circle3059"
-     d="m 27.999998,26 -1.1685,1.1685 0.5795,8.85044 c -0.19703,0.0127 -0.39206,0.0318 -0.58544,0.057 l -1.064,-8.07619 -0.95356,0.95356 1.43569,7.21881 c -1.18097,0.23368 -2.27859,0.69759 -3.24425,1.34425 l -4.08856,-6.11918 -1.349,0 4.959,6.46356 c -0.1556,0.11962 -0.30631,0.24474 -0.45363,0.37406 l -5.84962,-6.67019 -1.653,0 0,1.653 6.67018,5.84963 c -0.12946,0.1475 -0.25433,0.29902 -0.37406,0.45481 l -6.46356,-4.96019 0,1.349 6.12037,4.08975 c -0.64648,0.9655 -1.11181,2.06238 -1.34543,3.24307 l -7.21882,-1.43569 -0.95356,0.95356 8.07619,1.064 c -0.0252,0.19341 -0.0443,0.38846 -0.057,0.58544 L 10.168501,43.8315 9.0000014,45 10.168501,46.1685 19.018938,45.589 c 0.0128,0.19709 0.0318,0.39321 0.057,0.58662 l -8.07619,1.06282 0.95356,0.95356 7.21882,-1.43569 c 0.23364,1.18091 0.69748,2.2784 1.34425,3.24425 l -6.11919,4.08856 0,1.349 6.46356,-4.959 c 0.11963,0.15566 0.24474,0.30625 0.37406,0.45363 l -6.67018,5.84962 0,1.653 1.653,0 5.84962,-6.67018 c 0.14754,0.12955 0.29899,0.25421 0.45481,0.37406 l -4.96018,6.46356 1.349,0 4.08975,-6.12037 c 0.96524,0.64705 2.06225,1.11299 3.24306,1.34662 l -1.43569,7.21763 0.95356,0.95356 1.064,-8.07619 c 0.1933,0.0252 0.38841,0.0443 0.58544,0.057 l -0.5795,8.85044 1.1685,1.1685 1.1685,-1.1685 -0.5795,-8.85044 c 0.19703,-0.0128 0.39206,-0.0318 0.58544,-0.057 l 1.064,8.07619 0.95356,-0.95356 -1.43569,-7.21882 c 1.18097,-0.23367 2.27859,-0.69758 3.24425,-1.34425 l 4.08856,6.11919 1.349,0 -4.959,-6.46356 c 0.1556,-0.11962 0.30631,-0.24474 0.45363,-0.37406 l 5.84962,6.67018 1.653,0 0,-1.653 -6.67018,-5.84962 c 0.12946,-0.1475 0.25433,-0.29902 0.37406,-0.45481 l 6.46356,4.96018 0,-1.349 -6.12037,-4.08975 c 0.64648,-0.96549 1.11181,-2.06237 1.34543,-3.24306 l 7.218821,1.43569 0.95356,-0.95356 -8.076191,-1.064 c 0.0252,-0.19342 0.0443,-0.38846 0.057,-0.58544 l 8.850441,0.5795 1.1685,-1.1685 -1.1685,-1.1685 -8.850441,0.5795 c -0.0127,-0.19703 -0.0318,-0.39206 -0.057,-0.58544 l 8.076191,-1.064 -0.95356,-0.95356 -7.218821,1.43569 c -0.23367,-1.18097 -0.69757,-2.27859 -1.34425,-3.24425 l 6.11919,-4.08857 0,-1.349 -6.46356,4.959 c -0.11962,-0.15559 -0.24474,-0.3063 -0.37406,-0.45362 l 6.67018,-5.84963 0,-1.653 -1.653,0 -5.84962,6.67019 c -0.1475,-0.12946 -0.29901,-0.25433 -0.45481,-0.37406 l 4.96018,-6.46356 -1.349,0 -4.08975,6.12037 c -0.96549,-0.64648 -2.06237,-1.11181 -3.24306,-1.34544 l 1.43569,-7.21881 -0.95356,-0.95356 -1.064,8.07619 c -0.19341,-0.0252 -0.38846,-0.0443 -0.58544,-0.057 L 29.168498,27.1685 27.999998,26 z"
-     style="fill:#fcd116;fill-opacity:1" />
-  <metadata
-     id="metadata4694">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs4692" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     id="namedview4690"
-     showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:object-nodes="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-page="true"
-     inkscape:zoom="1.8101934"
-     inkscape:cx="48.942562"
-     inkscape:cy="105.33104"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg4650" />
-  <title
-     id="title4652">Flag of the Philippines</title>
-  <desc
-     id="desc4654">Coding according to the official &quot;description and specification of the FILIPINO flag&quot; in Executive Order No. 23 from 1936</desc>
-  <!-- 45*Sqrt(3) -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="-28 -45 180 90" fill="#fcd116">
+	<title>Flag of the Philippines</title>
+	<path fill="#0038a8" d="m-28-45h180V0L0 44z"/>
+	<path fill="#ce1126" d="m0 0h152v45H-28z"/>
+	<path fill="#fff" d="m49.942 0L-28 45v-90z"/>
+	<circle r="9"/>
+	<g id="c">
+		<g id="b">
+			<path id="a" d="m0 0-3.164-15.909.945-.946zl-1.169-17.831L0-19l1.169 1.169zl2.219-16.855.945.946z"/>
+			<use transform="scale(-1)" xlink:href="#a"/>
+		</g>
+		<use transform="rotate(90)" xlink:href="#b"/>
+	</g>
+	<use transform="rotate(45)" xlink:href="#c"/>
+	<path id="s" d="m40.942 0-3.382 1.176L37.487 4.755l-2.163-2.853-3.427 1.037L33.942 0l-2.045-2.939 3.427 1.037 2.163-2.853L37.56-1.176z"/>
+	<use transform="rotate(120,-2.019,0)" xlink:href="#s"/>
+	<use transform="rotate(240,-2.019,0)" xlink:href="#s"/>
 </svg>
