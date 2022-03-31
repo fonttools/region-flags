@@ -53,7 +53,7 @@ flags were resolved for the initial import:
 - The script `regions-wp.py` shows the Wikipedia URL for the flag page.
 - The script `missing.sh` shows all such regions that we don't have flags for.
 - The script `make-aliases.sh` makes symlinks for regions that use flag of another region.
-- The script `download-wp.sh` downloads missing flags from Wikipedia and optionally you can generate optimized SVG and PNG versions (e.g., download-wp.py true).
+- The script `download-wp.sh` downloads missing flags from Wikipedia and optionally you can generate optimized SVG and PNG versions (e.g., download-wp.sh true).
 - The script `update.sh` automatically regenerates all files and outputs optimized png.
 - The script `convert.sh` converts SVG to PNG with ability to specify Width or Height.
 
@@ -78,10 +78,10 @@ editors to relicense it to public domain.  If the flag is not explicitly marked
 `public_domain` but otherwise exempt from Copyright (typically, because of
 national laws), make a note of it in file `COPYING`.
 
-To download missing flags, run `download-wp.py`.
+To download missing flags, run `download-wp.sh`.
 
 To update to latest flags from Wikipedia, delete the `html`, `svg`, and `png`
-directories, then run `make-aliases.sh` followed by `download-wp.py` or you can use `update.sh`.
+directories, then run `make-aliases.sh` followed by `download-wp.sh` or you can use `update.sh`.
 
 
 
