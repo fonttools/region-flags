@@ -46,7 +46,7 @@ while read region htmlurl ; do
         "true" | "yes")
             if ! test -s "$png"; then
                 echo "Converting $svg to $png.tmp"
-                if ! rsvg-convert $svg > $png.tmp; then
+                if ! rsvg-convert --width=900 --format=png $svg > $png.tmp; then
                     echo "ERROR rsvg-convert failed."
                     rm -f $png.tmp
                     continue
