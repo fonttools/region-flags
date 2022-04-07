@@ -34,6 +34,9 @@ The sub-regions currently covered are:
 - Countries of England, Scotland, and Wales in Great Britain
 - The province Northern Ireland in Great Britain
 - Australia's states and its two self-governing internal territories
+- German states
+- Spain's regions
+- Mexico's states and one federal district
 
 The flags are downloaded from Wikipedia. When Wikipedia flags were copyrighted,
 we worked we Wikipedia editors to either relicense them, or drew / sourced and
