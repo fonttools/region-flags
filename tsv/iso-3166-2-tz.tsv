@@ -1,0 +1,43 @@
+; ISO 3166-2:TZ
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:TZ
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	TZ-01	Arusha		sw		
+region	TZ-19	Coast		en		
+region	TZ-02	Dar es Salaam		sw		
+region	TZ-03	Dodoma		sw		
+region	TZ-27*	Geita		sw		
+region	TZ-04	Iringa		sw		
+region	TZ-05	Kagera		sw		
+region	TZ-06	Kaskazini Pemba		sw		
+region	TZ-07	Kaskazini Unguja		sw		
+region	TZ-28*	Katavi		sw		
+region	TZ-08	Kigoma		sw		
+region	TZ-09	Kilimanjaro		sw		
+region	TZ-10	Kusini Pemba		sw		
+region	TZ-11	Kusini Unguja		sw		
+region	TZ-12	Lindi		sw		
+region	TZ-26*	Manyara		sw		
+region	TZ-13	Mara		sw		
+region	TZ-14	Mbeya		sw		
+region	TZ-15	Mjini Magharibi		sw		
+region	TZ-16	Morogoro		sw		
+region	TZ-17	Mtwara		sw		
+region	TZ-18	Mwanza		sw		
+region	TZ-29*	Njombe		sw		
+region	TZ-06	Pemba North		en		
+region	TZ-10	Pemba South		en		
+region	TZ-19	Pwani		sw		
+region	TZ-20	Rukwa		sw		
+region	TZ-21	Ruvuma		sw		
+region	TZ-22	Shinyanga		sw		
+region	TZ-30*	Simiyu		sw		
+region	TZ-23	Singida		sw		
+region	TZ-31	Songwe		en		
+region	TZ-31	Songwe		sw		
+region	TZ-24	Tabora		sw		
+region	TZ-25	Tanga		sw		
+region	TZ-07	Zanzibar North		en		
+region	TZ-11	Zanzibar South		en		
+region	TZ-15	Zanzibar West		en		

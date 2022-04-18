@@ -1,0 +1,56 @@
+; ISO 3166-2:KZ
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:KZ
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	KZ-AKM*	Akmolinskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-AKM*	Akmolinskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-AKT*	Aktjubinskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-AKT*	Aktyubinskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-ALM*	Almatinskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-ALM*	Almatinskaya oblast'		ru	BGN/PCGN 1947	
+city	KZ-ALA	Almaty		kk	BGN/PCGN 1979	
+city	KZ-ALA	Almaty		ru	GOST 1983 = UN V/18 1987	
+city	KZ-ALA	Almaty		ru	BGN/PCGN 1947	
+region	KZ-ALM*	Almaty oblysy		kk	BGN/PCGN 1979	
+region	KZ-AKM*	Aqmola oblysy		kk	BGN/PCGN 1979	
+region	KZ-AKT*	Aqtöbe oblysy		kk	BGN/PCGN 1979	
+region	KZ-ATY*	Atyrauskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-ATY*	Atyrauskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-ATY*	Atyraū oblysy		kk	BGN/PCGN 1979	
+region	KZ-ZAP*	Batys Qazaqstan oblysy		kk	BGN/PCGN 1979	
+region	KZ-KAR*	Karagandinskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-KAR*	Karagandinskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-KUS*	Kostanajskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-KUS*	Kostanayskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-KZY*	Kyzylordinskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-KZY*	Kyzylordinskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-MAN*	Mangghystaū oblysy		kk	BGN/PCGN 1979	
+region	KZ-MAN*	Mangistauskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-MAN*	Mangystauskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+city	KZ-AST*	Nur-Sultan		kk	BGN/PCGN 1979	
+city	KZ-AST*	Nur-Sultan		ru	GOST 1983 = UN V/18 1987	
+city	KZ-AST*	Nur-Sultan		ru	BGN/PCGN 1947	
+region	KZ-PAV*	Pavlodar oblysy		kk	BGN/PCGN 1979	
+region	KZ-PAV*	Pavlodarskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-PAV*	Pavlodarskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-KAR*	Qaraghandy oblysy		kk	BGN/PCGN 1979	
+region	KZ-KUS*	Qostanay oblysy		kk	BGN/PCGN 1979	
+region	KZ-KZY*	Qyzylorda oblysy		kk	BGN/PCGN 1979	
+region	KZ-SEV*	Severo-Kazahstanskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-SEV*	Severo-Kazakhstanskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-VOS*	Shyghys Qazaqstan oblysy		kk	BGN/PCGN 1979	
+city	KZ-SHY*	Shymkent		kk	BGN/PCGN 1979	
+city	KZ-SHY*	Shymkent		ru	BGN/PCGN 1947	
+region	KZ-SEV*	Soltüstik Qazaqstan oblysy		kk	BGN/PCGN 1979	
+region	KZ-YUZ*	Turkestankaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-YUZ*	Turkestanskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-YUZ*	Türkistan oblysy		kk	BGN/PCGN 1979	
+region	KZ-VOS*	Vostochno-Kazakhstanskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-VOS*	Vostočno-Kazahstanskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-ZAP*	Zapadno-Kazahstanskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KZ-ZAP*	Zapadno-Kazakhstanskaya oblast'		ru	BGN/PCGN 1947	
+region	KZ-ZHA*	Zhambyl oblysy		kk	BGN/PCGN 1979	
+region	KZ-ZHA*	Zhambylskaya oblast'		ru	BGN/PCGN 1947	
+city	KZ-SHY*	Šimkent		ru	GOST 1983 = UN V/18 1987	
+region	KZ-ZHA*	Žambylskaja oblast'		ru	GOST 1983 = UN V/18 1987	

@@ -1,0 +1,48 @@
+; ISO 3166-2:HU
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:HU
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+county	HU-BA	Baranya		hu		
+county	HU-BZ	Borsod-Abaúj-Zemplén		hu		
+capital city	HU-BU	Budapest		hu		
+county	HU-BK	Bács-Kiskun		hu		
+county	HU-BE	Békés		hu		
+city with county rights	HU-BC	Békéscsaba		hu		
+county	HU-CS	Csongrád-Csanád		hu		
+city with county rights	HU-DE	Debrecen		hu		
+city with county rights	HU-DU	Dunaújváros		hu		
+city with county rights	HU-EG	Eger		hu		
+county	HU-FE	Fejér		hu		
+city with county rights	HU-GY	Győr		hu		
+county	HU-GS	Győr-Moson-Sopron		hu		
+county	HU-HB	Hajdú-Bihar		hu		
+county	HU-HE	Heves		hu		
+city with county rights	HU-HV	Hódmezővásárhely		hu		
+county	HU-JN	Jász-Nagykun-Szolnok		hu		
+city with county rights	HU-KV	Kaposvár		hu		
+city with county rights	HU-KM	Kecskemét		hu		
+county	HU-KE	Komárom-Esztergom		hu		
+city with county rights	HU-MI	Miskolc		hu		
+city with county rights	HU-NK	Nagykanizsa		hu		
+city with county rights	HU-NY	Nyíregyháza		hu		
+county	HU-NO	Nógrád		hu		
+county	HU-PE	Pest		hu		
+city with county rights	HU-PS	Pécs		hu		
+city with county rights	HU-ST	Salgótarján		hu		
+county	HU-SO	Somogy		hu		
+city with county rights	HU-SN	Sopron		hu		
+county	HU-SZ	Szabolcs-Szatmár-Bereg		hu		
+city with county rights	HU-SD	Szeged		hu		
+city with county rights	HU-SS	Szekszárd		hu		
+city with county rights	HU-SK	Szolnok		hu		
+city with county rights	HU-SH	Szombathely		hu		
+city with county rights	HU-SF	Székesfehérvár		hu		
+city with county rights	HU-TB	Tatabánya		hu		
+county	HU-TO	Tolna		hu		
+county	HU-VA	Vas		hu		
+county	HU-VE	Veszprém		hu		
+city with county rights	HU-VM	Veszprém		hu		
+county	HU-ZA	Zala		hu		
+city with county rights	HU-ZE	Zalaegerszeg		hu		
+city with county rights	HU-ER*	Érd		hu		

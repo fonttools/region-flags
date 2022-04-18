@@ -1,0 +1,73 @@
+; ISO 3166-2:AF
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:AF
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	AF-BDS*	Badakhshān		fa	BGN/PCGN 2007	
+province	AF-BDS*	Badakhshān		ps	BGN/PCGN 2007	
+province	AF-BGL*	Baghlān		fa	BGN/PCGN 2007	
+province	AF-BGL*	Baghlān		ps	BGN/PCGN 2007	
+province	AF-BAL*	Balkh		fa	BGN/PCGN 2007	
+province	AF-BAL*	Balkh		ps	BGN/PCGN 2007	
+province	AF-BDG*	Bādghīs		fa	BGN/PCGN 2007	
+province	AF-BDG*	Bādghīs		ps	BGN/PCGN 2007	
+province	AF-BAM*	Bāmyān		fa	BGN/PCGN 2007	
+province	AF-BAM*	Bāmyān		ps	BGN/PCGN 2007	
+province	AF-DAY*	Dāykundī		fa	BGN/PCGN 2007	
+province	AF-DAY*	Dāykundī		ps	BGN/PCGN 2007	
+province	AF-FRA*	Farāh		fa	BGN/PCGN 2007	
+province	AF-FRA*	Farāh		ps	BGN/PCGN 2007	
+province	AF-FYB*	Fāryāb		fa	BGN/PCGN 2007	
+province	AF-FYB*	Fāryāb		ps	BGN/PCGN 2007	
+province	AF-GHA*	Ghaznī		fa	BGN/PCGN 2007	
+province	AF-GHA*	Ghaznī		ps	BGN/PCGN 2007	
+province	AF-GHO*	Ghōr		fa	BGN/PCGN 2007	
+province	AF-GHO*	Ghōr		ps	BGN/PCGN 2007	
+province	AF-HEL*	Helmand		fa	BGN/PCGN 2007	
+province	AF-HEL*	Helmand		ps	BGN/PCGN 2007	
+province	AF-HER*	Herāt		fa	BGN/PCGN 2007	
+province	AF-HER*	Herāt		ps	BGN/PCGN 2007	
+province	AF-JOW*	Jowzjān		fa	BGN/PCGN 2007	
+province	AF-JOW*	Jowzjān		ps	BGN/PCGN 2007	
+province	AF-KAN*	Kandahār		fa	BGN/PCGN 2007	
+province	AF-KAN*	Kandahār		ps	BGN/PCGN 2007	
+province	AF-KHO*	Khōst		fa	BGN/PCGN 2007	
+province	AF-KHO*	Khōst		ps	BGN/PCGN 2007	
+province	AF-KNR*	Kunaṟ		fa	BGN/PCGN 2007	
+province	AF-KNR*	Kunaṟ		ps	BGN/PCGN 2007	
+province	AF-KDZ*	Kunduz		fa	BGN/PCGN 2007	
+province	AF-KDZ*	Kunduz		ps	BGN/PCGN 2007	
+province	AF-KAB*	Kābul		fa	BGN/PCGN 2007	
+province	AF-KAB*	Kābul		ps	BGN/PCGN 2007	
+province	AF-KAP*	Kāpīsā		fa	BGN/PCGN 2007	
+province	AF-KAP*	Kāpīsā		ps	BGN/PCGN 2007	
+province	AF-LAG*	Laghmān		fa	BGN/PCGN 2007	
+province	AF-LAG*	Laghmān		ps	BGN/PCGN 2007	
+province	AF-LOG*	Lōgar		fa	BGN/PCGN 2007	
+province	AF-LOG*	Lōgar		ps	BGN/PCGN 2007	
+province	AF-NAN*	Nangarhār		fa	BGN/PCGN 2007	
+province	AF-NAN*	Nangarhār		ps	BGN/PCGN 2007	
+province	AF-NIM*	Nīmrōz		fa	BGN/PCGN 2007	
+province	AF-NIM*	Nīmrōz		ps	BGN/PCGN 2007	
+province	AF-NUR*	Nūristān		fa	BGN/PCGN 2007	
+province	AF-NUR*	Nūristān		ps	BGN/PCGN 2007	
+province	AF-PIA*	Paktiyā		fa	BGN/PCGN 2007	
+province	AF-PIA*	Paktiyā		ps	BGN/PCGN 2007	
+province	AF-PKA*	Paktīkā		fa	BGN/PCGN 2007	
+province	AF-PKA*	Paktīkā		ps	BGN/PCGN 2007	
+province	AF-PAN*	Panjshayr		fa	BGN/PCGN 2007	
+province	AF-PAN*	Panjshayr		ps	BGN/PCGN 2007	
+province	AF-PAR*	Parwān		fa	BGN/PCGN 2007	
+province	AF-PAR*	Parwān		ps	BGN/PCGN 2007	
+province	AF-SAM*	Samangān		fa	BGN/PCGN 2007	
+province	AF-SAM*	Samangān		ps	BGN/PCGN 2007	
+province	AF-SAR*	Sar-e Pul		fa	BGN/PCGN 2007	
+province	AF-SAR*	Sar-e Pul		ps	BGN/PCGN 2007	
+province	AF-TAK*	Takhār		fa	BGN/PCGN 2007	
+province	AF-TAK*	Takhār		ps	BGN/PCGN 2007	
+province	AF-URU*	Uruzgān		fa	BGN/PCGN 2007	
+province	AF-URU*	Uruzgān		ps	BGN/PCGN 2007	
+province	AF-WAR*	Wardak		fa	BGN/PCGN 2007	
+province	AF-WAR*	Wardak		ps	BGN/PCGN 2007	
+province	AF-ZAB*	Zābul		fa	BGN/PCGN 2007	
+province	AF-ZAB*	Zābul		ps	BGN/PCGN 2007	

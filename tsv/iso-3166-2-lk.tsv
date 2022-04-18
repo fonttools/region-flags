@@ -1,0 +1,107 @@
+; ISO 3166-2:LK
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:LK
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+district	LK-52	Ampara		en		LK-5
+district	LK-33	Ampāntōṭṭai		ta	UN II/11 1972	LK-3
+district	LK-52	Ampāra		si	Provisional UN Draft 1972	LK-5
+district	LK-52	Ampāṟai		ta	UN II/11 1972	LK-5
+district	LK-71	Anuradhapura		en		LK-7
+district	LK-71	Anurādhapura		si	Provisional UN Draft 1972	LK-7
+district	LK-71	Anurātapuram		ta	UN II/11 1972	LK-7
+district	LK-81	Badulla		en		LK-8
+district	LK-81	Badulla		si	Provisional UN Draft 1972	LK-8
+province	LK-1*	Basnāhira paḷāta		si	Provisional UN Draft 1972	
+district	LK-51	Batticaloa		en		LK-5
+province	LK-2*	Central Province		en		
+province	LK-9*	Chappirakamuva mākāṇam		ta	UN II/11 1972	
+district	LK-11	Colombo		en		LK-1
+province	LK-3*	Dakuṇu paḷāta		si	Provisional UN Draft 1972	
+province	LK-5*	Eastern Province		en		
+district	LK-31	Galle		en		LK-3
+district	LK-12	Gampaha		en		LK-1
+district	LK-12	Gampaha		si	Provisional UN Draft 1972	LK-1
+district	LK-31	Gālla		si	Provisional UN Draft 1972	LK-3
+district	LK-33	Hambantota		en		LK-3
+district	LK-33	Hambantŏṭa		si	Provisional UN Draft 1972	LK-3
+district	LK-91	Irattiṉapuri		ta	UN II/11 1972	LK-9
+district	LK-41	Jaffna		en		LK-4
+district	LK-13	Kalutara		en		LK-1
+district	LK-12	Kampahā		ta	UN II/11 1972	LK-1
+district	LK-21	Kandy		en		LK-2
+district	LK-13	Kaḷutara		si	Provisional UN Draft 1972	LK-1
+district	LK-13	Kaḷuttuṟai		ta	UN II/11 1972	LK-1
+district	LK-21	Kaṇṭi		ta	UN II/11 1972	LK-2
+district	LK-92	Kegalla		en		LK-9
+district	LK-92	Kekālai		ta	UN II/11 1972	LK-9
+district	LK-42	Kilinochchi		en		LK-4
+district	LK-42	Kilinŏchchi		si	Provisional UN Draft 1972	LK-4
+province	LK-5*	Kil̮akku mākāṇam		ta	UN II/11 1972	
+district	LK-42	Kiḷinochchi		ta	UN II/11 1972	LK-4
+district	LK-61	Kurunegala		en		LK-6
+district	LK-61	Kurunākal		ta	UN II/11 1972	LK-6
+district	LK-61	Kuruṇægala		si	Provisional UN Draft 1972	LK-6
+district	LK-92	Kægalla		si	Provisional UN Draft 1972	LK-9
+district	LK-31	Kāli		ta	UN II/11 1972	LK-3
+district	LK-11	Kŏl̮umpu		ta	UN II/11 1972	LK-1
+district	LK-11	Kŏḷamba		si	Provisional UN Draft 1972	LK-1
+province	LK-2*	Madhyama paḷāta		si	Provisional UN Draft 1972	
+district	LK-21	Mahanuvara		si	Provisional UN Draft 1972	LK-2
+district	LK-43	Mannar		en		LK-4
+district	LK-43	Mannārama		si	Provisional UN Draft 1972	LK-4
+district	LK-22	Matale		en		LK-2
+district	LK-32	Matara		en		LK-3
+province	LK-2*	Mattiya mākāṇam		ta	UN II/11 1972	
+district	LK-51	Maḍakalapuva		si	Provisional UN Draft 1972	LK-5
+district	LK-43	Maṉṉār		ta	UN II/11 1972	LK-4
+district	LK-51	Maṭṭakkaḷappu		ta	UN II/11 1972	LK-5
+province	LK-1*	Mel mākāṇam		ta	UN II/11 1972	
+district	LK-82	Monaragala		en		LK-8
+district	LK-45	Mulativ		si	Provisional UN Draft 1972	LK-4
+district	LK-45	Mullaittivu		en		LK-4
+district	LK-45	Mullaittīvu		ta	UN II/11 1972	LK-4
+district	LK-22	Mātale		si	Provisional UN Draft 1972	LK-2
+district	LK-32	Mātara		si	Provisional UN Draft 1972	LK-3
+district	LK-22	Māttaḷai		ta	UN II/11 1972	LK-2
+district	LK-32	Māttaṛai		ta	UN II/11 1972	LK-3
+district	LK-82	Mŏṇarāgala		si	Provisional UN Draft 1972	LK-8
+district	LK-82	Mŏṉarākalai		ta	UN II/11 1972	LK-8
+province	LK-7*	North Central Province		en		
+province	LK-6*	North Western Province		en		
+province	LK-4*	Northern Province		en		
+district	LK-23	Nuvara Ĕliya		si	Provisional UN Draft 1972	LK-2
+district	LK-23	Nuvarĕliyā		ta	UN II/11 1972	LK-2
+district	LK-23	Nuwara Eliya		en		LK-2
+province	LK-5*	Næ̆gĕnahira paḷāta		si	Provisional UN Draft 1972	
+district	LK-81	Patuḷai		ta	UN II/11 1972	LK-8
+district	LK-72	Polonnaruwa		en		LK-7
+district	LK-62	Puttalam		en		LK-6
+district	LK-62	Puttalama		si	Provisional UN Draft 1972	LK-6
+district	LK-62	Puttaḷam		ta	UN II/11 1972	LK-6
+district	LK-72	Pŏlaṉṉaṛuvai		ta	UN II/11 1972	LK-7
+district	LK-72	Pŏḷŏnnaruva		si	Provisional UN Draft 1972	LK-7
+district	LK-91	Ratnapura		en		LK-9
+district	LK-91	Ratnapura		si	Provisional UN Draft 1972	LK-9
+province	LK-9*	Sabaragamuva paḷāta		si	Provisional UN Draft 1972	
+province	LK-9*	Sabaragamuwa Province		en		
+province	LK-3*	Southern Province		en		
+district	LK-53	Tirukŏṇamalai		ta	UN II/11 1972	LK-5
+district	LK-53	Trikuṇāmalaya		si	Provisional UN Draft 1972	LK-5
+district	LK-53	Trincomalee		en		LK-5
+province	LK-3*	Tĕṉ mākāṇam		ta	UN II/11 1972	
+province	LK-4*	Uturu paḷāta		si	Provisional UN Draft 1972	
+province	LK-7*	Uturumæ̆da paḷāta		si	Provisional UN Draft 1972	
+province	LK-8*	Uva Province		en		
+district	LK-44	Vavuniya		en		LK-4
+district	LK-44	Vavuniyāva		si	Provisional UN Draft 1972	LK-4
+district	LK-44	Vavuṉiyā		ta	UN II/11 1972	LK-4
+province	LK-6*	Vayamba paḷāta		si	Provisional UN Draft 1972	
+province	LK-4*	Vaṭakku mākāṇam		ta	UN II/11 1972	
+province	LK-7*	Vaṭamattiya mākāṇam		ta	UN II/11 1972	
+province	LK-6*	Vaṭamel mākāṇam		ta	UN II/11 1972	
+province	LK-1*	Western Province		en		
+district	LK-41	Yāl̮ppāṇam		ta	UN II/11 1972	LK-4
+district	LK-41	Yāpanaya		si	Provisional UN Draft 1972	LK-4
+province	LK-8*	Ūva paḷāta		si	Provisional UN Draft 1972	
+province	LK-8*	Ūvā mākāṇam		ta	UN II/11 1972	

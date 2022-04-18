@@ -1,0 +1,83 @@
+; ISO 3166-2:PE
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:PE
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	PE-AMA	Amarumayu		qu		
+region	PE-AMA	Amasunu		ay		
+region	PE-AMA	Amazonas		es		
+region	PE-ANC	Ancash		es		
+region	PE-ANC	Ankashu		ay		
+region	PE-ANC	Anqash		qu		
+region	PE-APU	Apurimaq		ay		
+region	PE-APU	Apurimaq		qu		
+region	PE-APU	Apurímac		es		
+region	PE-ARE	Arequipa		es		
+region	PE-ARE	Arikipa		ay		
+region	PE-ARE	Ariqipa		qu		
+region	PE-AYA	Ayacucho		es		
+region	PE-AYA	Ayakuchu		qu		
+region	PE-AYA	Ayaquchu		ay		
+region	PE-CAJ	Cajamarca		es		
+region	PE-CUS	Cusco	Cuzco	es		
+region	PE-CAL	El Callao		es		
+region	PE-HUV	Huancavelica		es		
+region	PE-JUN	Hunin		qu		
+region	PE-HUC	Huánuco		es		
+region	PE-ICA	Ica		es		
+region	PE-ICA	Ika		ay		
+region	PE-ICA	Ika		qu		
+region	PE-JUN	Junin		ay		
+region	PE-JUN	Junín		es		
+region	PE-CAL	Kallao		ay		
+region	PE-CAJ	Kashamarka		qu		
+region	PE-CUS	Kusku		ay		
+region	PE-LAL	La Libertad		ay		
+region	PE-LAL	La Libertad		es		
+region	PE-LAM	Lambayeque		ay		
+region	PE-LAM	Lambayeque		es		
+region	PE-LAM	Lampalliqi		qu		
+region	PE-LIM	Lima		ay		
+region	PE-LIM	Lima		qu		
+region	PE-LIM	Lima		es		
+municipality	PE-LMA*	Lima hatun llaqta		ay		
+municipality	PE-LMA*	Lima llaqta suyu		qu		
+region	PE-LOR	Loreto		es		
+region	PE-LOR	Luritu		ay		
+region	PE-LOR	Luritu		qu		
+region	PE-MDD	Madre de Dios		ay		
+region	PE-MDD	Madre de Dios		es		
+region	PE-MDD	Mayutata		qu		
+region	PE-MOQ	Moquegua		es		
+region	PE-MOQ	Moqwegwa		ay		
+municipality	PE-LMA*	Municipalidad Metropolitana de Lima		es		
+region	PE-MOQ	Muqiwa		qu		
+region	PE-PAS	Pasco		es		
+region	PE-PAS	Pasqu		ay		
+region	PE-PAS	Pasqu		qu		
+region	PE-PIU	Piura		ay		
+region	PE-PIU	Piura		es		
+region	PE-PIU	Piwra		qu		
+region	PE-PUN	Puno		ay		
+region	PE-PUN	Puno		es		
+region	PE-PUN	Punu		qu		
+region	PE-CAJ	Qajamarka		ay		
+region	PE-CAL	Qallaw		qu		
+region	PE-LAL	Qispi kay		qu		
+region	PE-CUS	Qusqu		qu		
+region	PE-SAM	San Martin		qu		
+region	PE-SAM	San Martín		ay		
+region	PE-SAM	San Martín		es		
+region	PE-TAC	Tacna		es		
+region	PE-TAC	Takna		ay		
+region	PE-TAC	Taqna		qu		
+region	PE-TUM	Tumbes		ay		
+region	PE-TUM	Tumbes		es		
+region	PE-TUM	Tumpis		qu		
+region	PE-UCA	Ucayali		es		
+region	PE-UCA	Ukayali		ay		
+region	PE-UCA	Ukayali		qu		
+region	PE-HUV	Wankawelika		ay		
+region	PE-HUV	Wankawillka		qu		
+region	PE-HUC	Wanuku		ay		
+region	PE-HUC	Wanuku		qu		

@@ -1,0 +1,35 @@
+; ISO 3166-2:GQ
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:GQ
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	GQ-AN*	Annobon		fr		GQ-I
+province	GQ-AN*	Annobón		es		GQ-I
+province	GQ-AN*	Ano Bom		pt		GQ-I
+province	GQ-BN*	Bioko Nord		fr		GQ-I
+province	GQ-BN*	Bioko Norte		pt		GQ-I
+province	GQ-BN*	Bioko Norte		es		GQ-I
+province	GQ-BS*	Bioko Sud		fr		GQ-I
+province	GQ-BS*	Bioko Sul		pt		GQ-I
+province	GQ-BS*	Bioko Sur		es		GQ-I
+province	GQ-CS*	Centro Sud		fr		GQ-C
+province	GQ-CS*	Centro Sul		pt		GQ-C
+province	GQ-CS*	Centro Sur		es		GQ-C
+province	GQ-DJ*	Djibloho		fr		GQ-C
+province	GQ-DJ*	Djibloho		pt		GQ-C
+province	GQ-DJ*	Djibloho		es		GQ-C
+province	GQ-KN*	Kié-Ntem		fr		GQ-C
+province	GQ-KN*	Kié-Ntem		pt		GQ-C
+province	GQ-KN*	Kié-Ntem		es		GQ-C
+province	GQ-LI*	Litoral		pt		GQ-C
+province	GQ-LI*	Litoral		es		GQ-C
+province	GQ-LI*	Littoral		fr		GQ-C
+region	GQ-C*	Região Continental		pt		
+region	GQ-I*	Região Insular		pt		
+region	GQ-C*	Región Continental		es		
+region	GQ-I*	Región Insular		es		
+region	GQ-C*	Région Continentale		fr		
+region	GQ-I*	Région Insulaire		fr		
+province	GQ-WN*	Wele-Nzas		fr		GQ-C
+province	GQ-WN*	Wele-Nzas		pt		GQ-C
+province	GQ-WN*	Wele-Nzas		es		GQ-C

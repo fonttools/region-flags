@@ -1,0 +1,65 @@
+; ISO 3166-2:IE
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:IE
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+county	IE-CN	An Cabhán		ga		IE-U
+county	IE-CE	An Clár		ga		IE-M
+county	IE-WH	An Iarmhí		ga		IE-L
+county	IE-LD	An Longfort		ga		IE-L
+province	IE-M	An Mhumhain		ga		
+county	IE-MH	An Mhí		ga		IE-L
+county	IE-D	Baile Átha Cliath		ga		IE-L
+county	IE-CW	Carlow		en		IE-L
+county	IE-CN	Cavan		en		IE-U
+county	IE-CW	Ceatharlach		ga		IE-L
+county	IE-KY	Ciarraí		ga		IE-M
+county	IE-KK	Cill Chainnigh		ga		IE-L
+county	IE-KE	Cill Dara		ga		IE-L
+county	IE-WW	Cill Mhantáin		ga		IE-L
+county	IE-CE	Clare		en		IE-M
+province	IE-C	Connacht		ga		
+province	IE-C	Connaught		en		
+county	IE-CO*	Corcaigh		ga		IE-M
+county	IE-CO*	Cork		en		IE-M
+county	IE-DL	Donegal		en		IE-U
+county	IE-D	Dublin		en		IE-L
+county	IE-DL	Dún na nGall		ga		IE-U
+county	IE-G	Gaillimh		ga		IE-C
+county	IE-G	Galway		en		IE-C
+county	IE-KY	Kerry		en		IE-M
+county	IE-KE	Kildare		en		IE-L
+county	IE-KK	Kilkenny		en		IE-L
+province	IE-L	Laighin		ga		
+county	IE-LS	Laois		en		IE-L
+county	IE-LS	Laois		ga		IE-L
+province	IE-L	Leinster		en		
+county	IE-LM	Leitrim		en		IE-C
+county	IE-LM	Liatroim		ga		IE-C
+county	IE-LK	Limerick		en		IE-M
+county	IE-WX	Loch Garman		ga		IE-L
+county	IE-LD	Longford		en		IE-L
+county	IE-LH	Louth		en		IE-L
+county	IE-LK	Luimneach		ga		IE-M
+county	IE-LH	Lú		ga		IE-L
+county	IE-MO	Maigh Eo		ga		IE-C
+county	IE-MO	Mayo		en		IE-C
+county	IE-MH	Meath		en		IE-L
+county	IE-MN	Monaghan		en		IE-U
+county	IE-MN	Muineachán		ga		IE-U
+province	IE-M	Munster		en		
+county	IE-OY	Offaly		en		IE-L
+county	IE-WD	Port Láirge		ga		IE-M
+county	IE-RN	Ros Comáin		ga		IE-C
+county	IE-RN	Roscommon		en		IE-C
+county	IE-SO	Sligeach		ga		IE-C
+county	IE-SO	Sligo		en		IE-C
+county	IE-TA*	Tiobraid Árann		ga		IE-M
+county	IE-TA*	Tipperary		en		IE-M
+province	IE-U	Ulaidh		ga		
+province	IE-U	Ulster		en		
+county	IE-OY	Uíbh Fhailí		ga		IE-L
+county	IE-WD	Waterford		en		IE-M
+county	IE-WH	Westmeath		en		IE-L
+county	IE-WX	Wexford		en		IE-L
+county	IE-WW	Wicklow		en		IE-L

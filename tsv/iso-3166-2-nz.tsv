@@ -1,0 +1,36 @@
+; ISO 3166-2:NZ
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:NZ
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	NZ-AUK	Auckland		en		
+region	NZ-BOP	Bay of Plenty		en		
+region	NZ-CAN	Canterbury		en		
+special island authority	NZ-CIT*	Chatham Islands Territory		en		
+region	NZ-GIS	Gisborne		en		
+region	NZ-HKB	Hawke's Bay		en		
+region	NZ-MWT	Manawatu Whanganui		mi		
+region	NZ-MWT	Manawatu-Wanganui		en		
+region	NZ-MBH	Marlborough		en		
+region	NZ-STL	Murihiku		mi		
+region	NZ-NSN	Nelson		en		
+region	NZ-NTL	Northland		en		
+region	NZ-OTA	Otago		en		
+region	NZ-STL	Southland		en		
+region	NZ-TKI	Taranaki		en		
+region	NZ-TKI	Taranaki		mi		
+region	NZ-TAS	Tasman		en		
+region	NZ-HKB	Te Matau a Māui		mi		
+region	NZ-BOP	Te Moana a Toi Te Huatahi		mi		
+region	NZ-NTL	Te Tai tokerau		mi		
+region	NZ-WTC	Te Taihau ā uru		mi		
+region	NZ-WGN	Te Whanga-nui-a-Tara		mi		
+region	NZ-AUK	Tāmaki-makau-rau		mi		
+region	NZ-GIS	Tūranga nui a Kiwa		mi		
+region	NZ-WKO	Waikato		mi		
+region	NZ-CAN	Waitaha		mi		
+region	NZ-WGN	Wellington		en		
+region	NZ-WTC	West Coast		en		
+region	NZ-NSN	Whakatū		mi		
+special island authority	NZ-CIT*	Wharekauri		mi		
+region	NZ-OTA	Ō Tākou		mi		

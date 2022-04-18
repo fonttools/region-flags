@@ -1,0 +1,25 @@
+; ISO 3166-2:CM
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:CM
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	CM-AD	Adamaoua		en		
+region	CM-AD	Adamaoua		fr		
+region	CM-CE	Centre		en		
+region	CM-CE	Centre		fr		
+region	CM-ES	East		en		
+region	CM-ES	Est		fr		
+region	CM-EN	Extrême-Nord		fr		
+region	CM-EN	Far North		en		
+region	CM-LT	Littoral		en		
+region	CM-LT	Littoral		fr		
+region	CM-NO	Nord		fr		
+region	CM-NW	Nord-Ouest		fr		
+region	CM-NO	North		en		
+region	CM-NW	North-West		en		
+region	CM-OU	Ouest		fr		
+region	CM-SU	South		en		
+region	CM-SW	South-West		en		
+region	CM-SU	Sud		fr		
+region	CM-SW	Sud-Ouest		fr		
+region	CM-OU	West		en		

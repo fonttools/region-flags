@@ -1,0 +1,34 @@
+; ISO 3166-2:NO
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:NO
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+county	NO-42	Agder		nn		
+county	NO-42	Agder		nb		
+county	NO-34	Innlandet		nn		
+county	NO-34	Innlandet		nb		
+arctic region	NO-22	Jan Mayen (Arctic Region) (see also separate country code entry under SJ)		nn		
+arctic region	NO-22	Jan Mayen (Arctic Region) (see also separate country code entry under SJ)		nb		
+county	NO-15	Møre og Romsdal		nn		
+county	NO-15	Møre og Romsdal		nb		
+county	NO-18	Nordland		nn		
+county	NO-18	Nordland		nb		
+county	NO-03	Oslo		nn		
+county	NO-03	Oslo		nb		
+county	NO-11	Rogaland		nn		
+county	NO-11	Rogaland		nb		
+county	NO-54	Romssa ja Finnmárkku		se		
+arctic region	NO-21	Svalbard (Arctic Region) (see also separate country code entry under SJ)		nn		
+arctic region	NO-21	Svalbard (Arctic Region) (see also separate country code entry under SJ)		nb		
+county	NO-54	Troms og Finnmark		nn		
+county	NO-54	Troms og Finnmark		nb		
+county	NO-54	Tromssan ja Finmarkun		-		
+county	NO-50	Trööndelage		-		
+county	NO-50	Trøndelag		nn		
+county	NO-50	Trøndelag		nb		
+county	NO-38	Vestfold og Telemark		nn		
+county	NO-38	Vestfold og Telemark		nb		
+county	NO-46	Vestland		nn		
+county	NO-46	Vestland		nb		
+county	NO-30	Viken		nn		
+county	NO-30	Viken		nb		

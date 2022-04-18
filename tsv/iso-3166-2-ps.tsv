@@ -1,0 +1,37 @@
+; ISO 3166-2:PS
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:PS
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+governorate	PS-HBN	Al Khalīl		ar	BGN/PCGN 1956	
+governorate	PS-JEM	Al Quds		ar	BGN/PCGN 1956	
+governorate	PS-JRH	Arīḩā wal Aghwār		ar	BGN/PCGN 1956	
+governorate	PS-BTH	Bayt Laḩm		ar	BGN/PCGN 1956	
+governorate	PS-BTH	Bethlehem		en		
+governorate	PS-DEB	Dayr al Balaḩ		ar	BGN/PCGN 1956	
+governorate	PS-DEB	Deir El Balah		en		
+governorate	PS-GZA*	Gaza		en		
+governorate	PS-GZA*	Ghazzah		ar	BGN/PCGN 1956	
+governorate	PS-HBN	Hebron		en		
+governorate	PS-JEN	Janīn		ar	BGN/PCGN 1956	
+governorate	PS-JEN	Jenin		en		
+governorate	PS-JRH	Jericho and Al Aghwar		en		
+governorate	PS-JEM	Jerusalem		en		
+governorate	PS-KYS	Khan Yunis		en		
+governorate	PS-KYS	Khān Yūnis		ar	BGN/PCGN 1956	
+governorate	PS-NBS	Nablus		en		
+governorate	PS-NGZ	North Gaza		en		
+governorate	PS-NBS	Nāblus		ar	BGN/PCGN 1956	
+governorate	PS-QQA	Qalqilya		en		
+governorate	PS-QQA	Qalqīlyah		ar	BGN/PCGN 1956	
+governorate	PS-RFH	Rafah		en		
+governorate	PS-RFH	Rafaḩ		ar	BGN/PCGN 1956	
+governorate	PS-RBH*	Ramallah		en		
+governorate	PS-RBH*	Rām Allāh wal Bīrah		ar	BGN/PCGN 1956	
+governorate	PS-SLT	Salfit		en		
+governorate	PS-SLT	Salfīt		ar	BGN/PCGN 1956	
+governorate	PS-NGZ	Shamāl Ghazzah		ar	BGN/PCGN 1956	
+governorate	PS-TBS	Tubas		en		
+governorate	PS-TKM	Tulkarm		en		
+governorate	PS-TBS	Ţūbās		ar	BGN/PCGN 1956	
+governorate	PS-TKM	Ţūlkarm		ar	BGN/PCGN 1956	

@@ -1,0 +1,21 @@
+; ISO 3166-2:CL
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:CL
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	CL-AI*	Aisén del General Carlos Ibañez del Campo	Aysén, Aisén	es		
+region	CL-AN*	Antofagasta		es		
+region	CL-AP*	Arica y Parinacota		es		
+region	CL-AT*	Atacama		es		
+region	CL-BI*	Biobío		es		
+region	CL-CO*	Coquimbo		es		
+region	CL-AR*	La Araucanía		es		
+region	CL-LI*	Libertador General Bernardo O'Higgins	O'Higgins	es		
+region	CL-LL*	Los Lagos		es		
+region	CL-LR*	Los Ríos		es		
+region	CL-MA*	Magallanes		es		
+region	CL-ML*	Maule		es		
+region	CL-RM*	Región Metropolitana de Santiago		es		
+region	CL-TA*	Tarapacá		es		
+region	CL-VS*	Valparaíso		es		
+region	CL-NB*	Ñuble		es		

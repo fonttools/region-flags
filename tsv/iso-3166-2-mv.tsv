@@ -1,0 +1,47 @@
+; ISO 3166-2:MV
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:MV
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+city	MV-01	Addu	Seenu	dv	BGN/PCGN 1988	
+city	MV-01	Addu City		en		
+administrative atoll	MV-00*	Ariatholhu Dhekunuburi	Alifu Dhaalu	dv	BGN/PCGN 1988	
+administrative atoll	MV-02	Ariatholhu Uthuruburi	Alifu Alifu	dv	BGN/PCGN 1988	
+administrative atoll	MV-03	Faadhippolhu	Lhaviyani	dv	BGN/PCGN 1988	
+administrative atoll	MV-03	Faadhippolhu		en		
+administrative atoll	MV-04	Felidheatholhu	Vaavu	dv	BGN/PCGN 1988	
+administrative atoll	MV-04	Felidhu Atoll		en		
+administrative atoll	MV-29	Fuvammulah	Gnaviyani	dv	BGN/PCGN 1988	
+administrative atoll	MV-29	Fuvammulah		en		
+administrative atoll	MV-05	Hahdhunmathi	Laamu	dv	BGN/PCGN 1988	
+administrative atoll	MV-05	Hahdhunmathi		en		
+administrative atoll	MV-28	Huvadhuatholhu Dhekunuburi	Gaafu Dhaalu	dv	BGN/PCGN 1988	
+administrative atoll	MV-27	Huvadhuatholhu Uthuruburi	Gaafu Alifu	dv	BGN/PCGN 1988	
+administrative atoll	MV-08	Kolhumadulu	Thaa	dv	BGN/PCGN 1988	
+administrative atoll	MV-08	Kolhumadulu		en		
+city	MV-MLE	Maale		dv	BGN/PCGN 1988	
+administrative atoll	MV-26	Maaleatholhu	Kaafu	dv	BGN/PCGN 1988	
+administrative atoll	MV-20	Maalhosmadulu Dhekunuburi	Baa	dv	BGN/PCGN 1988	
+administrative atoll	MV-13	Maalhosmadulu Uthuruburi	Raa	dv	BGN/PCGN 1988	
+city	MV-MLE	Male		en		
+administrative atoll	MV-26	Male Atoll		en		
+administrative atoll	MV-25	Miladhunmadulu Dhekunuburi	Noonu	dv	BGN/PCGN 1988	
+administrative atoll	MV-24	Miladhunmadulu Uthuruburi	Shaviyani	dv	BGN/PCGN 1988	
+administrative atoll	MV-12	Mulakatholhu	Meemu	dv	BGN/PCGN 1988	
+administrative atoll	MV-12	Mulaku Atoll		en		
+administrative atoll	MV-17	Nilandheatholhu Dhekunuburi	Dhaalu	dv	BGN/PCGN 1988	
+administrative atoll	MV-14	Nilandheatholhu Uthuruburi	Faafu	dv	BGN/PCGN 1988	
+administrative atoll	MV-02	North Ari Atoll		en		
+administrative atoll	MV-27	North Huvadhu Atoll		en		
+administrative atoll	MV-13	North Maalhosmadulu		en		
+administrative atoll	MV-24	North Miladhunmadulu		en		
+administrative atoll	MV-14	North Nilandhe Atoll		en		
+administrative atoll	MV-07	North Thiladhunmathi		en		
+administrative atoll	MV-00*	South Ari Atoll		en		
+administrative atoll	MV-28	South Huvadhu Atoll		en		
+administrative atoll	MV-20	South Maalhosmadulu		en		
+administrative atoll	MV-25	South Miladhunmadulu		en		
+administrative atoll	MV-17	South Nilandhe Atoll		en		
+administrative atoll	MV-23	South Thiladhunmathi		en		
+administrative atoll	MV-23	Thiladhunmathee Dhekunuburi	Haa Dhaalu	dv	BGN/PCGN 1988	
+administrative atoll	MV-07	Thiladhunmathee Uthuruburi	Haa Alifu	dv	BGN/PCGN 1988	

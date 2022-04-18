@@ -1,0 +1,41 @@
+; ISO 3166-2:LU
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:LU
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+canton	LU-CA*	Capellen		de		
+canton	LU-CA*	Capellen		fr		
+canton	LU-CL*	Clerf		de		
+canton	LU-CL*	Clervaux		fr		
+canton	LU-DI*	Diekirch		de		
+canton	LU-DI*	Diekirch		fr		
+canton	LU-DI*	Diekrech		lb		
+canton	LU-EC*	Echternach		de		
+canton	LU-EC*	Echternach		fr		
+canton	LU-ES*	Esch an der Alzette		de		
+canton	LU-ES*	Esch-Uelzecht		lb		
+canton	LU-ES*	Esch-sur-Alzette		fr		
+canton	LU-GR*	Grevenmacher		de		
+canton	LU-GR*	Grevenmacher		fr		
+canton	LU-GR*	Gréivemaacher		lb		
+canton	LU-EC*	Iechternach		lb		
+canton	LU-CA*	Kapellen		lb		
+canton	LU-CL*	Klierf		lb		
+canton	LU-LU*	Luxembourg		fr		
+canton	LU-LU*	Luxemburg		de		
+canton	LU-LU*	Lëtzebuerg		lb		
+canton	LU-ME*	Mersch		de		
+canton	LU-ME*	Mersch		fr		
+canton	LU-ME*	Miersch		lb		
+canton	LU-RD*	Redange		fr		
+canton	LU-RD*	Redingen		de		
+canton	LU-RM*	Remich		de		
+canton	LU-RM*	Remich		fr		
+canton	LU-RD*	Réiden-Atert		lb		
+canton	LU-RM*	Réimech		lb		
+canton	LU-VD*	Veianen		lb		
+canton	LU-VD*	Vianden		de		
+canton	LU-VD*	Vianden		fr		
+canton	LU-WI*	Wiltz		de		
+canton	LU-WI*	Wiltz		fr		
+canton	LU-WI*	Wolz		lb		

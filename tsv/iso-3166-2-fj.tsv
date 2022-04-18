@@ -1,0 +1,24 @@
+; ISO 3166-2:FJ
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:FJ
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	FJ-01*	Ba		en		FJ-W
+province	FJ-02*	Bua		en		FJ-N
+province	FJ-03*	Cakaudrove		en		FJ-N
+division	FJ-C*	Central		en		
+division	FJ-E*	Eastern		en		
+province	FJ-04*	Kadavu		en		FJ-E
+province	FJ-05*	Lau		en		FJ-E
+province	FJ-06*	Lomaiviti		en		FJ-E
+province	FJ-07*	Macuata		en		FJ-N
+province	FJ-08*	Nadroga and Navosa		en		FJ-W
+province	FJ-09*	Naitasiri		en		FJ-C
+province	FJ-10*	Namosi		en		FJ-C
+division	FJ-N*	Northern		en		
+province	FJ-11*	Ra		en		FJ-W
+province	FJ-12*	Rewa		en		FJ-C
+dependency	FJ-R*	Rotuma		en		
+province	FJ-13*	Serua		en		FJ-C
+province	FJ-14*	Tailevu		en		FJ-C
+division	FJ-W*	Western		en		

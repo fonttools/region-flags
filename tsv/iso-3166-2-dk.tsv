@@ -1,0 +1,10 @@
+; ISO 3166-2:DK
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:DK
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	DK-84	Hovedstaden		da		
+region	DK-82	Midtjylland		da		
+region	DK-81	Nordjylland		da		
+region	DK-85	Sjælland		da		
+region	DK-83	Syddanmark		da		

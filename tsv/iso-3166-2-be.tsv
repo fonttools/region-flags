@@ -1,0 +1,19 @@
+; ISO 3166-2:BE
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:BE
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	BE-VAN	Antwerpen		nl		BE-VLG
+province	BE-WBR	Brabant wallon		fr		BE-WAL
+region	BE-BRU	Brussels Hoofdstedelijk Gewest		nl		
+region	BE-BRU	Bruxelles-Capitale, Région de		fr		
+province	BE-WHT	Hainaut		fr		BE-WAL
+province	BE-VLI	Limburg		nl		BE-VLG
+province	BE-WLG	Liège		fr		BE-WAL
+province	BE-WLX	Luxembourg		fr		BE-WAL
+province	BE-WNA	Namur		fr		BE-WAL
+province	BE-VOV	Oost-Vlaanderen		nl		BE-VLG
+region	BE-VLG	Vlaams Gewest		nl		
+province	BE-VBR	Vlaams-Brabant		nl		BE-VLG
+province	BE-VWV	West-Vlaanderen		nl		BE-VLG
+region	BE-WAL	wallonne, Région		fr		

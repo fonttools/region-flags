@@ -1,0 +1,77 @@
+; ISO 3166-2:BD
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:BD
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+district	BD-05	Bagerhat		bn	conventional names	BD-D
+district	BD-01	Bandarban		bn	conventional names	BD-B
+district	BD-02	Barguna		bn	conventional names	BD-A
+division	BD-A*	Barishal		bn	conventional names	
+district	BD-06	Barishal		bn	conventional names	BD-A
+district	BD-07	Bhola		bn	conventional names	BD-A
+district	BD-03	Bogura		bn	conventional names	BD-E
+district	BD-04	Brahmanbaria		bn	conventional names	BD-B
+district	BD-09	Chandpur		bn	conventional names	BD-B
+district	BD-45	Chapai Nawabganj		bn	conventional names	BD-E
+division	BD-B*	Chattogram	Chittagong	bn	conventional names	
+district	BD-10	Chattogram	Chittagong	bn	conventional names	BD-B
+district	BD-12	Chuadanga		bn	conventional names	BD-D
+district	BD-11	Cox's Bazar		bn	conventional names	BD-B
+district	BD-08	Cumilla		bn	conventional names	BD-B
+division	BD-C*	Dhaka		bn	conventional names	
+district	BD-13	Dhaka		bn	conventional names	BD-C
+district	BD-14	Dinajpur		bn	conventional names	BD-F
+district	BD-15	Faridpur		bn	conventional names	BD-C
+district	BD-16	Feni		bn	conventional names	BD-B
+district	BD-19	Gaibandha		bn	conventional names	BD-F
+district	BD-18	Gazipur		bn	conventional names	BD-C
+district	BD-17	Gopalganj		bn	conventional names	BD-C
+district	BD-20	Habiganj		bn	conventional names	BD-G
+district	BD-21	Jamalpur		bn	conventional names	BD-H
+district	BD-22	Jashore		bn	conventional names	BD-D
+district	BD-25	Jhalakathi		bn	conventional names	BD-A
+district	BD-23	Jhenaidah		bn	conventional names	BD-D
+district	BD-24	Joypurhat		bn	conventional names	BD-E
+district	BD-29	Khagrachhari		bn	conventional names	BD-B
+division	BD-D*	Khulna		bn	conventional names	
+district	BD-27	Khulna		bn	conventional names	BD-D
+district	BD-26	Kishoreganj		bn	conventional names	BD-C
+district	BD-28	Kurigram		bn	conventional names	BD-F
+district	BD-30	Kushtia		bn	conventional names	BD-D
+district	BD-31	Lakshmipur		bn	conventional names	BD-B
+district	BD-32	Lalmonirhat		bn	conventional names	BD-F
+district	BD-36	Madaripur		bn	conventional names	BD-C
+district	BD-37	Magura		bn	conventional names	BD-D
+district	BD-33	Manikganj		bn	conventional names	BD-C
+district	BD-39	Meherpur		bn	conventional names	BD-D
+district	BD-38	Moulvibazar		bn	conventional names	BD-G
+district	BD-35	Munshiganj		bn	conventional names	BD-C
+division	BD-H*	Mymensingh		bn	conventional names	
+district	BD-34	Mymensingh		bn	conventional names	BD-H
+district	BD-48	Naogaon		bn	conventional names	BD-E
+district	BD-43	Narail		bn	conventional names	BD-D
+district	BD-40	Narayanganj		bn	conventional names	BD-C
+district	BD-42	Narsingdi		bn	conventional names	BD-C
+district	BD-44	Natore		bn	conventional names	BD-E
+district	BD-41	Netrakona		bn	conventional names	BD-H
+district	BD-46	Nilphamari		bn	conventional names	BD-F
+district	BD-47	Noakhali		bn	conventional names	BD-B
+district	BD-49	Pabna		bn	conventional names	BD-E
+district	BD-52	Panchagarh		bn	conventional names	BD-F
+district	BD-51	Patuakhali		bn	conventional names	BD-A
+district	BD-50	Pirojpur		bn	conventional names	BD-A
+district	BD-53	Rajbari		bn	conventional names	BD-C
+division	BD-E*	Rajshahi		bn	conventional names	
+district	BD-54	Rajshahi		bn	conventional names	BD-E
+district	BD-56	Rangamati		bn	conventional names	BD-B
+division	BD-F*	Rangpur		bn	conventional names	
+district	BD-55	Rangpur		bn	conventional names	BD-F
+district	BD-58	Satkhira		bn	conventional names	BD-D
+district	BD-62	Shariatpur		bn	conventional names	BD-C
+district	BD-57	Sherpur		bn	conventional names	BD-H
+district	BD-59	Sirajganj		bn	conventional names	BD-E
+district	BD-61	Sunamganj		bn	conventional names	BD-G
+division	BD-G*	Sylhet		bn	conventional names	
+district	BD-60	Sylhet		bn	conventional names	BD-G
+district	BD-63	Tangail		bn	conventional names	BD-C
+district	BD-64	Thakurgaon		bn	conventional names	BD-F

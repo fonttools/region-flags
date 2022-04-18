@@ -1,0 +1,67 @@
+; ISO 3166-2:MW
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:MW
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+district	MW-BA*	Balaka		en		MW-S
+district	MW-BA*	Balaka		ny		MW-S
+district	MW-BL*	Blantyre		en		MW-S
+district	MW-BL*	Blantyre		ny		MW-S
+region	MW-C*	Central Region		en		
+region	MW-N*	Chakumpoto		ny		
+region	MW-S*	Chakumwera		ny		
+region	MW-C*	Chapakati		ny		
+district	MW-CK*	Chikwawa		en		MW-S
+district	MW-CK*	Chikwawa		ny		MW-S
+district	MW-CR*	Chiradzulu		en		MW-S
+district	MW-CR*	Chiradzulu		ny		MW-S
+district	MW-CT*	Chitipa		en		MW-N
+district	MW-CT*	Chitipa		ny		MW-N
+district	MW-DE*	Dedza		en		MW-C
+district	MW-DE*	Dedza		ny		MW-C
+district	MW-DO*	Dowa		en		MW-C
+district	MW-DO*	Dowa		ny		MW-C
+district	MW-KR*	Karonga		en		MW-N
+district	MW-KR*	Karonga		ny		MW-N
+district	MW-KS*	Kasungu		en		MW-C
+district	MW-KS*	Kasungu		ny		MW-C
+district	MW-LK*	Likoma		en		MW-N
+district	MW-LK*	Likoma		ny		MW-N
+district	MW-LI*	Lilongwe		en		MW-C
+district	MW-LI*	Lilongwe		ny		MW-C
+district	MW-MH*	Machinga		en		MW-S
+district	MW-MH*	Machinga		ny		MW-S
+district	MW-MG*	Mangochi		en		MW-S
+district	MW-MG*	Mangochi		ny		MW-S
+district	MW-MC*	Mchinji		en		MW-C
+district	MW-MC*	Mchinji		ny		MW-C
+district	MW-MU*	Mulanje		en		MW-S
+district	MW-MU*	Mulanje		ny		MW-S
+district	MW-MW*	Mwanza		en		MW-S
+district	MW-MW*	Mwanza		ny		MW-S
+district	MW-MZ*	Mzimba		en		MW-N
+district	MW-MZ*	Mzimba		ny		MW-N
+district	MW-NE*	Neno		en		MW-S
+district	MW-NE*	Neno		ny		MW-S
+district	MW-NB*	Nkhata Bay		en		MW-N
+district	MW-NB*	Nkhata Bay		ny		MW-N
+district	MW-NK*	Nkhotakota		en		MW-C
+district	MW-NK*	Nkhotakota		ny		MW-C
+region	MW-N*	Northern Region		en		
+district	MW-NS*	Nsanje		en		MW-S
+district	MW-NS*	Nsanje		ny		MW-S
+district	MW-NU*	Ntcheu		en		MW-C
+district	MW-NU*	Ntcheu		ny		MW-C
+district	MW-NI*	Ntchisi		en		MW-C
+district	MW-NI*	Ntchisi		ny		MW-C
+district	MW-PH*	Phalombe		en		MW-S
+district	MW-PH*	Phalombe		ny		MW-S
+district	MW-RU*	Rumphi		en		MW-N
+district	MW-RU*	Rumphi		ny		MW-N
+district	MW-SA*	Salima		en		MW-C
+district	MW-SA*	Salima		ny		MW-C
+region	MW-S*	Southern Region		en		
+district	MW-TH*	Thyolo		en		MW-S
+district	MW-TH*	Thyolo		ny		MW-S
+district	MW-ZO*	Zomba		en		MW-S
+district	MW-ZO*	Zomba		ny		MW-S

@@ -1,0 +1,63 @@
+; ISO 3166-2:BF
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:BF
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	BF-BAL*	Balé		fr		BF-01
+province	BF-BAM*	Bam		fr		BF-05
+province	BF-BAN*	Banwa		fr		BF-01
+province	BF-BAZ*	Bazèga		fr		BF-07
+region	BF-01*	Boucle du Mouhoun		fr		
+province	BF-BGR*	Bougouriba		fr		BF-13
+province	BF-BLG*	Boulgou		fr		BF-04
+province	BF-BLK*	Boulkiemdé		fr		BF-06
+region	BF-02*	Cascades		fr		
+region	BF-03*	Centre		fr		
+region	BF-04*	Centre-Est		fr		
+region	BF-05*	Centre-Nord		fr		
+region	BF-06*	Centre-Ouest		fr		
+region	BF-07*	Centre-Sud		fr		
+province	BF-COM*	Comoé		fr		BF-02
+region	BF-08*	Est		fr		
+province	BF-GAN*	Ganzourgou		fr		BF-11
+province	BF-GNA*	Gnagna		fr		BF-08
+province	BF-GOU*	Gourma		fr		BF-08
+region	BF-09*	Hauts-Bassins		fr		
+province	BF-HOU*	Houet		fr		BF-09
+province	BF-IOB*	Ioba		fr		BF-13
+province	BF-KAD*	Kadiogo		fr		BF-03
+province	BF-KMD*	Komondjari		fr		BF-08
+province	BF-KMP*	Kompienga		fr		BF-08
+province	BF-KOS*	Kossi		fr		BF-01
+province	BF-KOP*	Koulpélogo		fr		BF-04
+province	BF-KOT*	Kouritenga		fr		BF-04
+province	BF-KOW*	Kourwéogo		fr		BF-11
+province	BF-KEN*	Kénédougou		fr		BF-09
+province	BF-LOR*	Loroum		fr		BF-10
+province	BF-LER*	Léraba		fr		BF-02
+province	BF-MOU*	Mouhoun		fr		BF-01
+province	BF-NAO*	Nahouri		fr		BF-07
+province	BF-NAM*	Namentenga		fr		BF-05
+province	BF-NAY*	Nayala		fr		BF-01
+region	BF-10*	Nord		fr		
+province	BF-NOU*	Noumbiel		fr		BF-13
+province	BF-OUB*	Oubritenga		fr		BF-11
+province	BF-OUD*	Oudalan		fr		BF-12
+province	BF-PAS*	Passoré		fr		BF-10
+region	BF-11*	Plateau-Central		fr		
+province	BF-PON*	Poni		fr		BF-13
+region	BF-12*	Sahel		fr		
+province	BF-SNG*	Sanguié		fr		BF-06
+province	BF-SMT*	Sanmatenga		fr		BF-05
+province	BF-SIS*	Sissili		fr		BF-06
+province	BF-SOM*	Soum		fr		BF-12
+province	BF-SOR*	Sourou		fr		BF-01
+region	BF-13*	Sud-Ouest		fr		
+province	BF-SEN*	Séno		fr		BF-12
+province	BF-TAP*	Tapoa		fr		BF-08
+province	BF-TUI*	Tuy		fr		BF-09
+province	BF-YAG*	Yagha		fr		BF-12
+province	BF-YAT*	Yatenga		fr		BF-10
+province	BF-ZIR*	Ziro		fr		BF-06
+province	BF-ZON*	Zondoma		fr		BF-10
+province	BF-ZOU*	Zoundwéogo		fr		BF-07

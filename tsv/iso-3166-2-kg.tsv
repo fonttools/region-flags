@@ -1,0 +1,32 @@
+; ISO 3166-2:KG
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:KG
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	KG-B*	Batken		ky	BGN/PCGN 1979	
+region	KG-B*	Batkenskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KG-B*	Batkenskaya oblast'		ru	BGN/PCGN 1947	
+city	KG-GB*	Bishkek Shaary		ky	BGN/PCGN 1979	
+region	KG-C*	Chuyskaya oblast'		ru	BGN/PCGN 1947	
+region	KG-C*	Chüy		ky	BGN/PCGN 1979	
+region	KG-J*	Dzhalal-Abadskaya oblast'		ru	BGN/PCGN 1947	
+region	KG-J*	Džalal-Abadskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+city	KG-GB*	Gorod Bishkek		ru	BGN/PCGN 1947	
+city	KG-GB*	Gorod Biškek		ru	GOST 1983 = UN V/18 1987	
+city	KG-GO*	Gorod Osh		ru	BGN/PCGN 1947	
+city	KG-GO*	Gorod Oš		ru	GOST 1983 = UN V/18 1987	
+region	KG-Y*	Issyk-Kul'skaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KG-Y*	Issyk-Kul'skaya oblast'		ru	BGN/PCGN 1947	
+region	KG-J*	Jalal-Abad		ky	BGN/PCGN 1979	
+region	KG-N*	Naryn		ky	BGN/PCGN 1979	
+region	KG-N*	Narynskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KG-N*	Narynskaya oblast'		ru	BGN/PCGN 1947	
+region	KG-O*	Osh		ky	BGN/PCGN 1979	
+city	KG-GO*	Osh Shaary		ky	BGN/PCGN 1979	
+region	KG-O*	Oshskaya oblast'		ru	BGN/PCGN 1947	
+region	KG-O*	Ošskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KG-T*	Talas		ky	BGN/PCGN 1979	
+region	KG-T*	Talasskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+region	KG-T*	Talasskaya oblast'		ru	BGN/PCGN 1947	
+region	KG-Y*	Ysyk-Köl		ky	BGN/PCGN 1979	
+region	KG-C*	Čujskaja oblast'		ru	GOST 1983 = UN V/18 1987	

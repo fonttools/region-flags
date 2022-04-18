@@ -1,0 +1,99 @@
+; ISO 3166-2:EE
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:EE
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+rural municipality	EE-130	Alutaguse		et		EE-45
+rural municipality	EE-141	Anija		et		EE-37
+rural municipality	EE-142	Antsla		et		EE-87
+rural municipality	EE-171	Elva		et		EE-79
+urban municipality	EE-184	Haapsalu		et		EE-56
+rural municipality	EE-191	Haljala		et		EE-60
+county	EE-37	Harjumaa		et		
+rural municipality	EE-198	Harku		et		EE-37
+county	EE-39	Hiiumaa		et		
+rural municipality	EE-205	Hiiumaa		et		EE-39
+rural municipality	EE-214	Häädemeeste		et		EE-68
+county	EE-45	Ida-Virumaa		et		
+rural municipality	EE-255	Järva		et		EE-52
+county	EE-52	Järvamaa		et		
+rural municipality	EE-245	Jõelähtme		et		EE-37
+rural municipality	EE-247	Jõgeva		et		EE-50
+county	EE-50	Jõgevamaa		et		
+rural municipality	EE-251	Jõhvi		et		EE-45
+rural municipality	EE-272	Kadrina		et		EE-60
+rural municipality	EE-283	Kambja		et		EE-79
+rural municipality	EE-284	Kanepi		et		EE-64
+rural municipality	EE-291	Kastre		et		EE-79
+rural municipality	EE-293	Kehtna		et		EE-71
+urban municipality	EE-296	Keila		et		EE-37
+rural municipality	EE-303	Kihnu		et		EE-68
+rural municipality	EE-305	Kiili		et		EE-37
+rural municipality	EE-317	Kohila		et		EE-71
+urban municipality	EE-321	Kohtla-Järve		et		EE-45
+rural municipality	EE-338	Kose		et		EE-37
+rural municipality	EE-353	Kuusalu		et		EE-37
+urban municipality	EE-424	Loksa		et		EE-37
+rural municipality	EE-432	Luunja		et		EE-79
+rural municipality	EE-431	Lääne-Harju		et		EE-37
+rural municipality	EE-441	Lääne-Nigula		et		EE-56
+county	EE-60	Lääne-Virumaa		et		
+county	EE-56	Läänemaa		et		
+rural municipality	EE-430	Lääneranna		et		EE-68
+rural municipality	EE-442	Lüganuse		et		EE-45
+urban municipality	EE-446	Maardu		et		EE-37
+rural municipality	EE-478	Muhu		et		EE-74
+rural municipality	EE-480	Mulgi		et		EE-84
+rural municipality	EE-486	Mustvee		et		EE-50
+rural municipality	EE-503	Märjamaa		et		EE-71
+urban municipality	EE-511	Narva		et		EE-45
+urban municipality	EE-514	Narva-Jõesuu		et		EE-45
+rural municipality	EE-528	Nõo		et		EE-79
+rural municipality	EE-557	Otepää		et		EE-81
+urban municipality	EE-567	Paide		et		EE-52
+rural municipality	EE-586	Peipsiääre		et		EE-79
+urban municipality	EE-624	Pärnu		et		EE-68
+county	EE-68	Pärnumaa		et		
+rural municipality	EE-638	Põhja-Pärnumaa		et		EE-68
+rural municipality	EE-615	Põhja-Sakala		et		EE-84
+rural municipality	EE-618	Põltsamaa		et		EE-50
+rural municipality	EE-622	Põlva		et		EE-64
+county	EE-64	Põlvamaa		et		
+rural municipality	EE-651	Raasiku		et		EE-37
+rural municipality	EE-653	Rae		et		EE-37
+urban municipality	EE-663	Rakvere		et		EE-60
+rural municipality	EE-661	Rakvere		et		EE-60
+rural municipality	EE-668	Rapla		et		EE-71
+county	EE-71	Raplamaa		et		
+rural municipality	EE-689	Ruhnu		et		EE-74
+rural municipality	EE-708	Räpina		et		EE-64
+rural municipality	EE-698	Rõuge		et		EE-87
+rural municipality	EE-712	Saarde		et		EE-68
+county	EE-74	Saaremaa		et		
+rural municipality	EE-714	Saaremaa		et		EE-74
+rural municipality	EE-719	Saku		et		EE-37
+rural municipality	EE-726	Saue		et		EE-37
+rural municipality	EE-732	Setomaa		et		EE-87
+urban municipality	EE-735	Sillamäe		et		EE-45
+urban municipality	EE-784	Tallinn		et		EE-37
+rural municipality	EE-792	Tapa		et		EE-60
+urban municipality	EE-793	Tartu		et		EE-79
+rural municipality	EE-796	Tartu		et		EE-79
+county	EE-79	Tartumaa		et		
+rural municipality	EE-803	Toila		et		EE-45
+rural municipality	EE-809	Tori		et		EE-68
+rural municipality	EE-824	Tõrva		et		EE-81
+rural municipality	EE-834	Türi		et		EE-52
+rural municipality	EE-855	Valga		et		EE-81
+county	EE-81	Valgamaa		et		
+rural municipality	EE-890	Viimsi		et		EE-37
+urban municipality	EE-897	Viljandi		et		EE-84
+rural municipality	EE-899	Viljandi		et		EE-84
+county	EE-84	Viljandimaa		et		
+rural municipality	EE-901	Vinni		et		EE-60
+rural municipality	EE-903	Viru-Nigula		et		EE-60
+rural municipality	EE-907	Vormsi		et		EE-56
+rural municipality	EE-928	Väike-Maarja		et		EE-60
+urban municipality	EE-919	Võru		et		EE-87
+rural municipality	EE-917	Võru		et		EE-87
+county	EE-87	Võrumaa		et		

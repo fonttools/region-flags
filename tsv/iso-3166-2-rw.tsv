@@ -1,0 +1,20 @@
+; ISO 3166-2:RW
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:RW
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	RW-03*	Amajyaruguru		rw		
+province	RW-05*	Amajyepfo		rw		
+city	RW-01*	City of Kigali		en		
+province	RW-02*	Eastern		en		
+province	RW-02*	Est		fr		
+province	RW-02*	Iburasirazuba		rw		
+province	RW-04*	Iburengerazuba		rw		
+province	RW-03*	Nord		fr		
+province	RW-03*	Northern		en		
+province	RW-04*	Ouest		fr		
+province	RW-05*	Southern		en		
+province	RW-05*	Sud		fr		
+city	RW-01*	Umujyi wa Kigali		rw		
+city	RW-01*	Ville de Kigali		fr		
+province	RW-04*	Western		en		

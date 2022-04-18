@@ -1,0 +1,39 @@
+; ISO 3166-2:CF
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:CF
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+prefecture	CF-BB	Bamingui-Bangoran		fr		
+prefecture	CF-BB	Bamïngï-Bangoran		sg		
+commune	CF-BGF	Bangui		fr		
+commune	CF-BGF	Bangî		sg		
+prefecture	CF-BK	Basse-Kotto		fr		
+prefecture	CF-BK	Do-Kötö		sg		
+economic prefecture	CF-KB	Gribingui		fr		
+economic prefecture	CF-KB	Gïrïbïngï		sg		
+prefecture	CF-HM	Haut-Mbomou		fr		
+prefecture	CF-HK	Haute-Kotto		fr		
+prefecture	CF-HS	Haute-Sangha / Mambéré-Kadéï		fr		
+prefecture	CF-KG	Kemö-Gïrïbïngï		sg		
+prefecture	CF-KG	Kémo-Gribingui		fr		
+prefecture	CF-LB	Lobaye		fr		
+prefecture	CF-LB	Lobâye		sg		
+prefecture	CF-MB	Mbomou		fr		
+prefecture	CF-MB	Mbömü		sg		
+prefecture	CF-NM	Nana-Mambéré		fr		
+prefecture	CF-NM	Nanä-Mbaere		sg		
+prefecture	CF-MP	Ombella-Mpoko		fr		
+prefecture	CF-UK	Ouaka		fr		
+prefecture	CF-AC	Ouham		fr		
+prefecture	CF-OP	Ouham-Pendé		fr		
+economic prefecture	CF-SE	Sangha		fr		
+economic prefecture	CF-SE	Sangä		sg		
+prefecture	CF-HK	Tö-Kötö		sg		
+prefecture	CF-HM	Tö-Mbömü		sg		
+prefecture	CF-HS	Tö-Sangä / Mbaere-Kadeï		sg		
+prefecture	CF-VK	Vakaga		fr		
+prefecture	CF-VK	Vakaga		sg		
+prefecture	CF-AC	Wâmo		sg		
+prefecture	CF-OP	Wâmo-Pendë		sg		
+prefecture	CF-UK	Wäkä		sg		
+prefecture	CF-MP	Ömbëlä-Pökö		sg		

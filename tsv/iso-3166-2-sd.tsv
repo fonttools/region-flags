@@ -1,0 +1,41 @@
+; ISO 3166-2:SD
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:SD
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+state	SD-RS*	Al Baḩr al Aḩmar		ar	BGN/PCGN 1956	
+state	SD-GZ*	Al Jazīrah		ar	BGN/PCGN 1956	
+state	SD-KH*	Al Kharţūm		ar	BGN/PCGN 1956	
+state	SD-GD*	Al Qaḑārif		ar	BGN/PCGN 1956	
+state	SD-NW*	An Nīl al Abyaḑ		ar	BGN/PCGN 1956	
+state	SD-NB*	An Nīl al Azraq		ar	BGN/PCGN 1956	
+state	SD-NO*	Ash Shamālīyah		ar	BGN/PCGN 1956	
+state	SD-NB*	Blue Nile		en		
+state	SD-DC*	Central Darfur	Zalingei	en		
+state	SD-DE*	East Darfur		en		
+state	SD-GD*	Gedaref		en		
+state	SD-GZ*	Gezira		en		
+state	SD-DW*	Gharb Dārfūr		ar	BGN/PCGN 1956	
+state	SD-GK*	Gharb Kurdufān		ar	BGN/PCGN 1956	
+state	SD-DS*	Janūb Dārfūr		ar	BGN/PCGN 1956	
+state	SD-KS*	Janūb Kurdufān		ar	BGN/PCGN 1956	
+state	SD-KA*	Kassala		en		
+state	SD-KA*	Kassalā		ar	BGN/PCGN 1956	
+state	SD-KH*	Khartoum		en		
+state	SD-NR*	Nahr an Nīl		ar	BGN/PCGN 1956	
+state	SD-DN*	North Darfur		en		
+state	SD-KN*	North Kordofan		en		
+state	SD-NO*	Northern		en		
+state	SD-RS*	Red Sea		en		
+state	SD-NR*	River Nile		en		
+state	SD-SI*	Sennar		en		
+state	SD-DN*	Shamāl Dārfūr		ar	BGN/PCGN 1956	
+state	SD-KN*	Shamāl Kurdufān		ar	BGN/PCGN 1956	
+state	SD-DE*	Sharq Dārfūr		ar	BGN/PCGN 1956	
+state	SD-SI*	Sinnār		ar	BGN/PCGN 1956	
+state	SD-DS*	South Darfur		en		
+state	SD-KS*	South Kordofan		en		
+state	SD-DC*	Wasaţ Dārfūr	Zālinjay	ar	BGN/PCGN 1956	
+state	SD-DW*	West Darfur		en		
+state	SD-GK*	West Kordofan		en		
+state	SD-NW*	White Nile		en		

@@ -1,0 +1,43 @@
+; ISO 3166-2:NP
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:NP
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+zone	NP-BA	Bagmati		ne	conventional names	NP-1
+zone	NP-BH	Bheri		ne	conventional names	NP-2
+province	NP-P3*	Bāgmatī	Province 3	en		
+province	NP-P3*	Bāgmatī	Pradesh 3	ne	conventional names	
+development region	NP-1	Central		en		
+zone	NP-DH	Dhawalagiri		ne	conventional names	NP-3
+development region	NP-4	Eastern		en		
+development region	NP-5	Far Western		en		
+zone	NP-GA	Gandaki		ne	conventional names	NP-3
+province	NP-P4*	Gandaki	Province 4	en		
+province	NP-P4*	Gandaki	Pradesh 4	ne	conventional names	
+zone	NP-JA	Janakpur		ne	conventional names	NP-1
+zone	NP-KA	Karnali		ne	conventional names	NP-2
+province	NP-P6*	Karnali	Province 6	en		
+province	NP-P6*	Karnali	Pradesh 6	ne	conventional names	
+zone	NP-KO	Kosi	Koshi	ne	conventional names	NP-4
+zone	NP-LU	Lumbini		ne	conventional names	NP-3
+province	NP-P5*	Lumbini	Province 5	en		
+province	NP-P5*	Lumbinī	Pradesh 5	ne	conventional names	
+development region	NP-2	Madhya Pashchimanchal		ne	conventional names	
+development region	NP-1	Madhyamanchal		ne	conventional names	
+zone	NP-MA	Mahakali		ne	conventional names	NP-5
+zone	NP-ME	Mechi		ne	conventional names	NP-4
+development region	NP-2	Mid Western		en		
+zone	NP-NA	Narayani		ne	conventional names	NP-1
+development region	NP-3	Pashchimanchal		ne	conventional names	
+province	NP-P1*	Pradesh 1		ne	conventional names	
+province	NP-P2*	Pradesh 2		ne	conventional names	
+province	NP-P1*	Province 1		en		
+province	NP-P2*	Province 2		en		
+development region	NP-4	Purwanchal		ne	conventional names	
+zone	NP-RA	Rapti		ne	conventional names	NP-2
+zone	NP-SA	Sagarmatha		ne	conventional names	NP-4
+zone	NP-SE	Seti		ne	conventional names	NP-5
+development region	NP-5	Sudur Pashchimanchal		ne	conventional names	
+province	NP-P7*	Sudūr Pashchim	Sudūrpashchim; Province 7	en		
+province	NP-P7*	Sudūr Pashchim	Sudūrpashchim; Pradesh 7	ne	conventional names	
+development region	NP-3	Western		en		

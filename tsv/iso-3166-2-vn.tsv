@@ -1,0 +1,68 @@
+; ISO 3166-2:VN
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:VN
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	VN-44	An Giang		vi		
+province	VN-43	Bà Rịa - Vũng Tàu		vi		
+province	VN-57*	Bình Dương		vi		
+province	VN-58*	Bình Phước		vi		
+province	VN-40	Bình Thuận		vi		
+province	VN-31	Bình Định		vi		
+province	VN-55*	Bạc Liêu		vi		
+province	VN-54*	Bắc Giang		vi		
+province	VN-53*	Bắc Kạn		vi		
+province	VN-56*	Bắc Ninh		vi		
+province	VN-50	Bến Tre		vi		
+province	VN-04	Cao Bằng		vi		
+province	VN-59*	Cà Mau		vi		
+municipality	VN-CT*	Cần Thơ		vi		
+province	VN-30	Gia Lai		vi		
+province	VN-03	Hà Giang		vi		
+province	VN-63*	Hà Nam		vi		
+municipality	VN-HN*	Hà Nội		vi		
+province	VN-23	Hà Tĩnh		vi		
+province	VN-14	Hòa Bình		vi		
+province	VN-66*	Hưng Yên		vi		
+province	VN-61*	Hải Dương		vi		
+municipality	VN-HP*	Hải Phòng		vi		
+province	VN-73	Hậu Giang		vi		
+municipality	VN-SG*	Hồ Chí Minh	Sai Gon	vi		
+province	VN-34	Khánh Hòa		vi		
+province	VN-47	Kiến Giang		vi		
+province	VN-28	Kon Tum		vi		
+province	VN-01	Lai Châu		vi		
+province	VN-41	Long An		vi		
+province	VN-02	Lào Cai		vi		
+province	VN-35	Lâm Đồng		vi		
+province	VN-09	Lạng Sơn		vi		
+province	VN-67*	Nam Định		vi		
+province	VN-22	Nghệ An		vi		
+province	VN-18	Ninh Bình		vi		
+province	VN-36	Ninh Thuận		vi		
+province	VN-68*	Phú Thọ		vi		
+province	VN-32	Phú Yên		vi		
+province	VN-24	Quảng Bình		vi		
+province	VN-27	Quảng Nam		vi		
+province	VN-29	Quảng Ngãi		vi		
+province	VN-13	Quảng Ninh		vi		
+province	VN-25	Quảng Trị		vi		
+province	VN-52	Sóc Trăng		vi		
+province	VN-05	Sơn La		vi		
+province	VN-21	Thanh Hóa		vi		
+province	VN-20	Thái Bình		vi		
+province	VN-69*	Thái Nguyên		vi		
+province	VN-26	Thừa Thiên-Huế		vi		
+province	VN-46	Tiền Giang		vi		
+province	VN-51	Trà Vinh		vi		
+province	VN-07	Tuyên Quang		vi		
+province	VN-37	Tây Ninh		vi		
+province	VN-49	Vĩnh Long		vi		
+province	VN-70*	Vĩnh Phúc		vi		
+province	VN-06	Yên Bái		vi		
+province	VN-71	Điện Biên		vi		
+municipality	VN-DN*	Đà Nẵng		vi		
+province	VN-33	Đắk Lắk		vi		
+province	VN-72	Đắk Nông		vi		
+province	VN-39	Đồng Nai		vi		
+province	VN-45	Đồng Tháp		vi		

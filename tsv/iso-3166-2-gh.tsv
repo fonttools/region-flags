@@ -1,0 +1,21 @@
+; ISO 3166-2:GH
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:GH
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	GH-AF*	Ahafo		en		
+region	GH-AH	Ashanti		en		
+region	GH-BO*	Bono		en		
+region	GH-BE*	Bono East		en		
+region	GH-CP	Central		en		
+region	GH-EP	Eastern		en		
+region	GH-AA	Greater Accra		en		
+region	GH-NE*	North East		en		
+region	GH-NP	Northern		en		
+region	GH-OT*	Oti		en		
+region	GH-SV*	Savannah		en		
+region	GH-UE*	Upper East		en		
+region	GH-UW*	Upper West		en		
+region	GH-TV	Volta		en		
+region	GH-WP	Western		en		
+region	GH-WN*	Western North		en		

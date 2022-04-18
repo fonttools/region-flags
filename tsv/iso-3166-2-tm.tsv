@@ -1,0 +1,11 @@
+; ISO 3166-2:TM
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:TM
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	TM-A*	Ahal		tk		
+city	TM-S*	Aşgabat		tk		
+region	TM-B*	Balkan		tk		
+region	TM-D*	Daşoguz		tk		
+region	TM-L*	Lebap		tk		
+region	TM-M*	Mary		tk		
