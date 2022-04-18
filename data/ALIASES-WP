@@ -1,13 +1,47 @@
 Åland Islands	Åland
-Ascension Island	Ascension Island PD
+AE-AJ	Ajman
+AE-UQ	Umm al-Qaiwain
+AR-C	File:Bandera de la Ciudad de Buenos Aires
+AR-H	File:Bandera de la Provincia del Chaco
+AR-R	File:Bandera de la Provincia del Río Negro
+AR-U	File:Bandera de la Provincia del Chubut
 AU-ACT	the Australian Capital Territory
 AU-NT	the Northern Territory
 AU-VIC	Victoria (Australia)
+Ascension Island	Ascension Island PD
+BR-AL	File:Bandeira de Alagoas
+BR-BA	File:Bandeira da Bahia
+BR-GO	Goiás
+BR-MG	File:Bandeira de Minas Gerais
+BR-MS	File:Bandeira de Mato Grosso do Sul
+BR-MT	File:Bandeira de Mato Grosso
+BR-PB	File:Bandeira da Paraíba
+BR-PE	File:Bandeira de Pernambuco
+BR-RJ	File:Bandeira do estado do Rio de Janeiro
+BR-RO	File:Bandeira de Rondônia
+BR-RR	File:Bandeira de Roraima
+BR-SC	File:Bandeira de Santa Catarina
+BR-SE	File:Bandeira de Sergipe
+BR-SP	File:Bandeira do estado de São Paulo
 British Indian Ocean Territory	the British Indian Ocean Territory
 Brunei Darussalam	Brunei
 CA-NT	the Northwest Territories
+CH-BE	Canton of Bern
+CH-BL	Canton of Basel Land
+CH-BS	Canton of Basel
+CH-GE	Canton of Geneva
+CH-GR	Canton of Graubünden
+CH-LU	Canton of Lucerne
+CH-TI	Canton of Tessin
+CH-VS	Canton of Valais
+CO-AMA	Amazonas (Colombia)
+CO-BOL	Bolívar (Colombia)
+CO-DC	Bogotá (Distrito Capital)
+CO-SAP	San Andrés y Providencia
 Canary Islands	the Canary Islands (simple)
 Central African Republic	the Central African Republic
+Chungcheongbuk	North Chungcheong Province
+Chungcheongnam	South Chungcheong Province
 Cocos (Keeling) Islands	the Cocos (Keeling) Islands
 Congo	the Republic of the Congo
 DE-BY	Bavaria (lozengy)
@@ -20,20 +54,90 @@ DE-SN	Saxony
 DE-ST	Saxony-Anhalt (state)
 DE-TH	Thuringia
 Democratic People's Republic of Korea	North Korea
+EE-184	File:Haapsalu lipp
+EE-191	Haljala Parish
+EE-205	Hiiumaa Parish
+EE-214	Tahkuranna Parish
+EE-251	File:Flag of Jõhvi
+EE-272	Kadrina vald
+EE-283	File:Kambja valla lipp 2020
+EE-296	Keila
+EE-303	File:EE Kihnu fl
+EE-305	Kiili
+EE-321	Kohtla-Jarve
+EE-353	File:Kuusalu Parish flag
+EE-37	et-Harju maakond
+EE-424	Loksa
+EE-442	File:Lüganuse valla lipp 2017
+EE-446	et-Maardu
+EE-478	Muhu Parish
+EE-503	Märjamaa Parish
+EE-511	et-Narva
+EE-514	Narva-Jõesuu
+EE-52	et-Järva maakond
+EE-557	Otepää Parish
+EE-567	File:Paide lipp
+EE-615	Suure-Jaani
+EE-624	et-Parnu
+EE-651	Raasiku Parish
+EE-663	et-Rakvere
+EE-668	File:Rapla valla lipp 01
+EE-689	Ruhnu Parish
+EE-708	Räpina Parish
+EE-714	File:Saaremaa-valla-lipp
+EE-719	Saku Parish
+EE-732	Setomaa
+EE-735	Sillamäe
+EE-784	Tallinn
+EE-793	File:Tartu flag
+EE-796	Tartu Parish
+EE-803	Toila Parish
+EE-897	et-Viljandi
+EE-901	File:EST Vinni vald flag
+EE-903	Viru-Nigula Parish
+EE-907	File:VormsiParishFlag
+EE-919	et-Võru
+EE-928	Väike-Maarja Parish
 European Union	Europe
 Falkland Islands (Malvinas)	the Falkland Islands
 Faroe Islands	the Faroe Islands
 French Southern Territories	the French Southern and Antarctic Lands
+Gangwon	Gangwon Province
 Guadeloupe	Guadeloupe (local)
+Gyeongsangbuk	North Gyeongsang Province
+Gyeongsangnam	South Gyeongsang Province
 Holy See (Vatican City State)	the Vatican City
 Islamic Republic of Iran	Iran
 Island of Sark	Sark
 Isle of Man	the Isle of Man
+JP-01	Hokkaido Prefecture
+JP-07	Fukushima Prefecture
+JP-09	Tochigi Prefecture
+JP-12	Chiba Prefecture
+JP-13	Tokyo Metropolis
+JP-17	Ishikawa Prefecture
+JP-18	Fukui Prefecture
+JP-19	Yamanashi Prefecture
+JP-21	Gifu Prefecture
+JP-22	Shizuoka Prefecture
+JP-23	Aichi Prefecture
+JP-25	Shiga Prefecture
+JP-26	Kyoto Prefecture
+JP-27	Osaka Prefecture
+JP-28	Hyogo Prefecture
+JP-32	Shimane Prefecture
+JP-34	Hiroshima Prefecture
+JP-35	Yamaguchi Prefecture
+JP-36	Tokushima Prefecture
+JP-39	Kochi Prefecture
+JP-40	Fukuoka Prefecture
+JP-44	Oita Prefecture
+JP-46	Kagoshima Prefecture
+Jeollabuk	North Jeolla Province
+Jeollanam	South Jeolla Province
+KR-50	Sejong City, South Korea
 Kosovo	Kosovo GovOutline PD
 Lao People's Democratic Republic	Laos
-Macao	Macau
-Marshall Islands	the Marshall Islands
-Mayotte	Mayotte (local)
 MX-CMX	Mexican Federal District
 MX-COA	Coahuila
 MX-MEX	Mexico (state)
@@ -43,6 +147,10 @@ MX-QUE	Queretaro
 MX-SLP	San Luis Potosi
 MX-VER	Veracruz
 MX-YUC	Yucatan
+Macao	Macau
+Marshall Islands	the Marshall Islands
+Mayotte	Mayotte (local)
+New Caledonia	FLNKS
 Northern Mariana Islands	the Northern Mariana Islands
 Pitcairn	Pitcairn Islands
 Saint Helena, Ascension and Tristan da Cunha	Saint Helena
@@ -56,15 +164,10 @@ The Democratic Republic of the Congo	the Democratic Republic of the Congo
 The Former Yugoslav Republic of Macedonia	Macedonia
 Timor-Leste	East Timor
 Turks and Caicos Islands	the Turks and Caicos Islands
+U.S. Virgin Islands	the United States Virgin Islands
+US-DC	Washington, D.C.
+US-GA	Georgia (U.S. state)
 Union of Soviet Socialist Republics	the Soviet Union
 United Nations	the United Nations
 United Republic of Tanzania	Tanzania
-US-DC	Washington, D.C.
-US-GA	Georgia (U.S. state)
-U.S. Virgin Islands	the United States Virgin Islands
 Viet Nam	Vietnam
-New Caledonia	FLNKS
-CO-AMA	Amazonas (Colombia)
-CO-BOL	Bolívar (Colombia)
-CO-DC	Bogotá (Distrito Capital)
-CO-SAP	San Andrés y Providencia

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600" height="400" viewBox="0 0 600 400" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 300 200)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 0 0)" id="rect10175"  >
+<rect style="stroke: none; stroke-width: 0.872867; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  x="-300" y="-200" rx="0" ry="0" width="600" height="400" />
+</g>
+		<g transform="matrix(1 0 0 1 0 0)" id="rect10177"  >
+<rect style="stroke: none; stroke-width: 0.872867; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(117,170,219); fill-rule: nonzero; opacity: 1;"  x="-300" y="-66.66667" rx="0" ry="0" width="600" height="133.33334" />
+</g>
+</g>
+</g>
+</svg>

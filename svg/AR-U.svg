@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 120 60">
+<rect width="120" height="60" fill="#60b2d5"/>
+<g fill="none" stroke="#fff" stroke-width="3">
+<path d="m-8,25 17,-10 17,10 17,-10 17,10 17,-10 17,10 17,-10 17,10"/>
+<path d="m0,50c8,0 12,6 20,6s12,-6 20,-6s12,6 20,6s12,-6 20,-6s12,6 20,6s12,-6 20,-6" stroke-linecap="square"/>
+</g>
+<path d="M0,30H120" stroke="#e5d21f" stroke-width="2"/>
+<g>
+<g id="r4">
+<path id="r1" d="M45,21V19L60,19.5v1z" fill="#e5d21f" transform="rotate(-6.428571,60,20)"/>
+<use xlink:href="#r1" transform="rotate(12.857143,60,20)"/>
+<use xlink:href="#r1" transform="rotate(25.714286,60,20)"/>
+<use xlink:href="#r1" transform="rotate(38.571429,60,20)"/>
+</g>
+<use xlink:href="#r4" transform="rotate(51.428571,60,20)"/>
+<use xlink:href="#r4" transform="rotate(102.857143,60,20)"/>
+<use xlink:href="#r4" transform="rotate(154.285714,60,20)"/>
+<g stroke="#19639b" stroke-width="0.4">
+<circle cx="60" cy="35" r="15" fill="#19649b" stroke-width="6" stroke-dasharray="2.945243" transform="rotate(5.625,60,35)"/>
+<circle cx="60" cy="35" r="11" fill="#60b2d5" stroke="none"/>
+<path d="M59,20V14 16H61V14 20" fill="#fff"/>
+<path d="M58,15V31.6a2,2 0 1,0 4,0V15" fill="none"/>
+<path d="M60,13V36"/>
+</g>
+<g>
+<g id="l">
+<g id="h" transform="rotate(-60,60,19)">
+<use xlink:href="#e" stroke="#19639b" stroke-width="0.5"/>
+<ellipse id="e" cx="61" cy="19.5" rx="1" ry="0.5" fill="#fff"/>
+<path d="M59.8,19.5H62.2" stroke="#19639b" stroke-width="0.15"/>
+</g>
+<use xlink:href="#h" x="-120" transform="scale(-1,1)"/>
+</g>
+<use xlink:href="#l" y="1.75"/>
+<use xlink:href="#l" y="3.5"/>
+<use xlink:href="#l" y="5.25"/>
+<use xlink:href="#l" y="7"/>
+<use xlink:href="#l" y="8.75"/>
+<use xlink:href="#l" y="10.5"/>
+<use xlink:href="#l" y="12.25"/>
+<use xlink:href="#l" y="14"/>
+</g>
+<g fill="none" stroke="#19639b" stroke-width="0.2">
+<path fill="#fff" d="M64.2,37V35.5H54.4V37.2L54.6,37.4V39.1L54.7,39.3V40.3H55.2V40.8H55.8V41H56.4V41.4H57.2V41.8H58V42.2H58.8V42.8H59.6V43.3H60.6V43.7H61.6V44L63,45 63.8,42.6V38.5z"/>
+<path fill="#19639b" d="M66,36.6V35.5H64.2V37L63.8,38.5V42.6L63,45 63.7,45.5H64.2V44.5L65.3,41.9V39.1z"/>
+<path d="M54.4,35.8H64.2"/>
+<path d="M54.4,36.1 64.2,36.5"/>
+<path d="M54.4,36.4 64.2,37"/>
+<path d="M54.6,37.8 63.8,39.9"/>
+<path d="M54.9,35.5V37.3L55.1,37.5V39.4L55.2,39.6V40.3"/>
+<path d="M55.4,35.5V37.4L55.7,37.7V39.6L55.8,39.8V40.8"/>
+<path d="M56,35.5V37.5L56.3,37.8V39.9L56.4,40.1V41"/>
+<path d="M56.8,35.5V37.6L57.1,37.9V40.2L57.2,40.4V41.4"/>
+<path d="M57.6,35.5V37.8L57.9,38.1V40.5L58,40.7V41.8"/>
+<path d="M58.4,35.5V38L58.7,38.3V41L58.8,41.2V42.2"/>
+<path d="M59.2,35.5V38.2L59.5,38.5V41.3L59.6,41.5V42.8"/>
+<path d="M60.2,35.5V38.3L60.5,38.6V41.7L60.6,41.9V43.3"/>
+<path d="M61.1,35.5V38.4L61.5,38.8V42L61.6,42.3V43.7"/>
+</g>
+</g>
+</svg>

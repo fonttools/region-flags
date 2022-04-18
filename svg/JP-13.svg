@@ -1,0 +1,12 @@
+<svg viewBox="-13.5 -9 27 18" width="900" height="600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#fff">
+<path d="M-13.5-9h27v18h-27z" fill="#4b0082"/>
+<g id="b">
+<path id="a" d="M0 6L.5 5.519259V2h-1V5.519259z"/><!--12-√42-->
+<use xlink:href="#a" transform="rotate(60)"/>
+<use xlink:href="#a" transform="rotate(-60)"/>
+</g>
+<use xlink:href="#b" transform="scale(1-1)"/>
+<circle r="3"/>
+<circle r="2" fill="#4b0082"/>
+<circle r="1"/>
+</svg>

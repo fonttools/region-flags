@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="471"
+   height="300"
+   id="Flag of Valga">
+  <rect
+     style="fill:#e9e155"
+     x="0"
+     y="0"
+     width="471"
+     height="60"
+     id="yellow Stripe" />
+  <rect
+     style="fill:#009f62"
+     x="0"
+     y="60"
+     width="471"
+     height="180"
+     id="green Stripe" />
+  <rect
+     style="fill:#e9e155"
+     x="0"
+     y="240"
+     width="471"
+     height="60"
+     id="yellow Stripe" />
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="400"
+   height="266"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46dev+devel"
+   sodipodi:docname="Flag of Ehime.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="712"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.3716808"
+     inkscape:cx="200"
+     inkscape:cy="133"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5" />
+  <rect
+     style="opacity:1;fill:#019066;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86629224;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2895"
+     width="400"
+     height="266"
+     x="0"
+     y="0" />
+  <path
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86629224;stroke-dasharray:none;stroke-opacity:1"
+     d="M 160.8217,66.353191 C 160.8217,66.353191 146.35572,76.091264 145.45867,113.929 C 109.19684,103.09043 95.475747,113.78742 95.475752,113.78741 C 95.475756,113.78741 100.26485,130.55194 135.97183,143.09751 C 114.44782,174.24349 120.46722,190.60253 120.46721,190.60252 C 120.46722,190.60252 137.84283,191.26903 160.8217,161.15083 C 183.80057,191.26902 201.17619,190.60252 201.17618,190.60252 C 201.17618,190.60253 207.18216,174.23286 185.67156,143.09751 C 221.37853,130.55194 226.16764,113.8582 226.16764,113.85821 C 226.16764,113.8582 212.44656,103.09043 176.18472,113.929 C 175.28768,76.091264 160.82169,66.353191 160.8217,66.353191 z"
+     id="path2808" />
+  <path
+     style="opacity:1;fill:#f9f400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86629224;stroke-dasharray:none;stroke-opacity:1"
+     d="M 160.8217,114.0706 C 149.22578,114.0706 139.79488,123.43069 139.79489,135.02661 C 139.79489,146.62253 149.22577,156.05342 160.8217,156.05342 C 172.41762,156.05342 181.84851,146.62253 181.84851,135.02661 C 181.84851,123.43069 172.41761,114.0706 160.8217,114.0706 z M 160.8217,121.07954 C 168.52738,121.07953 174.76877,127.32094 174.76877,135.02661 C 174.76876,142.73228 168.52737,149.04448 160.8217,149.04448 C 153.11603,149.04448 146.87462,142.73229 146.87462,135.02661 C 146.87462,127.32093 153.11602,121.07954 160.8217,121.07954 z"
+     id="path2822" />
+  <rect
+     style="opacity:1;fill:#f9f400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86629224;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2891"
+     width="400"
+     height="53.200001"
+     x="0"
+     y="0" />
+  <rect
+     y="212.8"
+     x="0"
+     height="53.200001"
+     width="400"
+     id="rect2893"
+     style="opacity:1;fill:#f9f400;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3.86629224;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

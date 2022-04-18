@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2010"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="471.42999"
+   height="300"
+   version="1.0"
+   sodipodi:docname="Raplamaa_lipp.svg">
+  <metadata
+     id="metadata2015">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2013" />
+  <sodipodi:namedview
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     width="471.43px"
+     height="300px"
+     inkscape:zoom="1.2067957"
+     inkscape:cx="352.37631"
+     inkscape:cy="259.08881"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg2010"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <g
+     id="g2313"
+     transform="matrix(1.714291,0,0,1.714292,-1.386987e-6,-1.086921e-3)">
+    <rect
+       id="green Stripe"
+       style="fill:#009739;fill-opacity:1"
+       y="87.500328"
+       x="1.9417648e-006"
+       height="87.499664"
+       width="275" />
+    <rect
+       id="white Stripe"
+       style="fill:white"
+       y="0.00066018361"
+       x="1.9417648e-006"
+       height="87.499664"
+       width="275" />
+  </g>
+  <g
+     id="g17026"
+     transform="matrix(0.425532,0,0,0.425532,188.9055,14.99998)">
+    <path
+       id="path14129"
+       d="M 83.931054,0.49798759 L 0.49798521,0.49798759 L 0.49798521,104.5355 L 83.931054,104.5355 L 83.931054,0.49798759 z "
+       style="fill:#ef3340;fill-opacity:1;stroke:none;stroke-width:0.99597043;stroke-opacity:1" />
+    <path
+       id="path14135"
+       d="M 219.50201,104.5355 L 219.50201,0.49798759 L 135.1979,0.49798759 L 135.1979,104.5355 L 219.50201,104.5355 z "
+       style="fill:#fedd00;fill-opacity:1;stroke:none;stroke-width:0.99597043;stroke-opacity:1" />
+    <path
+       id="path14133"
+       d="M 135.1979,270.35402 C 174.96013,254.09471 216.97906,239.6027 219.50201,195.0584 L 219.50201,150.37303 L 135.1979,150.37303 L 135.1979,270.35402 z "
+       style="fill:#ef3340;fill-opacity:1;stroke:none;stroke-width:0.99597043;stroke-opacity:1" />
+    <path
+       id="path14131"
+       d="M 0.49798521,150.37303 L 0.49798521,195.0584 C 3.0023586,239.27458 44.430402,253.86535 83.931054,269.98035 L 83.931054,150.37303 L 0.49798521,150.37303 z "
+       style="fill:#0072ce;fill-opacity:1;stroke:none;stroke-width:0.99597043;stroke-opacity:1" />
+    <path
+       id="rect12303"
+       d="M 83.931054,0.49798759 L 83.931054,104.5355 L 0.49798521,104.5355 L 0.49798521,150.37303 L 83.931054,150.37303 L 83.931054,269.98035 C 92.868453,273.62652 101.73708,277.33718 110,281.50201 C 117.99191,277.47378 126.56049,273.88599 135.1979,270.35402 L 135.1979,150.37303 L 219.50201,150.37303 L 219.50201,104.5355 L 135.1979,104.5355 L 135.1979,0.49798759 L 83.931054,0.49798759 z "
+       style="fill:#ffffff;fill-opacity:1;stroke:#7f7f7f;stroke-width:0.99597043;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       id="path14126"
+       d="M 0.49798518,0.49799682 L 0.49798518,195.0584 C 3.5689952,249.27891 65.217385,258.92987 110,281.50201 C 154.7826,258.92987 216.431,249.27891 219.50201,195.0584 L 219.50201,0.49799682 L 0.49798518,0.49799682 z "
+       style="fill:none;fill-opacity:1;stroke:black;stroke-width:0.99597037;stroke-opacity:1" />
+  </g>
+</svg>
