@@ -1,0 +1,13 @@
+; ISO 3166-2:NE
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:NE
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	NE-1	Agadez		fr		
+region	NE-2	Diffa		fr		
+region	NE-3	Dosso		fr		
+region	NE-4	Maradi		fr		
+urban community	NE-8	Niamey		fr		
+region	NE-5	Tahoua		fr		
+region	NE-6	Tillabéri		fr		
+region	NE-7	Zinder		fr		

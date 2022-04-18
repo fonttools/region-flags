@@ -1,0 +1,37 @@
+; ISO 3166-2:RS
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:RS
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+city	RS-00*	Beograd		sr	UN III/11 1977	
+district	RS-14*	Borski okrug		sr	UN III/11 1977	
+district	RS-11*	Braničevski okrug		sr	UN III/11 1977	
+district	RS-23*	Jablanički okrug		sr	UN III/11 1977	
+district	RS-04*	Južnobanatski okrug		sr	UN III/11 1977	RS-VO
+district	RS-06*	Južnobački okrug		sr	UN III/11 1977	RS-VO
+district	RS-09*	Kolubarski okrug		sr	UN III/11 1977	
+autonomous province	RS-KM*	Kosovo-Metohija		sr	UN III/11 1977	
+district	RS-25*	Kosovski okrug		sr	UN III/11 1977	RS-KM
+district	RS-28*	Kosovsko-Mitrovački okrug		sr	UN III/11 1977	RS-KM
+district	RS-29*	Kosovsko-Pomoravski okrug		sr	UN III/11 1977	RS-KM
+district	RS-08*	Mačvanski okrug		sr	UN III/11 1977	
+district	RS-17*	Moravički okrug		sr	UN III/11 1977	
+district	RS-20*	Nišavski okrug		sr	UN III/11 1977	
+district	RS-26*	Pećki okrug		sr	UN III/11 1977	RS-KM
+district	RS-22*	Pirotski okrug		sr	UN III/11 1977	
+district	RS-10*	Podunavski okrug		sr	UN III/11 1977	
+district	RS-13*	Pomoravski okrug		sr	UN III/11 1977	
+district	RS-27*	Prizrenski okrug		sr	UN III/11 1977	RS-KM
+district	RS-24*	Pčinjski okrug		sr	UN III/11 1977	
+district	RS-19*	Rasinski okrug		sr	UN III/11 1977	
+district	RS-18*	Raški okrug		sr	UN III/11 1977	
+district	RS-03*	Severnobanatski okrug		sr	UN III/11 1977	RS-VO
+district	RS-01*	Severnobački okrug		sr	UN III/11 1977	RS-VO
+district	RS-02*	Srednjebanatski okrug		sr	UN III/11 1977	RS-VO
+district	RS-07*	Sremski okrug		sr	UN III/11 1977	RS-VO
+district	RS-21*	Toplički okrug		sr	UN III/11 1977	
+autonomous province	RS-VO*	Vojvodina		sr	UN III/11 1977	
+district	RS-15*	Zaječarski okrug		sr	UN III/11 1977	
+district	RS-05*	Zapadnobački okrug		sr	UN III/11 1977	RS-VO
+district	RS-16*	Zlatiborski okrug		sr	UN III/11 1977	
+district	RS-12*	Šumadijski okrug		sr	UN III/11 1977	

@@ -1,0 +1,98 @@
+; ISO 3166-2:ZA
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:ZA
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	ZA-NW	Bokone Bophirima		tn		
+province	ZA-EC*	Eastern Cape		en		
+province	ZA-FS	Foreisetata		tn		
+province	ZA-FS	Free State		en		
+province	ZA-FS	Free State		ts		
+province	ZA-FS	Freistata		-		
+province	ZA-FS	Freistata	Foreisetata	st		
+province	ZA-FS	Freyistata		xh		
+province	ZA-FS	Fuleyisitata	Freyisitata	zu		
+province	ZA-FS	Fureisitata		ve		
+province	ZA-KZN	GaZulu-Natala		-		
+province	ZA-GP	Gauteng		af		
+province	ZA-GP	Gauteng		en		
+province	ZA-GP	Gauteng		-		
+province	ZA-GP	Gauteng		ss		
+province	ZA-GP	Gauteng		tn		
+province	ZA-GP	Gauteng		ts		
+province	ZA-GP	Gauteng		ve		
+province	ZA-GP	Gauteng		zu		
+province	ZA-KZN	HaZulu-Natal		ve		
+province	ZA-KZN	Hazolo-Natala		st		
+province	ZA-WC*	Kapa Bodikela		-		
+province	ZA-EC*	Kapa Bohlabela		-		
+province	ZA-NC*	Kapa Bokone	Kapa Leboa	tn		
+province	ZA-WC*	Kapa Bophirima		tn		
+province	ZA-WC*	Kapa Bophirimela		st		
+province	ZA-EC*	Kapa Botjhabela		st		
+province	ZA-EC*	Kapa Botlhaba		tn		
+province	ZA-NC*	Kapa Devhula		ve		
+province	ZA-NC*	Kapa Leboya		-		
+province	ZA-NC*	Kapa Leboya		st		
+province	ZA-EC*	Kapa Vhubvaḓuvha		ve		
+province	ZA-WC*	Kapa Vhukovhela		ve		
+province	ZA-NC*	Kapa-N'walungu		ts		
+province	ZA-WC*	Kapa-Vupeladyambu		ts		
+province	ZA-EC*	Kapa-Vuxa		ts		
+province	ZA-GP	Kgauteng		st		
+province	ZA-KZN	KwaZulu-Natal		af		
+province	ZA-KZN	KwaZulu-Natal		tn		
+province	ZA-KZN	KwaZulu-Natala		xh		
+province	ZA-KZN	KwaZulu-Natali		ss		
+province	ZA-KZN	KwaZulu-Natali		zu		
+province	ZA-KZN	Kwazulu-Natal		en		
+province	ZA-KZN	Kwazulu-Natal		ts		
+province	ZA-NW	Lebowa Bodikela		-		
+province	ZA-NW	Leboya (le) Bophirima		st		
+province	ZA-LP*	Limpopo		af		
+province	ZA-LP*	Limpopo		en		
+province	ZA-LP*	Limpopo		nr		
+province	ZA-LP*	Limpopo		-		
+province	ZA-LP*	Limpopo		st		
+province	ZA-LP*	Limpopo		ss		
+province	ZA-LP*	Limpopo		tn		
+province	ZA-LP*	Limpopo		ts		
+province	ZA-LP*	Limpopo		xh		
+province	ZA-LP*	Limpopo		zu		
+province	ZA-NC*	Mntla-Koloni		xh		
+province	ZA-NW	Mntla-Ntshona		xh		
+province	ZA-EC*	Mpuma-Koloni		xh		
+province	ZA-MP*	Mpumalanga		af		
+province	ZA-MP*	Mpumalanga		en		
+province	ZA-MP*	Mpumalanga		-		
+province	ZA-MP*	Mpumalanga		st		
+province	ZA-MP*	Mpumalanga		ss		
+province	ZA-MP*	Mpumalanga		tn		
+province	ZA-MP*	Mpumalanga		ts		
+province	ZA-MP*	Mpumalanga		ve		
+province	ZA-MP*	Mpumalanga		xh		
+province	ZA-MP*	Mpumalanga		zu		
+province	ZA-EC*	Mpumalanga-Kapa	Mpumalanga-Koloni	zu		
+province	ZA-NW	N'walungu-Vupeladyambu		ts		
+province	ZA-NC*	Noord-Kaap		af		
+province	ZA-NW	Noordwes		af		
+province	ZA-NW	North-West		en		
+province	ZA-NC*	Northern Cape		en		
+province	ZA-WC*	Ntshona-Koloni		xh		
+province	ZA-WC*	Ntshonalanga-Kapa	Ntshonalanga-Koloni	zu		
+province	ZA-NC*	Nyakatho-Kapa	Nyakatho-Koloni	zu		
+province	ZA-NW	Nyakatho-Ntshonalanga		zu		
+province	ZA-EC*	Oos-Kaap		af		
+province	ZA-GP	Rhawuti		xh		
+province	ZA-LP*	Vhembe		ve		
+province	ZA-FS	Vrystaat		af		
+province	ZA-WC*	Wes-Kaap		af		
+province	ZA-WC*	Western Cape		en		
+province	ZA-FS	iFreyistata		nr		
+province	ZA-GP	iGauteng		nr		
+province	ZA-KZN	iKwaZulu-Natal		nr		
+province	ZA-MP*	iMpumalanga		nr		
+province	ZA-EC*	iPumalanga-Kapa		nr		
+province	ZA-WC*	iTjhingalanga-Kapa		nr		
+province	ZA-NC*	iTlhagwini-Kapa		nr		
+province	ZA-NW	iTlhagwini-Tjhingalanga		nr		

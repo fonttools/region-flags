@@ -1,0 +1,47 @@
+; ISO 3166-2:DO
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:DO
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	DO-02	Azua		es		DO-41
+province	DO-03	Baoruco		es		DO-38
+province	DO-04	Barahona		es		DO-38
+region	DO-33*	Cibao Nordeste		es		
+region	DO-34*	Cibao Noroeste		es		
+region	DO-35*	Cibao Norte		es		
+region	DO-36*	Cibao Sur		es		
+province	DO-05	Dajabón		es		DO-34
+district	DO-01	Distrito Nacional (Santo Domingo)		es		DO-40
+province	DO-06	Duarte		es		DO-33
+province	DO-08	El Seibo		es		DO-42
+region	DO-37*	El Valle		es		
+province	DO-07	Elías Piña		es		DO-37
+region	DO-38*	Enriquillo		es		
+province	DO-09	Espaillat		es		DO-35
+province	DO-30	Hato Mayor		es		DO-39
+province	DO-19	Hermanas Mirabal		es		DO-33
+region	DO-39*	Higuamo		es		
+province	DO-10	Independencia		es		DO-38
+province	DO-11	La Altagracia		es		DO-42
+province	DO-12	La Romana		es		DO-42
+province	DO-13	La Vega		es		DO-36
+province	DO-14	María Trinidad Sánchez		es		DO-33
+province	DO-28	Monseñor Nouel		es		DO-36
+province	DO-15	Monte Cristi		es		DO-34
+province	DO-29	Monte Plata		es		DO-39
+region	DO-40*	Ozama		es		
+province	DO-16	Pedernales		es		DO-38
+province	DO-17	Peravia		es		DO-41
+province	DO-18	Puerto Plata		es		DO-35
+province	DO-20	Samaná		es		DO-33
+province	DO-21	San Cristóbal		es		DO-41
+province	DO-31	San José de Ocoa		es		DO-41
+province	DO-22	San Juan		es		DO-37
+province	DO-23	San Pedro de Macorís		es		DO-39
+province	DO-25	Santiago		es		DO-35
+province	DO-26	Santiago Rodríguez		es		DO-34
+province	DO-32*	Santo Domingo		es		DO-40
+province	DO-24	Sánchez Ramírez		es		DO-36
+region	DO-41*	Valdesia		es		
+province	DO-27	Valverde		es		DO-34
+region	DO-42*	Yuma		es		

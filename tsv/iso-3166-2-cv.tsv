@@ -1,0 +1,29 @@
+; ISO 3166-2:CV
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:CV
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+municipality	CV-BV*	Boa Vista		pt		CV-B
+municipality	CV-BR*	Brava		pt		CV-S
+geographical region	CV-B*	Ilhas de Barlavento		pt		
+geographical region	CV-S*	Ilhas de Sotavento		pt		
+municipality	CV-MA*	Maio		pt		CV-S
+municipality	CV-MO*	Mosteiros		pt		CV-S
+municipality	CV-PA*	Paul		pt		CV-B
+municipality	CV-PN*	Porto Novo		pt		CV-B
+municipality	CV-PR*	Praia		pt		CV-S
+municipality	CV-RB*	Ribeira Brava		pt		CV-B
+municipality	CV-RG*	Ribeira Grande		pt		CV-B
+municipality	CV-RS*	Ribeira Grande de Santiago		pt		CV-S
+municipality	CV-SL*	Sal		pt		CV-B
+municipality	CV-CA*	Santa Catarina		pt		CV-S
+municipality	CV-CF*	Santa Catarina do Fogo		pt		CV-S
+municipality	CV-CR*	Santa Cruz		pt		CV-S
+municipality	CV-SD	São Domingos		pt		CV-S
+municipality	CV-SF*	São Filipe		pt		CV-S
+municipality	CV-SO*	São Lourenço dos Órgãos		pt		CV-S
+municipality	CV-SM*	São Miguel		pt		CV-S
+municipality	CV-SS*	São Salvador do Mundo		pt		CV-S
+municipality	CV-SV*	São Vicente		pt		CV-B
+municipality	CV-TA*	Tarrafal		pt		CV-S
+municipality	CV-TS*	Tarrafal de São Nicolau		pt		CV-B

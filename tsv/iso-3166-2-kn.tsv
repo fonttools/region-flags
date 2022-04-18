@@ -1,0 +1,21 @@
+; ISO 3166-2:KN
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:KN
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+parish	KN-01*	Christ Church Nichola Town		en		KN-K
+state	KN-N	Nevis		en		
+parish	KN-02*	Saint Anne Sandy Point		en		KN-K
+parish	KN-03*	Saint George Basseterre		en		KN-K
+parish	KN-04*	Saint George Gingerland		en		KN-N
+parish	KN-05*	Saint James Windward		en		KN-N
+parish	KN-06*	Saint John Capisterre		en		KN-K
+parish	KN-07*	Saint John Figtree		en		KN-N
+state	KN-K	Saint Kitts		en		
+parish	KN-08*	Saint Mary Cayon		en		KN-K
+parish	KN-09*	Saint Paul Capisterre		en		KN-K
+parish	KN-10*	Saint Paul Charlestown		en		KN-N
+parish	KN-11*	Saint Peter Basseterre		en		KN-K
+parish	KN-12*	Saint Thomas Lowland		en		KN-N
+parish	KN-13*	Saint Thomas Middle Island		en		KN-K
+parish	KN-15*	Trinity Palmetto Point		en		KN-K

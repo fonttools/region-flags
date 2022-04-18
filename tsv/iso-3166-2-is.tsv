@@ -1,0 +1,82 @@
+; ISO 3166-2:IS
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:IS
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+municipality	IS-AKH*	Akrahreppur		is		IS-5
+municipality	IS-AKN*	Akraneskaupstaður		is		IS-3
+municipality	IS-AKU*	Akureyrarbær		is		IS-6
+region	IS-7	Austurland		is		
+municipality	IS-BLA*	Bláskógabyggð		is		IS-8
+municipality	IS-BLO*	Blönduósbær		is		IS-5
+municipality	IS-BOL*	Bolungarvíkurkaupstaður		is		IS-4
+municipality	IS-BOG*	Borgarbyggð		is		IS-3
+municipality	IS-DAB*	Dalabyggð		is		IS-3
+municipality	IS-DAV*	Dalvíkurbyggð		is		IS-6
+municipality	IS-EOM*	Eyja- og Miklaholtshreppur		is		IS-3
+municipality	IS-EYF*	Eyjafjarðarsveit		is		IS-6
+municipality	IS-FJL*	Fjallabyggð		is		IS-6
+municipality	IS-FJD*	Fjarðabyggð		is		IS-7
+municipality	IS-FLR*	Fljótsdalshreppur		is		IS-7
+municipality	IS-FLA*	Flóahreppur		is		IS-8
+municipality	IS-GAR*	Garðabær		is		IS-1
+municipality	IS-GRN*	Grindavíkurbær		is		IS-2
+municipality	IS-GRU*	Grundarfjarðarbær		is		IS-3
+municipality	IS-GOG*	Grímsnes- og Grafningshreppur		is		IS-8
+municipality	IS-GRY*	Grýtubakkahreppur		is		IS-6
+municipality	IS-HAF*	Hafnarfjarðarkaupstaður		is		IS-1
+municipality	IS-HEL*	Helgafellssveit		is		IS-3
+municipality	IS-HRU*	Hrunamannahreppur		is		IS-8
+municipality	IS-HVA*	Hvalfjarðarsveit		is		IS-3
+municipality	IS-HVE*	Hveragerðisbær		is		IS-8
+region	IS-1	Höfuðborgarsvæði		is		
+municipality	IS-HRG*	Hörgársveit		is		IS-6
+municipality	IS-HUT*	Húnavatnshreppur		is		IS-5
+municipality	IS-HUV*	Húnaþing vestra		is		IS-5
+municipality	IS-KAL*	Kaldrananeshreppur		is		IS-4
+municipality	IS-KJO*	Kjósarhreppur		is		IS-1
+municipality	IS-KOP*	Kópavogsbær		is		IS-1
+municipality	IS-LAN*	Langanesbyggð		is		IS-6
+municipality	IS-MOS*	Mosfellsbær		is		IS-1
+municipality	IS-MUL*	Múlaþing		is		IS-7
+municipality	IS-MYR*	Mýrdalshreppur		is		IS-8
+region	IS-6	Norðurland eystra		is		
+region	IS-5	Norðurland vestra		is		
+municipality	IS-NOR*	Norðurþing		is		IS-6
+municipality	IS-RGE*	Rangárþing eystra		is		IS-8
+municipality	IS-RGY*	Rangárþing ytra		is		IS-8
+municipality	IS-RHH*	Reykhólahreppur		is		IS-4
+municipality	IS-RKN*	Reykjanesbær		is		IS-2
+municipality	IS-RKV*	Reykjavíkurborg		is		IS-1
+municipality	IS-SEL*	Seltjarnarnesbær		is		IS-1
+municipality	IS-SKF*	Skaftárhreppur		is		IS-8
+municipality	IS-SKG*	Skagabyggð		is		IS-5
+municipality	IS-SOG*	Skeiða- og Gnúpverjahreppur		is		IS-8
+municipality	IS-SKO*	Skorradalshreppur		is		IS-3
+municipality	IS-SKU*	Skútustaðahreppur		is		IS-6
+municipality	IS-SNF*	Snæfellsbær		is		IS-3
+municipality	IS-STR*	Strandabyggð		is		IS-4
+municipality	IS-STY*	Stykkishólmsbær		is		IS-3
+region	IS-8	Suðurland		is		
+region	IS-2	Suðurnes		is		
+municipality	IS-SDN*	Suðurnesjabær		is		IS-2
+municipality	IS-SBH*	Svalbarðshreppur		is		IS-6
+municipality	IS-SBT*	Svalbarðsstrandarhreppur		is		IS-6
+municipality	IS-SHF*	Sveitarfélagið Hornafjörður		is		IS-7
+municipality	IS-SSF*	Sveitarfélagið Skagafjörður		is		IS-5
+municipality	IS-SSS*	Sveitarfélagið Skagaströnd		is		IS-5
+municipality	IS-SVG*	Sveitarfélagið Vogar		is		IS-2
+municipality	IS-SFA*	Sveitarfélagið Árborg		is		IS-8
+municipality	IS-SOL*	Sveitarfélagið Ölfus		is		IS-8
+municipality	IS-SDV*	Súðavíkurhreppur		is		IS-4
+municipality	IS-TJO*	Tjörneshreppur		is		IS-6
+municipality	IS-TAL*	Tálknafjarðarhreppur		is		IS-4
+region	IS-4	Vestfirðir		is		
+municipality	IS-VEM*	Vestmannaeyjabær		is		IS-8
+municipality	IS-VER*	Vesturbyggð		is		IS-4
+region	IS-3	Vesturland		is		
+municipality	IS-VOP*	Vopnafjarðarhreppur		is		IS-7
+municipality	IS-ARN*	Árneshreppur		is		IS-4
+municipality	IS-ASA*	Ásahreppur		is		IS-8
+municipality	IS-ISA*	Ísafjarðarbær		is		IS-4
+municipality	IS-THG*	Þingeyjarsveit		is		IS-6

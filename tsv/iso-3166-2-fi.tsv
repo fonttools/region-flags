@@ -1,0 +1,43 @@
+; ISO 3166-2:FI
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:FI
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	FI-01*	Ahvenanmaan maakunta		fi		
+region	FI-11*	Birkaland		sv		
+region	FI-19*	Egentliga Finland		sv		
+region	FI-06*	Egentliga Tavastland		sv		
+region	FI-02*	Etelä-Karjala		fi		
+region	FI-03*	Etelä-Pohjanmaa		fi		
+region	FI-04*	Etelä-Savo		fi		
+region	FI-05*	Kainuu		fi		
+region	FI-05*	Kajanaland		sv		
+region	FI-06*	Kanta-Häme		fi		
+region	FI-07*	Keski-Pohjanmaa		fi		
+region	FI-08*	Keski-Suomi		fi		
+region	FI-09*	Kymenlaakso		fi		
+region	FI-09*	Kymmenedalen		sv		
+region	FI-01*	Landskapet Åland		sv		
+region	FI-10*	Lappi		fi		
+region	FI-10*	Lappland		sv		
+region	FI-08*	Mellersta Finland		sv		
+region	FI-07*	Mellersta Österbotten		sv		
+region	FI-13*	Norra Karelen		sv		
+region	FI-15*	Norra Savolax		sv		
+region	FI-14*	Norra Österbotten		sv		
+region	FI-18*	Nyland		sv		
+region	FI-11*	Pirkanmaa		fi		
+region	FI-12*	Pohjanmaa		fi		
+region	FI-13*	Pohjois-Karjala		fi		
+region	FI-14*	Pohjois-Pohjanmaa		fi		
+region	FI-15*	Pohjois-Savo		fi		
+region	FI-16*	Päijänne-Tavastland		sv		
+region	FI-16*	Päijät-Häme		fi		
+region	FI-17*	Satakunda		sv		
+region	FI-17*	Satakunta		fi		
+region	FI-02*	Södra Karelen		sv		
+region	FI-04*	Södra Savolax		sv		
+region	FI-03*	Södra Österbotten		sv		
+region	FI-18*	Uusimaa		fi		
+region	FI-19*	Varsinais-Suomi		fi		
+region	FI-12*	Österbotten		sv		

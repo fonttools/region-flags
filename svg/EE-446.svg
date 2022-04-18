@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="471"
+   height="300"
+   id="Flag of Maardu, Estonia">
+  <rect
+     style="fill:#00A3DD"
+     x="0"
+     y="0"
+     width="471"
+     height="86"
+     id="blue" />
+  <rect
+     style="fill:#FFFFFF"
+     x="0"
+     y="86"
+     width="471"
+     height="128"
+     id="white" />
+  <rect
+     style="fill:#00A3DD"
+     x="0"
+     y="214"
+     width="471"
+     height="86"
+     id="blue" />
+</svg>

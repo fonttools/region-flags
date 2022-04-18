@@ -1,0 +1,17 @@
+; ISO 3166-2:GW
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:GW
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	GW-BA*	Bafatá		pt		GW-L
+region	GW-BM*	Biombo		pt		GW-N
+autonomous sector	GW-BS*	Bissau	SAB	pt		
+region	GW-BL*	Bolama / Bijagós		pt		GW-S
+region	GW-CA*	Cacheu		pt		GW-N
+region	GW-GA*	Gabú		pt		GW-L
+province	GW-L*	Leste		pt		
+province	GW-N*	Norte		pt		
+region	GW-OI*	Oio		pt		GW-N
+region	GW-QU*	Quinara		pt		GW-S
+province	GW-S*	Sul		pt		
+region	GW-TO*	Tombali		pt		GW-S

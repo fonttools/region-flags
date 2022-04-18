@@ -1,0 +1,17 @@
+; ISO 3166-2:MU
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:MU
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+dependency	MU-AG*	Agalega Islands		en		
+district	MU-BL*	Black River		en		
+dependency	MU-CC*	Cargados Carajos Shoals	Saint Brandon Islands	en		
+district	MU-FL*	Flacq		en		
+district	MU-GP*	Grand Port		en		
+district	MU-MO*	Moka		en		
+district	MU-PA*	Pamplemousses		en		
+district	MU-PW*	Plaines Wilhems		en		
+district	MU-PL*	Port Louis		en		
+district	MU-RR*	Rivière du Rempart		en		
+dependency	MU-RO*	Rodrigues Island		en		
+district	MU-SA*	Savanne		en		

@@ -1,0 +1,23 @@
+; ISO 3166-2:NL
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:NL
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+country	NL-AW*	Aruba (see also separate country code entry under AW)		nl		
+special municipality	NL-BQ1*	Bonaire (see also separate country code entry under BQ)		nl		
+country	NL-CW*	Curaçao (see also separate country code entry under CW)		nl		
+province	NL-DR	Drenthe		nl		
+province	NL-FL*	Flevoland		nl		
+province	NL-FR	Fryslân		fy		
+province	NL-GE	Gelderland		nl		
+province	NL-GR	Groningen		nl		
+province	NL-LI	Limburg		nl		
+province	NL-NB	Noord-Brabant		nl		
+province	NL-NH	Noord-Holland		nl		
+province	NL-OV	Overijssel		nl		
+special municipality	NL-BQ2*	Saba (see also separate country code entry under BQ)		nl		
+special municipality	NL-BQ3*	Sint Eustatius (see also separate country code entry under BQ)		nl		
+country	NL-SX*	Sint Maarten (see also separate country code entry under SX)		nl		
+province	NL-UT	Utrecht		nl		
+province	NL-ZE	Zeeland		nl		
+province	NL-ZH	Zuid-Holland		nl		

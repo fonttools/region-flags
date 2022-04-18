@@ -1,0 +1,141 @@
+; ISO 3166-2:MT
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:MT
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+local council	MT-01*	Attard		en		
+local council	MT-01*	Attard		mt		
+local council	MT-02*	Balzan		en		
+local council	MT-02*	Balzan		mt		
+local council	MT-03*	Birgu		en		
+local council	MT-03*	Birgu		mt		
+local council	MT-04*	Birkirkara		en		
+local council	MT-04*	Birkirkara		mt		
+local council	MT-05*	Birżebbuġa		en		
+local council	MT-05*	Birżebbuġa		mt		
+local council	MT-06*	Bormla		en		
+local council	MT-06*	Bormla		mt		
+local council	MT-07*	Dingli		en		
+local council	MT-07*	Dingli		mt		
+local council	MT-08*	Fgura		en		
+local council	MT-08*	Fgura		mt		
+local council	MT-09*	Floriana		en		
+local council	MT-09*	Floriana		mt		
+local council	MT-10*	Fontana		en		
+local council	MT-10*	Fontana		mt		
+local council	MT-11*	Gudja		en		
+local council	MT-11*	Gudja		mt		
+local council	MT-13*	Għajnsielem		en		
+local council	MT-13*	Għajnsielem		mt		
+local council	MT-14*	Għarb		en		
+local council	MT-14*	Għarb		mt		
+local council	MT-15*	Għargħur		en		
+local council	MT-15*	Għargħur		mt		
+local council	MT-16*	Għasri		en		
+local council	MT-16*	Għasri		mt		
+local council	MT-17*	Għaxaq		en		
+local council	MT-17*	Għaxaq		mt		
+local council	MT-12*	Gżira		en		
+local council	MT-12*	Gżira		mt		
+local council	MT-19*	Iklin		en		
+local council	MT-19*	Iklin		mt		
+local council	MT-20*	Isla		en		
+local council	MT-20*	Isla		mt		
+local council	MT-21*	Kalkara		en		
+local council	MT-21*	Kalkara		mt		
+local council	MT-22*	Kerċem		en		
+local council	MT-22*	Kerċem		mt		
+local council	MT-23*	Kirkop		en		
+local council	MT-23*	Kirkop		mt		
+local council	MT-24*	Lija		en		
+local council	MT-24*	Lija		mt		
+local council	MT-25*	Luqa		en		
+local council	MT-25*	Luqa		mt		
+local council	MT-26*	Marsa		en		
+local council	MT-26*	Marsa		mt		
+local council	MT-27*	Marsaskala		en		
+local council	MT-27*	Marsaskala		mt		
+local council	MT-28*	Marsaxlokk		en		
+local council	MT-28*	Marsaxlokk		mt		
+local council	MT-29*	Mdina		en		
+local council	MT-29*	Mdina		mt		
+local council	MT-30*	Mellieħa		en		
+local council	MT-30*	Mellieħa		mt		
+local council	MT-32*	Mosta		en		
+local council	MT-32*	Mosta		mt		
+local council	MT-33*	Mqabba		en		
+local council	MT-33*	Mqabba		mt		
+local council	MT-34*	Msida		en		
+local council	MT-34*	Msida		mt		
+local council	MT-35*	Mtarfa		en		
+local council	MT-35*	Mtarfa		mt		
+local council	MT-36*	Munxar		en		
+local council	MT-36*	Munxar		mt		
+local council	MT-31*	Mġarr		en		
+local council	MT-31*	Mġarr		mt		
+local council	MT-37*	Nadur		en		
+local council	MT-37*	Nadur		mt		
+local council	MT-38*	Naxxar		en		
+local council	MT-38*	Naxxar		mt		
+local council	MT-39*	Paola		en		
+local council	MT-39*	Paola		mt		
+local council	MT-40*	Pembroke		en		
+local council	MT-40*	Pembroke		mt		
+local council	MT-41*	Pietà		en		
+local council	MT-41*	Pietà		mt		
+local council	MT-42*	Qala		en		
+local council	MT-42*	Qala		mt		
+local council	MT-43*	Qormi		en		
+local council	MT-43*	Qormi		mt		
+local council	MT-44*	Qrendi		en		
+local council	MT-44*	Qrendi		mt		
+local council	MT-45*	Rabat Gozo		en		
+local council	MT-45*	Rabat Għawdex		mt		
+local council	MT-46*	Rabat Malta		en		
+local council	MT-46*	Rabat Malta		mt		
+local council	MT-47*	Safi		en		
+local council	MT-47*	Safi		mt		
+local council	MT-49*	Saint John		en		
+local council	MT-48*	Saint Julian's		en		
+local council	MT-50*	Saint Lawrence		en		
+local council	MT-53*	Saint Lucia's		en		
+local council	MT-51*	Saint Paul's Bay		en		
+local council	MT-50*	San Lawrenz		mt		
+local council	MT-51*	San Pawl il-Baħar		mt		
+local council	MT-48*	San Ġiljan		mt		
+local council	MT-49*	San Ġwann		mt		
+local council	MT-52*	Sannat		en		
+local council	MT-52*	Sannat		mt		
+local council	MT-53*	Santa Luċija		mt		
+local council	MT-54*	Santa Venera		en		
+local council	MT-54*	Santa Venera		mt		
+local council	MT-55*	Siġġiewi		en		
+local council	MT-55*	Siġġiewi		mt		
+local council	MT-56*	Sliema		en		
+local council	MT-56*	Sliema		mt		
+local council	MT-57*	Swieqi		en		
+local council	MT-57*	Swieqi		mt		
+local council	MT-58*	Ta' Xbiex		en		
+local council	MT-58*	Ta' Xbiex		mt		
+local council	MT-59*	Tarxien		en		
+local council	MT-59*	Tarxien		mt		
+local council	MT-60*	Valletta		en		
+local council	MT-60*	Valletta		mt		
+local council	MT-61*	Xagħra		en		
+local council	MT-61*	Xagħra		mt		
+local council	MT-62*	Xewkija		en		
+local council	MT-62*	Xewkija		mt		
+local council	MT-63*	Xgħajra		en		
+local council	MT-63*	Xgħajra		mt		
+local council	MT-18*	Ħamrun		en		
+local council	MT-18*	Ħamrun		mt		
+local council	MT-64*	Żabbar		en		
+local council	MT-64*	Żabbar		mt		
+local council	MT-65*	Żebbuġ Gozo		en		
+local council	MT-65*	Żebbuġ Għawdex		mt		
+local council	MT-66*	Żebbuġ Malta		en		
+local council	MT-66*	Żebbuġ Malta		mt		
+local council	MT-67*	Żejtun		en		
+local council	MT-67*	Żejtun		mt		
+local council	MT-68*	Żurrieq		en		
+local council	MT-68*	Żurrieq		mt		

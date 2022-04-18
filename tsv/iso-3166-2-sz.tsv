@@ -1,0 +1,13 @@
+; ISO 3166-2:SZ
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:SZ
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	SZ-HH*	Hhohho		en		
+region	SZ-HH*	Hhohho		ss		
+region	SZ-LU*	Lubombo		en		
+region	SZ-LU*	Lubombo		ss		
+region	SZ-MA*	Manzini		en		
+region	SZ-MA*	Manzini		ss		
+region	SZ-SH*	Shiselweni		en		
+region	SZ-SH*	Shiselweni		ss		

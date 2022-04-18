@@ -1,13 +1,23 @@
 #!/usr/bin/env python3
 
 import re
+import glob
 import unicodedata
 
 
 def load_aliases(filename):
+    aliases = []
+    for line in open(filename, encoding='utf-8'):
+        if line.__contains__("*"):
+            line_content = line.split('\t')
+            for i in load_subregion_codes(line_content[0].removesuffix("*")):
+                aliases.append(f"{i}\t{line_content[1]}")
+        else:
+            aliases.append(line)
+
     return dict([
         [x.strip() for x in line.split('\t')]
-        for line in open(filename, encoding='utf-8')
+        for line in aliases
     ])
 
 
@@ -44,9 +54,9 @@ def load_regions():
         e['Subtag']: e
         for e in entries
         if e['Type'] == 'region'
-        and len(e['Subtag']) == 2
-        and e['Description'] != 'Private use'
-        and 'Deprecated' not in e
+           and len(e['Subtag']) == 2
+           and e['Description'] != 'Private use'
+           and 'Deprecated' not in e
     }
 
     for r_val_key in regions.values():
@@ -58,9 +68,9 @@ def load_regions():
 
 def strip_accents(s):
     return ''.join(c
-        for c in unicodedata.normalize('NFD', s)
-        if unicodedata.category(c) != 'Mn'
-    )
+                   for c in unicodedata.normalize('NFD', s)
+                   if unicodedata.category(c) != 'Mn'
+                   )
 
 
 def full_title(s):
@@ -79,6 +89,7 @@ def load_subregion_entries(filename):
         'Subdivision category',
         '3166-2 code',
         'Subdivision name',
+        'Local variant',
         'Language code',
         'Romanization system',
         'Parent subdivision',
@@ -93,86 +104,117 @@ def load_subregion_entries(filename):
 def load_subregions():
     subregions = {}
 
-    # US: States (50) and DC
-    subregions.update({
-        e['3166-2 code']: {
-            'Subdivision name': e['Subdivision name'],
-        }
-        for e in load_subregion_entries('data/iso-3166-2-us.tsv')
-        if e['Language code'] == 'en'
-        and e['Subdivision category'] in ['state', 'district']
-    })
+    region_codes = []
+    for i in glob.glob("tsv/*.tsv"):
+        region_code = i.removeprefix("tsv/iso-3166-2-").removesuffix(".tsv")
+        if region_code in ["AU", "CA", "CO", "DE", "ES", "GB", "US", "AE", "AR", "AT", "BR", "CH", "EE", "KR", "JP"]:
+            region_codes.append(region_code)
+        # Set specific language
+        elif region_code == "MX":
+            region_codes.append([region_code, "ES"])
 
-    # GB: Countries (3) and provinces (1)
-    subregions.update({
-        e['3166-2 code']: {
-            'Subdivision name': strip_brackets(e['Subdivision name']),
-        }
-        for e in load_subregion_entries('data/iso-3166-2-gb.tsv')
-        if e['Language code'] == 'en'
-        and e['Subdivision category'] in ['country', 'province']
-    })
-
-    # CA: Provinces (10) and territories (3)
-    subregions.update({
-        e['3166-2 code']: {
-            'Subdivision name': e['Subdivision name'],
-        }
-        for e in load_subregion_entries('data/iso-3166-2-ca.tsv')
-        if e['Language code'] == 'en'
-        and e['Subdivision category'] in ['province', 'territory']
-    })
-
-    # CO: departments (32) and capital districts (1)
-    subregions.update({
-        e['3166-2 code']: {
-            'Subdivision name': e['Subdivision name'],
-        }
-        for e in load_subregion_entries('data/iso-3166-2-co.tsv')
-        if e['Subdivision category'] in ['department', 'capital district']
-    })
-
-    # MX: States (31) and CDMX
-    subregions.update({
-        e['3166-2 code']: {
-            'Subdivision name': strip_accents(e['Subdivision name']),
-        }
-        for e in load_subregion_entries('data/iso-3166-2-mx.tsv')
-        if e['Language code'] == 'es'
-        and e['Subdivision category'] in ['state', 'federal district']
-    })
-
-    # ES: Autonomous communities(17) and autonomous cities in North Africa (2)
-    subregions.update({
-        e['3166-2 code'].rstrip("*"): {
-            'Subdivision name': full_title(strip_brackets(e['Subdivision name'])),
-        }
-        for e in load_subregion_entries('data/iso-3166-2-es.tsv')
-        if e['Subdivision category'] in ['autonomous community',
-                                         'autonomous city in North Africa']
-        and not e['Subdivision name'].endswith('*')
-    })
-
-    # AU: States (6) and territories (2)
-    subregions.update({
-        e['3166-2 code']: {
-            'Subdivision name': e['Subdivision name'],
-        }
-        for e in load_subregion_entries('data/iso-3166-2-au.tsv')
-        if e['Language code'] == 'en'
-        and e['Subdivision category'] in ['state', 'territory']
-    })
-
-    # DE: Lands (16)
-    subregions.update({
-        e['3166-2 code']: {
-            'Subdivision name': e['Subdivision name'],
-        }
-        for e in load_subregion_entries('data/iso-3166-2-de.tsv')
-        if e['Subdivision category'] in ['land']
-    })
+    for i in region_codes:
+        filename = 'tsv/iso-3166-2-%s.tsv' % i
+        match i:
+            case "ae":
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title(e['Local variant']),
+                    }
+                    for e in load_subregion_entries(filename)
+                })
+            case "br":
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title("File:Bandeira do " + e['Subdivision name']),
+                    }
+                    for e in load_subregion_entries(filename)
+                })
+            case "ch":
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title("Canton of " + e['Subdivision name']),
+                    }
+                    for e in load_subregion_entries(filename)
+                })
+            case "ee":
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title(f"File:{e['Subdivision name']} lipp" if e['Subdivision category'] == "county" else f"File:{e['Subdivision name']} valla lipp"),
+                    }
+                    for e in load_subregion_entries(filename)
+                })
+            case "es":
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title(strip_brackets(e['Subdivision name'])),
+                    }
+                    for e in load_subregion_entries(filename)
+                    if e['Subdivision category'] in ['autonomous community',
+                                                     'autonomous city in North Africa']
+                    and not e['Subdivision name'].endswith('*')
+                })
+            case "gb":
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title(strip_brackets(e['Subdivision name'])),
+                    }
+                    for e in load_subregion_entries(filename)
+                    if e['Subdivision category'] in ['country', 'province']
+                })
+            case "jp":
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title(e['Subdivision name'] + " Prefecture"),
+                    }
+                    for e in load_subregion_entries(filename)
+                })
+            case "kr":
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title(e['Subdivision name'].split("-")[0]),
+                    }
+                    for e in load_subregion_entries(filename)
+                })
+            # Loads subregions from a specific language from file
+            case [_, _]:
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title(strip_brackets(e['Subdivision name'])),
+                    }
+                    for e in load_subregion_entries('tsv/iso-3166-2-%s.tsv' % i[0])
+                    if e['Language code'] == i[1]
+                })
+            # Loads every subregion from file
+            case _:
+                subregions.update({
+                    e['3166-2 code'].rstrip("*"): {
+                        'Subdivision name': full_title(strip_brackets(e['Subdivision name'])),
+                    }
+                    for e in load_subregion_entries(filename)
+                    if not e['Subdivision name'].endswith('*')
+                })
 
     return subregions
+
+
+def load_subregion_codes(region):
+    subregions = {}
+    region_code = region.split("-")[0].lower()
+    subregions.update({
+        e['3166-2 code'].rstrip("*"): {
+            'Subdivision name': e['Local variant'],
+        }
+        for e in load_subregion_entries('tsv/iso-3166-2-%s.tsv' % region_code)
+    })
+
+    subregions_codes = []
+    subregions_keys = sorted(subregions.keys())
+    for i in subregions_keys:
+        if i.startswith(region) and i != region:
+            subregions_codes.append(i)
+
+    return subregions_codes
 
 
 def load_all():

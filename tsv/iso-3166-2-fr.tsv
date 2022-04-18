@@ -1,0 +1,129 @@
+; ISO 3166-2:FR
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:FR
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+metropolitan department	FR-01	Ain		fr		FR-ARA
+metropolitan department	FR-02	Aisne		fr		FR-HDF
+metropolitan department	FR-03	Allier		fr		FR-ARA
+metropolitan department	FR-06	Alpes-Maritimes		fr		FR-PAC
+metropolitan department	FR-04	Alpes-de-Haute-Provence		fr		FR-PAC
+European collectivity	FR-6AE	Alsace		fr		FR-GES
+metropolitan department	FR-08	Ardennes		fr		FR-GES
+metropolitan department	FR-07	Ardèche		fr		FR-ARA
+metropolitan department	FR-09	Ariège		fr		FR-OCC
+metropolitan department	FR-10	Aube		fr		FR-GES
+metropolitan department	FR-11	Aude		fr		FR-OCC
+metropolitan region	FR-ARA	Auvergne-Rhône-Alpes		fr		
+metropolitan department	FR-12	Aveyron		fr		FR-OCC
+metropolitan department	FR-67	Bas-Rhin		fr		FR-6AE
+metropolitan department	FR-13	Bouches-du-Rhône		fr		FR-PAC
+metropolitan region	FR-BFC	Bourgogne-Franche-Comté		fr		
+metropolitan region	FR-BRE	Bretagne		fr		
+metropolitan department	FR-14	Calvados		fr		FR-NOR
+metropolitan department	FR-15	Cantal		fr		FR-ARA
+metropolitan region	FR-CVL	Centre-Val de Loire		fr		
+metropolitan department	FR-16	Charente		fr		FR-NAQ
+metropolitan department	FR-17	Charente-Maritime		fr		FR-NAQ
+metropolitan department	FR-18	Cher		fr		FR-CVL
+dependency	FR-CP	Clipperton		fr		
+metropolitan department	FR-19	Corrèze		fr		FR-NAQ
+metropolitan collectivity with special status	FR-20R	Corse		fr		
+metropolitan department	FR-2A	Corse-du-Sud		fr		FR-20R
+metropolitan department	FR-23	Creuse		fr		FR-NAQ
+metropolitan department	FR-21	Côte-d'Or		fr		FR-BFC
+metropolitan department	FR-22	Côtes-d'Armor		fr		FR-BRE
+metropolitan department	FR-79	Deux-Sèvres		fr		FR-NAQ
+metropolitan department	FR-24	Dordogne		fr		FR-NAQ
+metropolitan department	FR-25	Doubs		fr		FR-BFC
+metropolitan department	FR-26	Drôme		fr		FR-ARA
+metropolitan department	FR-91	Essonne		fr		FR-IDF
+metropolitan department	FR-27	Eure		fr		FR-NOR
+metropolitan department	FR-28	Eure-et-Loir		fr		FR-CVL
+metropolitan department	FR-29	Finistère		fr		FR-BRE
+metropolitan department	FR-30	Gard		fr		FR-OCC
+metropolitan department	FR-32	Gers		fr		FR-OCC
+metropolitan department	FR-33	Gironde		fr		FR-NAQ
+metropolitan region	FR-GES	Grand-Est		fr		
+overseas departmental collectivity	FR-971	Guadeloupe (see also separate country code entry under GP)		fr		
+overseas unique territorial collectivity	FR-973	Guyane (française) (see also separate country code entry under GF)		fr		
+metropolitan department	FR-68	Haut-Rhin		fr		FR-6AE
+metropolitan department	FR-2B	Haute-Corse		fr		FR-20R
+metropolitan department	FR-31	Haute-Garonne		fr		FR-OCC
+metropolitan department	FR-43	Haute-Loire		fr		FR-ARA
+metropolitan department	FR-52	Haute-Marne		fr		FR-GES
+metropolitan department	FR-74	Haute-Savoie		fr		FR-ARA
+metropolitan department	FR-70	Haute-Saône		fr		FR-BFC
+metropolitan department	FR-87	Haute-Vienne		fr		FR-NAQ
+metropolitan department	FR-05	Hautes-Alpes		fr		FR-PAC
+metropolitan department	FR-65	Hautes-Pyrénées		fr		FR-OCC
+metropolitan region	FR-HDF	Hauts-de-France		fr		
+metropolitan department	FR-92	Hauts-de-Seine		fr		FR-IDF
+metropolitan department	FR-34	Hérault		fr		FR-OCC
+metropolitan department	FR-35	Ille-et-Vilaine		fr		FR-BRE
+metropolitan department	FR-36	Indre		fr		FR-CVL
+metropolitan department	FR-37	Indre-et-Loire		fr		FR-CVL
+metropolitan department	FR-38	Isère		fr		FR-ARA
+metropolitan department	FR-39	Jura		fr		FR-BFC
+overseas departmental collectivity	FR-974	La Réunion (see also separate country code entry under RE)		fr		
+metropolitan department	FR-40	Landes		fr		FR-NAQ
+metropolitan department	FR-41	Loir-et-Cher		fr		FR-CVL
+metropolitan department	FR-42	Loire		fr		FR-ARA
+metropolitan department	FR-44	Loire-Atlantique		fr		FR-PDL
+metropolitan department	FR-45	Loiret		fr		FR-CVL
+metropolitan department	FR-46	Lot		fr		FR-OCC
+metropolitan department	FR-47	Lot-et-Garonne		fr		FR-NAQ
+metropolitan department	FR-48	Lozère		fr		FR-OCC
+metropolitan department	FR-49	Maine-et-Loire		fr		FR-PDL
+metropolitan department	FR-50	Manche		fr		FR-NOR
+metropolitan department	FR-51	Marne		fr		FR-GES
+overseas unique territorial collectivity	FR-972	Martinique (see also separate country code entry under MQ)		fr		
+metropolitan department	FR-53	Mayenne		fr		FR-PDL
+overseas departmental collectivity	FR-976	Mayotte (see also separate country code entry under YT)		fr		
+metropolitan department	FR-54	Meurthe-et-Moselle		fr		FR-GES
+metropolitan department	FR-55	Meuse		fr		FR-GES
+metropolitan department	FR-56	Morbihan		fr		FR-BRE
+metropolitan department	FR-57	Moselle		fr		FR-GES
+metropolitan collectivity with special status	FR-69M	Métropole de Lyon		fr		FR-ARA
+metropolitan department	FR-58	Nièvre		fr		FR-BFC
+metropolitan department	FR-59	Nord		fr		FR-HDF
+metropolitan region	FR-NOR	Normandie		fr		
+metropolitan region	FR-NAQ	Nouvelle-Aquitaine		fr		
+overseas collectivity with special status	FR-NC	Nouvelle-Calédonie (see also separate country code entry under NC)		fr		
+metropolitan region	FR-OCC	Occitanie		fr		
+metropolitan department	FR-60	Oise		fr		FR-HDF
+metropolitan department	FR-61	Orne		fr		FR-NOR
+metropolitan collectivity with special status	FR-75C	Paris		fr		FR-IDF
+metropolitan department	FR-62	Pas-de-Calais		fr		FR-HDF
+metropolitan region	FR-PDL	Pays-de-la-Loire		fr		
+overseas collectivity	FR-PF	Polynésie française (see also separate country code entry under PF)		fr		
+metropolitan region	FR-PAC	Provence-Alpes-Côte-d’Azur		fr		
+metropolitan department	FR-63	Puy-de-Dôme		fr		FR-ARA
+metropolitan department	FR-64	Pyrénées-Atlantiques		fr		FR-NAQ
+metropolitan department	FR-66	Pyrénées-Orientales		fr		FR-OCC
+metropolitan department	FR-69	Rhône		fr		FR-ARA
+overseas collectivity	FR-BL	Saint-Barthélemy (see also separate country code entry under BL)		fr		
+overseas collectivity	FR-MF	Saint-Martin (see also separate country code entry under MF)		fr		
+overseas collectivity	FR-PM	Saint-Pierre-et-Miquelon (see also separate country code entry under PM)		fr		
+metropolitan department	FR-72	Sarthe		fr		FR-PDL
+metropolitan department	FR-73	Savoie		fr		FR-ARA
+metropolitan department	FR-71	Saône-et-Loire		fr		FR-BFC
+metropolitan department	FR-76	Seine-Maritime		fr		FR-NOR
+metropolitan department	FR-93	Seine-Saint-Denis		fr		FR-IDF
+metropolitan department	FR-77	Seine-et-Marne		fr		FR-IDF
+metropolitan department	FR-80	Somme		fr		FR-HDF
+metropolitan department	FR-81	Tarn		fr		FR-OCC
+metropolitan department	FR-82	Tarn-et-Garonne		fr		FR-OCC
+overseas territory	FR-TF	Terres australes françaises (see also separate country code entry under TF)		fr		
+metropolitan department	FR-90	Territoire de Belfort		fr		FR-BFC
+metropolitan department	FR-95	Val-d'Oise		fr		FR-IDF
+metropolitan department	FR-94	Val-de-Marne		fr		FR-IDF
+metropolitan department	FR-83	Var		fr		FR-PAC
+metropolitan department	FR-84	Vaucluse		fr		FR-PAC
+metropolitan department	FR-85	Vendée		fr		FR-PDL
+metropolitan department	FR-86	Vienne		fr		FR-NAQ
+metropolitan department	FR-88	Vosges		fr		FR-GES
+overseas collectivity	FR-WF	Wallis-et-Futuna (see also separate country code entry under WF)		fr		
+metropolitan department	FR-89	Yonne		fr		FR-BFC
+metropolitan department	FR-78	Yvelines		fr		FR-IDF
+metropolitan region	FR-IDF	Île-de-France		fr		

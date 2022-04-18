@@ -1,0 +1,33 @@
+; ISO 3166-2:BY
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:BY
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+oblast	BY-BR*	Bresckaja voblasć		be	UN X/6 2012	
+oblast	BY-BR*	Brestskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+oblast	BY-BR*	Brestskaya oblast'		ru	BGN/PCGN 1947	
+oblast	BY-BR*	Brestskaya voblasts'		be	BGN/PCGN 1979	
+oblast	BY-HO*	Gomel'skaja oblast'		ru	GOST 1983 = UN V/18 1987	
+oblast	BY-HO*	Gomel'skaya oblast'		ru	BGN/PCGN 1947	
+city	BY-HM*	Gorod Minsk		ru	BGN/PCGN 1947	
+city	BY-HM*	Gorod Minsk		ru	GOST 1983 = UN V/18 1987	
+oblast	BY-HR*	Grodnenskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+oblast	BY-HR*	Grodnenskaya oblast'		ru	BGN/PCGN 1947	
+oblast	BY-HO*	Homieĺskaja voblasć		be	UN X/6 2012	
+oblast	BY-HO*	Homyel'skaya voblasts'		be	BGN/PCGN 1979	
+city	BY-HM*	Horad Minsk		be	UN X/6 2012	
+city	BY-HM*	Horad Minsk		be	BGN/PCGN 1979	
+oblast	BY-HR*	Hrodzienskaja voblasć		be	UN X/6 2012	
+oblast	BY-HR*	Hrodzyenskaya voblasts'		be	BGN/PCGN 1979	
+oblast	BY-MA*	Mahilioŭskaja voblasć		be	UN X/6 2012	
+oblast	BY-MA*	Mahilyowskaya voblasts'		be	BGN/PCGN 1979	
+oblast	BY-MI*	Minskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+oblast	BY-MI*	Minskaja voblasć		be	UN X/6 2012	
+oblast	BY-MI*	Minskaya oblast'		ru	BGN/PCGN 1947	
+oblast	BY-MI*	Minskaya voblasts'		be	BGN/PCGN 1979	
+oblast	BY-MA*	Mogilevskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+oblast	BY-MA*	Mogilevskaya oblast'		ru	BGN/PCGN 1947	
+oblast	BY-VI*	Viciebskaja voblasć		be	UN X/6 2012	
+oblast	BY-VI*	Vitebskaja oblast'		ru	GOST 1983 = UN V/18 1987	
+oblast	BY-VI*	Vitebskaya oblast'		ru	BGN/PCGN 1947	
+oblast	BY-VI*	Vitsyebskaya voblasts'		be	BGN/PCGN 1979	

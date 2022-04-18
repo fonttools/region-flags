@@ -1,0 +1,57 @@
+; ISO 3166-2:MH
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:MH
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+municipality	MH-ALK*	Aelok		mh		MH-T
+municipality	MH-ALL*	Aelōn̄ḷapḷap		mh		MH-L
+municipality	MH-ALL*	Ailinglaplap		en		MH-L
+municipality	MH-ALK*	Ailuk		en		MH-T
+municipality	MH-ARN*	Arno		en		MH-T
+municipality	MH-ARN*	Arṇo		mh		MH-T
+municipality	MH-AUR*	Aur		en		MH-T
+municipality	MH-AUR*	Aur		mh		MH-T
+municipality	MH-KIL*	Bikini &amp; Kili		en		MH-L
+municipality	MH-EBO*	Ebon		en		MH-L
+municipality	MH-LIB*	Ellep		mh		MH-L
+municipality	MH-ENI*	Enewetak &amp; Ujelang		en		MH-L
+municipality	MH-EBO*	Epoon		mh		MH-L
+municipality	MH-JAB*	Jabat		en		MH-L
+municipality	MH-JAL*	Jaluit		en		MH-L
+municipality	MH-JAB*	Jebat		mh		MH-L
+municipality	MH-JAL*	Jālwōj		mh		MH-L
+municipality	MH-KWA*	Kuwajleen		mh		MH-L
+municipality	MH-KWA*	Kwajalein		en		MH-L
+municipality	MH-LAE*	Lae		en		MH-L
+municipality	MH-LAE*	Lae		mh		MH-L
+municipality	MH-LIB*	Lib		en		MH-L
+municipality	MH-LIK*	Likiep		en		MH-T
+municipality	MH-LIK*	Likiep		mh		MH-T
+municipality	MH-MAJ*	Majuro		en		MH-T
+municipality	MH-MAL*	Maloelap		en		MH-T
+municipality	MH-MEJ*	Mejit		en		MH-T
+municipality	MH-MIL*	Mile		mh		MH-T
+municipality	MH-MIL*	Mili		en		MH-T
+municipality	MH-MEJ*	Mājej		mh		MH-T
+municipality	MH-MAJ*	Mājro		mh		MH-T
+municipality	MH-NMK*	Namdrik		en		MH-L
+municipality	MH-NMU*	Namu		en		MH-L
+municipality	MH-NMK*	Naṃdik		mh		MH-L
+municipality	MH-NMU*	Naṃo		mh		MH-L
+municipality	MH-KIL*	Pikinni &amp; Kōle		mh		MH-L
+chain (of islands)	MH-L*	Ralik chain		en		
+chain (of islands)	MH-L*	Ralik chain		mh		
+chain (of islands)	MH-T*	Ratak chain		en		
+chain (of islands)	MH-T*	Ratak chain		mh		
+municipality	MH-RON*	Rongelap		en		MH-L
+municipality	MH-RON*	Ron̄ḷap		mh		MH-L
+municipality	MH-UJA*	Ujae		en		MH-L
+municipality	MH-UJA*	Ujae		mh		MH-L
+municipality	MH-UTI*	Utrik		en		MH-T
+municipality	MH-UTI*	Utrōk		mh		MH-T
+municipality	MH-WTH*	Wotho		en		MH-L
+municipality	MH-WTJ*	Wotje		en		MH-T
+municipality	MH-WTJ*	Wōjjā		mh		MH-T
+municipality	MH-WTH*	Wōtto		mh		MH-L
+municipality	MH-ENI*	Ānewetak &amp; Wūjlan̄		mh		MH-L
+municipality	MH-MAL*	Ṃaḷoeḷap		mh		MH-T

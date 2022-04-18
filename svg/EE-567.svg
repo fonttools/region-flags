@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="600"
+   height="300"
+   id="Flag of Paide">
+  <rect
+     style="fill:#ffffff"
+     x="0"
+     y="0"
+     width="600"
+     height="300"
+     id="white" />
+  <rect
+     style="fill:#009933"
+     x="0"
+     y="0"
+     width="200"
+     height="120"
+     id="green" />
+  <rect
+     style="fill:#009933"
+     x="200"
+     y="120"
+     width="400"
+     height="60"
+     id="green" />
+  <rect
+     style="fill:#009933"
+     x="0"
+     y="180"
+     width="200"
+     height="120"
+     id="green" />
+</svg>

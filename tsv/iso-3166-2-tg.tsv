@@ -1,0 +1,10 @@
+; ISO 3166-2:TG
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:TG
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	TG-C*	Centrale		fr		
+region	TG-K*	Kara		fr		
+region	TG-M*	Maritime (Région)		fr		
+region	TG-P*	Plateaux		fr		
+region	TG-S*	Savanes		fr		

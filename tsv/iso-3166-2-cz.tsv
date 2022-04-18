@@ -1,0 +1,95 @@
+; ISO 3166-2:CZ
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:CZ
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+district	CZ-201	Benešov		cs		CZ-20
+district	CZ-202	Beroun		cs		CZ-20
+district	CZ-641	Blansko		cs		CZ-64
+district	CZ-642	Brno-město		cs		CZ-64
+district	CZ-643	Brno-venkov		cs		CZ-64
+district	CZ-801	Bruntál		cs		CZ-80
+district	CZ-644	Břeclav		cs		CZ-64
+district	CZ-411	Cheb		cs		CZ-41
+district	CZ-422	Chomutov		cs		CZ-42
+district	CZ-531	Chrudim		cs		CZ-53
+district	CZ-321	Domažlice		cs		CZ-32
+district	CZ-421	Děčín		cs		CZ-42
+district	CZ-802	Frýdek-Místek		cs		CZ-80
+district	CZ-631	Havlíčkův Brod		cs		CZ-63
+district	CZ-645	Hodonín		cs		CZ-64
+district	CZ-521	Hradec Králové		cs		CZ-52
+district	CZ-512	Jablonec nad Nisou		cs		CZ-51
+district	CZ-711	Jeseník		cs		CZ-71
+district	CZ-632	Jihlava		cs		CZ-63
+region	CZ-64	Jihomoravský kraj		cs		
+region	CZ-31	Jihočeský kraj		cs		
+district	CZ-313	Jindřichův Hradec		cs		CZ-31
+district	CZ-522	Jičín		cs		CZ-52
+region	CZ-41	Karlovarský kraj		cs		
+district	CZ-412	Karlovy Vary		cs		CZ-41
+district	CZ-803	Karviná		cs		CZ-80
+district	CZ-203	Kladno		cs		CZ-20
+district	CZ-322	Klatovy		cs		CZ-32
+district	CZ-204	Kolín		cs		CZ-20
+region	CZ-63	Kraj Vysočina		cs		
+district	CZ-721	Kroměříž		cs		CZ-72
+region	CZ-52	Královéhradecký kraj		cs		
+district	CZ-205	Kutná Hora		cs		CZ-20
+district	CZ-513	Liberec		cs		CZ-51
+region	CZ-51	Liberecký kraj		cs		
+district	CZ-423	Litoměřice		cs		CZ-42
+district	CZ-424	Louny		cs		CZ-42
+district	CZ-207	Mladá Boleslav		cs		CZ-20
+region	CZ-80	Moravskoslezský kraj		cs		
+district	CZ-425	Most		cs		CZ-42
+district	CZ-206	Mělník		cs		CZ-20
+district	CZ-804	Nový Jičín		cs		CZ-80
+district	CZ-208	Nymburk		cs		CZ-20
+district	CZ-523	Náchod		cs		CZ-52
+district	CZ-712	Olomouc		cs		CZ-71
+region	CZ-71	Olomoucký kraj		cs		
+district	CZ-805	Opava		cs		CZ-80
+district	CZ-806	Ostrava-město		cs		CZ-80
+district	CZ-532	Pardubice		cs		CZ-53
+region	CZ-53	Pardubický kraj		cs		
+district	CZ-633	Pelhřimov		cs		CZ-63
+district	CZ-324	Plzeň-jih		cs		CZ-32
+district	CZ-323	Plzeň-město		cs		CZ-32
+district	CZ-325	Plzeň-sever		cs		CZ-32
+region	CZ-32	Plzeňský kraj		cs		
+district	CZ-315	Prachatice		cs		CZ-31
+capital city	CZ-10	Praha, Hlavní město		cs		
+district	CZ-209	Praha-východ		cs		CZ-20
+district	CZ-20A	Praha-západ		cs		CZ-20
+district	CZ-713	Prostějov		cs		CZ-71
+district	CZ-314	Písek		cs		CZ-31
+district	CZ-714	Přerov		cs		CZ-71
+district	CZ-20B	Příbram		cs		CZ-20
+district	CZ-20C	Rakovník		cs		CZ-20
+district	CZ-326	Rokycany		cs		CZ-32
+district	CZ-524	Rychnov nad Kněžnou		cs		CZ-52
+district	CZ-514	Semily		cs		CZ-51
+district	CZ-413	Sokolov		cs		CZ-41
+district	CZ-316	Strakonice		cs		CZ-31
+region	CZ-20	Středočeský kraj		cs		
+district	CZ-533	Svitavy		cs		CZ-53
+district	CZ-327	Tachov		cs		CZ-32
+district	CZ-426	Teplice		cs		CZ-42
+district	CZ-525	Trutnov		cs		CZ-52
+district	CZ-317	Tábor		cs		CZ-31
+district	CZ-634	Třebíč		cs		CZ-63
+district	CZ-722	Uherské Hradiště		cs		CZ-72
+district	CZ-723	Vsetín		cs		CZ-72
+district	CZ-646	Vyškov		cs		CZ-64
+district	CZ-724	Zlín		cs		CZ-72
+region	CZ-72	Zlínský kraj		cs		
+district	CZ-647	Znojmo		cs		CZ-64
+region	CZ-42	Ústecký kraj		cs		
+district	CZ-427	Ústí nad Labem		cs		CZ-42
+district	CZ-534	Ústí nad Orlicí		cs		CZ-53
+district	CZ-511	Česká Lípa		cs		CZ-51
+district	CZ-311	České Budějovice		cs		CZ-31
+district	CZ-312	Český Krumlov		cs		CZ-31
+district	CZ-715	Šumperk		cs		CZ-71
+district	CZ-635	Žďár nad Sázavou		cs		CZ-63

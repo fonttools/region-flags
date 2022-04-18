@@ -1,0 +1,15 @@
+; ISO 3166-2:GY
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:GY
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	GY-BA*	Barima-Waini		en		
+region	GY-CU*	Cuyuni-Mazaruni		en		
+region	GY-DE*	Demerara-Mahaica		en		
+region	GY-EB*	East Berbice-Corentyne		en		
+region	GY-ES*	Essequibo Islands-West Demerara		en		
+region	GY-MA*	Mahaica-Berbice		en		
+region	GY-PM*	Pomeroon-Supenaam		en		
+region	GY-PT*	Potaro-Siparuni		en		
+region	GY-UD*	Upper Demerara-Berbice		en		
+region	GY-UT*	Upper Takutu-Upper Essequibo		en		

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="500px" height="319px" viewBox="0 0 500 319" enable-background="new 0 0 500 319">
+<rect fill="#FFF" width="100%" height="100%"/>
+<polygon fill="#3370AF" points="0,0 0,319 500,319 "/>
+<g>
+	<path fill="#FFF" stroke="#000" d="M178.5,70.5v67.351c0,57.13,23.872,87.376,71,110.142
+		c47.128-22.766,71-53.012,71-110.142V70.5H178.5z"/>
+	<g fill="#D9271E">
+		<path d="M250.24,207.023c-5.154,0-9.332,4.178-9.332,9.332s4.178,9.331,9.332,9.331s9.332-4.177,9.332-9.331
+			S255.394,207.023,250.24,207.023z M250.24,219.899c-1.956,0-3.543-1.587-3.543-3.544s1.587-3.544,3.543-3.544
+			c1.957,0,3.544,1.587,3.544,3.544S252.197,219.899,250.24,219.899z"/>
+		<rect x="245" y="183" width="10" height="27"/>
+		<g>
+			<rect x="202" y="86" width="94" height="9"/>
+			<rect x="202" y="118" width="94" height="8"/>
+			<rect x="202" y="146" width="94" height="9"/>
+			<rect x="202" y="178" width="94" height="8"/>
+		</g>
+		<rect x="205" y="91" width="9" height="90"/>
+		<rect x="285" y="94" width="9" height="86"/>
+	</g>
+</g>
+</svg>

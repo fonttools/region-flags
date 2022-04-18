@@ -1,0 +1,17 @@
+; ISO 3166-2:ER
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:ER
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	ER-MA*	Al Awsaţ		ar	BGN/PCGN 1956	
+region	ER-DU*	Al Janūbī		ar	BGN/PCGN 1956	
+region	ER-AN*	Ansabā		ar	BGN/PCGN 1956	
+region	ER-DU*	Debub		ti	BGN/PCGN 2007	
+region	ER-DK*	Debubawi K’eyyĭḥ Baḥri		ti	BGN/PCGN 2007	
+region	ER-GB*	Gash-Barka		ti	BGN/PCGN 2007	
+region	ER-DK*	Janūbī al Baḩrī al Aḩmar		ar	BGN/PCGN 1956	
+region	ER-MA*	Ma’ĭkel		ti	BGN/PCGN 2007	
+region	ER-GB*	Qāsh-Barkah		ar	BGN/PCGN 1956	
+region	ER-SK*	Semienawi K’eyyĭḥ Baḥri		ti	BGN/PCGN 2007	
+region	ER-SK*	Shimālī al Baḩrī al Aḩmar		ar	BGN/PCGN 1956	
+region	ER-AN*	‘Anseba		ti	BGN/PCGN 2007	

@@ -1,0 +1,92 @@
+; ISO 3166-2:MA
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:MA
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+prefecture	MA-AGD*	Agadir-Ida-Ou-Tanane		ar	conventional names	MA-09
+province	MA-HAO*	Al Haouz		ar	conventional names	MA-07
+province	MA-HOC*	Al Hoceïma		ar	conventional names	MA-01
+province	MA-AOU*	Aousserd (EH)		ar	conventional names	MA-12
+province	MA-ASZ*	Assa-Zag (EH-partial)		ar	conventional names	MA-10
+province	MA-AZI*	Azilal		ar	conventional names	MA-05
+province	MA-BES*	Benslimane		ar	conventional names	MA-06
+province	MA-BER*	Berkane		ar	conventional names	MA-02
+province	MA-BRR*	Berrechid		ar	conventional names	MA-06
+province	MA-BOD*	Boujdour (EH)		ar	conventional names	MA-11
+province	MA-BOM*	Boulemane		ar	conventional names	MA-03
+province	MA-BEM*	Béni Mellal		ar	conventional names	MA-05
+region	MA-05	Béni Mellal-Khénifra		ar	conventional names	
+prefecture	MA-CAS*	Casablanca	Dar el Beïda	ar	conventional names	MA-06
+region	MA-06	Casablanca-Settat		ar	conventional names	
+province	MA-CHE*	Chefchaouen		ar	conventional names	MA-01
+province	MA-CHI*	Chichaoua		ar	conventional names	MA-07
+province	MA-CHT*	Chtouka-Ait Baha		ar	conventional names	MA-06
+region	MA-12	Dakhla-Oued Ed-Dahab (EH)		ar	conventional names	
+province	MA-DRI*	Driouch		ar	conventional names	MA-02
+region	MA-08	Drâa-Tafilalet		ar	conventional names	
+province	MA-HAJ*	El Hajeb		ar	conventional names	MA-03
+province	MA-JDI*	El Jadida		ar	conventional names	MA-06
+province	MA-KES*	El Kelâa des Sraghna		ar	conventional names	MA-07
+province	MA-ERR*	Errachidia		ar	conventional names	MA-08
+province	MA-ESM*	Es-Semara (EH-partial)		ar	conventional names	MA-11
+province	MA-ESI*	Essaouira		ar	conventional names	MA-07
+province	MA-FAH*	Fahs-Anjra		ar	conventional names	MA-01
+province	MA-FIG*	Figuig		ar	conventional names	MA-02
+province	MA-FQH*	Fquih Ben Salah		ar	conventional names	MA-05
+prefecture	MA-FES*	Fès		ar	conventional names	MA-03
+region	MA-03	Fès-Meknès		ar	conventional names	
+province	MA-GUE*	Guelmim		ar	conventional names	MA-10
+region	MA-10	Guelmim-Oued Noun (EH-partial)		ar	conventional names	
+province	MA-GUF*	Guercif		ar	conventional names	MA-02
+province	MA-IFR*	Ifrane		ar	conventional names	MA-03
+prefecture	MA-INE*	Inezgane-Ait Melloul		ar	conventional names	MA-09
+province	MA-JRA*	Jerada		ar	conventional names	MA-02
+province	MA-KHO*	Khouribga		ar	conventional names	MA-05
+province	MA-KHE*	Khémisset		ar	conventional names	MA-04
+province	MA-KHN*	Khénifra		ar	conventional names	MA-05
+province	MA-KEN*	Kénitra		ar	conventional names	MA-04
+region	MA-02	L'Oriental		ar	conventional names	
+province	MA-LAR*	Larache		ar	conventional names	MA-01
+province	MA-LAA*	Laâyoune (EH)		ar	conventional names	MA-11
+region	MA-11	Laâyoune-Sakia El Hamra (EH-partial)		ar	conventional names	
+prefecture	MA-MAR*	Marrakech		ar	conventional names	MA-07
+region	MA-07	Marrakech-Safi		ar	conventional names	
+prefecture	MA-MEK*	Meknès		ar	conventional names	MA-03
+province	MA-MID*	Midelt		ar	conventional names	MA-08
+prefecture	MA-MOH*	Mohammadia		ar	conventional names	MA-06
+province	MA-MOU*	Moulay Yacoub		ar	conventional names	MA-03
+province	MA-MED*	Médiouna		ar	conventional names	MA-06
+prefecture	MA-MDF*	M’diq-Fnideq		ar	conventional names	MA-01
+province	MA-NAD*	Nador		ar	conventional names	MA-02
+province	MA-NOU*	Nouaceur		ar	conventional names	MA-04
+province	MA-OUA*	Ouarzazate		ar	conventional names	MA-08
+province	MA-OUD*	Oued Ed-Dahab (EH)		ar	conventional names	MA-12
+province	MA-OUZ*	Ouezzane		ar	conventional names	MA-01
+prefecture	MA-OUJ*	Oujda-Angad		ar	conventional names	MA-02
+prefecture	MA-RAB*	Rabat		ar	conventional names	MA-04
+region	MA-04	Rabat-Salé-Kénitra		ar	conventional names	
+province	MA-REH*	Rehamna		ar	conventional names	MA-07
+province	MA-SAF*	Safi		ar	conventional names	MA-07
+prefecture	MA-SAL*	Salé		ar	conventional names	MA-04
+province	MA-SEF*	Sefrou		ar	conventional names	MA-03
+province	MA-SET*	Settat		ar	conventional names	MA-06
+province	MA-SIB*	Sidi Bennour		ar	conventional names	MA-06
+province	MA-SIF*	Sidi Ifni		ar	conventional names	MA-10
+province	MA-SIK*	Sidi Kacem		ar	conventional names	MA-04
+province	MA-SIL*	Sidi Slimane		ar	conventional names	MA-04
+prefecture	MA-SKH*	Skhirate-Témara		ar	conventional names	MA-04
+region	MA-09	Souss-Massa		ar	conventional names	
+province	MA-TNT*	Tan-Tan (EH-partial)		ar	conventional names	MA-10
+prefecture	MA-TNG*	Tanger-Assilah		ar	conventional names	MA-01
+region	MA-01	Tanger-Tétouan-Al Hoceïma		ar	conventional names	
+province	MA-TAO*	Taounate		ar	conventional names	MA-03
+province	MA-TAI*	Taourirt		ar	conventional names	MA-02
+province	MA-TAF*	Tarfaya (EH-partial)		ar	conventional names	MA-11
+province	MA-TAR*	Taroudannt		ar	conventional names	MA-09
+province	MA-TAT*	Tata		ar	conventional names	MA-09
+province	MA-TAZ*	Taza		ar	conventional names	MA-03
+province	MA-TIN*	Tinghir		ar	conventional names	MA-08
+province	MA-TIZ*	Tiznit		ar	conventional names	MA-09
+province	MA-TET*	Tétouan		ar	conventional names	MA-01
+province	MA-YUS*	Youssoufia		ar	conventional names	MA-07
+province	MA-ZAG*	Zagora		ar	conventional names	MA-08

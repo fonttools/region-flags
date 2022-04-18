@@ -2,6 +2,7 @@
 
 from regions import load_regions, load_subregions, load_aliases
 
+
 def load_region_wp_urls(region_keys_names):
     aliases_wp = load_aliases("data/ALIASES-WP")
     urls = {}
@@ -10,14 +11,15 @@ def load_region_wp_urls(region_keys_names):
 
         # Apply Wikipedia-specific mappings
         region_name = aliases_wp.get(region_key, aliases_wp.get(region_name, region_name))
+        if not region_name.startswith("File:"):
+            region_name = "File:Flag of " + region_name
         region_name = region_name.replace(' ', '_')
-        urls[region_key] = "https://commons.wikimedia.org/wiki/File:Flag_of_%s.svg" % region_name
+        urls[region_key] = "https://commons.wikimedia.org/wiki/%s.svg" % region_name
 
     return urls
 
 
 def load_region_key_names():
-
     aliases = load_aliases("data/ALIASES")
     regions = load_regions()
     regions.update(load_subregions())

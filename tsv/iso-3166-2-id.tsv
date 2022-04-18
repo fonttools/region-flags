@@ -1,0 +1,46 @@
+; ISO 3166-2:ID
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:ID
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	ID-AC	Aceh		id		ID-SM
+province	ID-BA	Bali		id		ID-NU
+province	ID-BT*	Banten		id		ID-JW
+province	ID-BE	Bengkulu		id		ID-SM
+province	ID-GO*	Gorontalo		id		ID-SL
+capital district	ID-JK	Jakarta Raya	DKI Jakarta; DKI	id		ID-JW
+province	ID-JA	Jambi		id		ID-SM
+geographical unit	ID-JW*	Jawa		id		
+province	ID-JB	Jawa Barat		id		ID-JW
+province	ID-JT	Jawa Tengah		id		ID-JW
+province	ID-JI	Jawa Timur		id		ID-JW
+geographical unit	ID-KA*	Kalimantan		id		
+province	ID-KB	Kalimantan Barat		id		ID-KA
+province	ID-KS	Kalimantan Selatan		id		ID-KA
+province	ID-KT	Kalimantan Tengah		id		ID-KA
+province	ID-KI	Kalimantan Timur		id		ID-KA
+province	ID-KU	Kalimantan Utara		id		ID-KA
+province	ID-BB*	Kepulauan Bangka Belitung		id		ID-SM
+province	ID-KR*	Kepulauan Riau		id		ID-SM
+province	ID-LA	Lampung		id		ID-SM
+geographical unit	ID-ML*	Maluku		id		
+province	ID-MA	Maluku		id		ID-ML
+province	ID-MU*	Maluku Utara		id		ID-ML
+geographical unit	ID-NU*	Nusa Tenggara		id		
+province	ID-NB	Nusa Tenggara Barat		id		ID-NU
+province	ID-NT	Nusa Tenggara Timur		id		ID-NU
+geographical unit	ID-PP*	Papua		id		
+province	ID-PA*	Papua		id		ID-PP
+province	ID-PB	Papua Barat		id		ID-PP
+province	ID-RI	Riau		id		ID-SM
+geographical unit	ID-SL*	Sulawesi		id		
+province	ID-SR*	Sulawesi Barat		id		ID-SL
+province	ID-SN	Sulawesi Selatan		id		ID-SL
+province	ID-ST	Sulawesi Tengah		id		ID-SL
+province	ID-SG	Sulawesi Tenggara		id		ID-SL
+province	ID-SA	Sulawesi Utara		id		ID-SL
+geographical unit	ID-SM*	Sumatera		id		
+province	ID-SB	Sumatera Barat		id		ID-SM
+province	ID-SS	Sumatera Selatan		id		ID-SM
+province	ID-SU	Sumatera Utara		id		ID-SM
+special region	ID-YO	Yogyakarta	DI Yogya; DIY	id		ID-JW

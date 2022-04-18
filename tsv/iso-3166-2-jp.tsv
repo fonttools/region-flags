@@ -1,0 +1,75 @@
+; ISO 3166-2:JP
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:JP
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+prefecture	JP-23	Aichi		en		
+prefecture	JP-23	Aiti		ja	ISO 3602:1989	
+prefecture	JP-05	Akita		ja	ISO 3602:1989	
+prefecture	JP-02	Aomori		ja	ISO 3602:1989	
+prefecture	JP-12	Chiba		en		
+prefecture	JP-38	Ehime		ja	ISO 3602:1989	
+prefecture	JP-18	Fukui		en		
+prefecture	JP-40	Fukuoka		en		
+prefecture	JP-07	Fukushima		en		
+prefecture	JP-21	Gifu		en		
+prefecture	JP-21	Gihu		ja	ISO 3602:1989	
+prefecture	JP-10	Gunma		ja	ISO 3602:1989	
+prefecture	JP-34	Hiroshima		en		
+prefecture	JP-34	Hirosima		ja	ISO 3602:1989	
+prefecture	JP-01	Hokkaido		en		
+prefecture	JP-01	Hokkaidô		ja	ISO 3602:1989	
+prefecture	JP-18	Hukui		ja	ISO 3602:1989	
+prefecture	JP-40	Hukuoka		ja	ISO 3602:1989	
+prefecture	JP-07	Hukusima		ja	ISO 3602:1989	
+prefecture	JP-28	Hyogo		en		
+prefecture	JP-28	Hyôgo		ja	ISO 3602:1989	
+prefecture	JP-08	Ibaraki		ja	ISO 3602:1989	
+prefecture	JP-17	Ishikawa		en		
+prefecture	JP-17	Isikawa		ja	ISO 3602:1989	
+prefecture	JP-03	Iwate		ja	ISO 3602:1989	
+prefecture	JP-37	Kagawa		ja	ISO 3602:1989	
+prefecture	JP-46	Kagoshima		en		
+prefecture	JP-46	Kagosima		ja	ISO 3602:1989	
+prefecture	JP-14	Kanagawa		ja	ISO 3602:1989	
+prefecture	JP-39	Kochi		en		
+prefecture	JP-43	Kumamoto		ja	ISO 3602:1989	
+prefecture	JP-26	Kyoto		en		
+prefecture	JP-26	Kyôto		ja	ISO 3602:1989	
+prefecture	JP-39	Kôti		ja	ISO 3602:1989	
+prefecture	JP-24	Mie		ja	ISO 3602:1989	
+prefecture	JP-04	Miyagi		ja	ISO 3602:1989	
+prefecture	JP-45	Miyazaki		ja	ISO 3602:1989	
+prefecture	JP-20	Nagano		ja	ISO 3602:1989	
+prefecture	JP-42	Nagasaki		ja	ISO 3602:1989	
+prefecture	JP-29	Nara		ja	ISO 3602:1989	
+prefecture	JP-15	Niigata		ja	ISO 3602:1989	
+prefecture	JP-44	Oita		en		
+prefecture	JP-33	Okayama		ja	ISO 3602:1989	
+prefecture	JP-47	Okinawa		ja	ISO 3602:1989	
+prefecture	JP-27	Osaka		en		
+prefecture	JP-41	Saga		ja	ISO 3602:1989	
+prefecture	JP-11	Saitama		ja	ISO 3602:1989	
+prefecture	JP-25	Shiga		en		
+prefecture	JP-32	Shimane		en		
+prefecture	JP-22	Shizuoka		en		
+prefecture	JP-25	Siga		ja	ISO 3602:1989	
+prefecture	JP-32	Simane		ja	ISO 3602:1989	
+prefecture	JP-22	Sizuoka		ja	ISO 3602:1989	
+prefecture	JP-12	Tiba		ja	ISO 3602:1989	
+prefecture	JP-09	Tochigi		en		
+prefecture	JP-36	Tokushima		en		
+prefecture	JP-36	Tokusima		ja	ISO 3602:1989	
+prefecture	JP-13	Tokyo		en		
+prefecture	JP-09	Totigi		ja	ISO 3602:1989	
+prefecture	JP-31	Tottori		ja	ISO 3602:1989	
+prefecture	JP-16	Toyama		ja	ISO 3602:1989	
+prefecture	JP-13	Tôkyô		ja	ISO 3602:1989	
+prefecture	JP-30	Wakayama		ja	ISO 3602:1989	
+prefecture	JP-06	Yamagata		ja	ISO 3602:1989	
+prefecture	JP-35	Yamaguchi		en		
+prefecture	JP-35	Yamaguti		ja	ISO 3602:1989	
+prefecture	JP-19	Yamanashi		en		
+prefecture	JP-19	Yamanasi		ja	ISO 3602:1989	
+prefecture	JP-44	Ôita		ja	ISO 3602:1989	
+prefecture	JP-27	Ôsaka		ja	ISO 3602:1989	

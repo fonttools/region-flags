@@ -1,0 +1,36 @@
+; ISO 3166-2:CH
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:CH
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+canton	CH-AG	Aargau		de		
+canton	CH-AR	Appenzell Ausserrhoden		de		
+canton	CH-AI	Appenzell Innerrhoden		de		
+canton	CH-BL	Basel-Landschaft		de		
+canton	CH-BS	Basel-Stadt		de		
+canton	CH-BE	Bern		de		
+canton	CH-BE	Berne		fr		
+canton	CH-FR	Freiburg		de		
+canton	CH-FR	Fribourg		fr		
+canton	CH-GE	Genève		fr		
+canton	CH-GL	Glarus		de		
+canton	CH-GR	Graubünden		de		
+canton	CH-GR	Grigioni		it		
+canton	CH-GR	Grischun		rm		
+canton	CH-JU	Jura		fr		
+canton	CH-LU	Luzern		de		
+canton	CH-NE	Neuchâtel		fr		
+canton	CH-NW	Nidwalden		de		
+canton	CH-OW	Obwalden		de		
+canton	CH-SG	Sankt Gallen		de		
+canton	CH-SH	Schaffhausen		de		
+canton	CH-SZ	Schwyz		de		
+canton	CH-SO	Solothurn		de		
+canton	CH-TG	Thurgau		de		
+canton	CH-TI	Ticino		it		
+canton	CH-UR	Uri		de		
+canton	CH-VS	Valais		fr		
+canton	CH-VD	Vaud		fr		
+canton	CH-VS	Wallis		de		
+canton	CH-ZG	Zug		de		
+canton	CH-ZH	Zürich		de		

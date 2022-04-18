@@ -1,0 +1,75 @@
+; ISO 3166-2:LT
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:LT
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+district municipality	LT-01*	Akmenė		lt		LT-SA
+county	LT-AL*	Alytaus apskritis		lt		
+city municipality	LT-02*	Alytaus miestas		lt		LT-AL
+district municipality	LT-03*	Alytus		lt		LT-AL
+district municipality	LT-04*	Anykščiai		lt		LT-UT
+municipality	LT-05*	Birštonas		lt		LT-KU
+district municipality	LT-06*	Biržai		lt		LT-PN
+municipality	LT-07*	Druskininkai		lt		LT-AL
+municipality	LT-08*	Elektrėnai		lt		LT-VL
+district municipality	LT-09*	Ignalina		lt		LT-UT
+district municipality	LT-10*	Jonava		lt		LT-KU
+district municipality	LT-11*	Joniškis		lt		LT-SA
+district municipality	LT-12*	Jurbarkas		lt		LT-TA
+district municipality	LT-13*	Kaišiadorys		lt		LT-KU
+municipality	LT-14*	Kalvarija		lt		LT-MR
+district municipality	LT-16*	Kaunas		lt		LT-KU
+county	LT-KU*	Kauno apskritis		lt		
+city municipality	LT-15*	Kauno miestas		lt		LT-KU
+municipality	LT-17*	Kazlų Rūdos		lt		LT-MR
+district municipality	LT-19*	Kelmė		lt		LT-SA
+district municipality	LT-21*	Klaipėda		lt		LT-KL
+county	LT-KL*	Klaipėdos apskritis		lt		
+city municipality	LT-20*	Klaipėdos miestas		lt		LT-KL
+district municipality	LT-22*	Kretinga		lt		LT-KL
+district municipality	LT-23*	Kupiškis		lt		LT-PN
+district municipality	LT-18*	Kėdainiai		lt		LT-KU
+district municipality	LT-24*	Lazdijai		lt		LT-AL
+district municipality	LT-25*	Marijampolė		lt		LT-MR
+county	LT-MR*	Marijampolės apskritis		lt		
+district municipality	LT-26*	Mažeikiai		lt		LT-TE
+district municipality	LT-27*	Molėtai		lt		LT-UT
+municipality	LT-28*	Neringa		lt		LT-KL
+municipality	LT-29*	Pagėgiai		lt		LT-TA
+district municipality	LT-30*	Pakruojis		lt		LT-SA
+city municipality	LT-31*	Palangos miestas		lt		LT-KL
+county	LT-PN*	Panevėžio apskritis		lt		
+city municipality	LT-32*	Panevėžio miestas		lt		LT-PN
+district municipality	LT-33*	Panevėžys		lt		LT-PN
+district municipality	LT-34*	Pasvalys		lt		LT-PN
+district municipality	LT-35*	Plungė		lt		LT-TE
+district municipality	LT-36*	Prienai		lt		LT-KU
+district municipality	LT-37*	Radviliškis		lt		LT-SA
+district municipality	LT-38*	Raseiniai		lt		LT-KU
+municipality	LT-39*	Rietavas		lt		LT-TE
+district municipality	LT-40*	Rokiškis		lt		LT-PN
+district municipality	LT-48*	Skuodas		lt		LT-KL
+district municipality	LT-50*	Tauragė		lt		LT-TA
+county	LT-TA*	Tauragės apskritis		lt		
+district municipality	LT-51*	Telšiai		lt		LT-TE
+county	LT-TE*	Telšių apskritis		lt		
+district municipality	LT-52*	Trakai		lt		LT-VL
+district municipality	LT-53*	Ukmergė		lt		LT-VL
+district municipality	LT-54*	Utena		lt		LT-UT
+county	LT-UT*	Utenos apskritis		lt		
+district municipality	LT-55*	Varėna		lt		LT-AL
+district municipality	LT-56*	Vilkaviškis		lt		LT-MR
+county	LT-VL*	Vilniaus apskritis		lt		
+city municipality	LT-57*	Vilniaus miestas		lt		LT-VL
+district municipality	LT-58*	Vilnius		lt		LT-VL
+municipality	LT-59*	Visaginas		lt		LT-UT
+district municipality	LT-60*	Zarasai		lt		LT-UT
+district municipality	LT-41*	Šakiai		lt		LT-MR
+district municipality	LT-42*	Šalčininkai		lt		LT-VL
+district municipality	LT-44*	Šiauliai		lt		LT-SA
+county	LT-SA*	Šiaulių apskritis		lt		
+city municipality	LT-43*	Šiaulių miestas		lt		LT-SA
+district municipality	LT-45*	Šilalė		lt		LT-TA
+district municipality	LT-46*	Šilutė		lt		LT-KL
+district municipality	LT-47*	Širvintos		lt		LT-VL
+district municipality	LT-49*	Švenčionys		lt		LT-VL

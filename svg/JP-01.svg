@@ -1,0 +1,17 @@
+<svg viewBox="-630 -420 1260 840" width="1260" height="840" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M-630-420h1260v840H-630z" fill="#2f304e"/>
+<path id="a" d="M0-265.044292l60-28.894477V0H-60V-293.938769z" fill="#fff"/>
+<g id="a3">
+<use xlink:href="#a" transform="rotate(51.428571428571)"/>
+<use xlink:href="#a" transform="rotate(102.857142857143)"/>
+<use xlink:href="#a" transform="rotate(154.285714285714)"/>
+</g>
+<use xlink:href="#a3" transform="rotate(154.285714285714)"/>
+<path id="b" d="M0-265.044292L32.703114 0H-32.703114z" fill="#d13a43"/>
+<g id="b3">
+<use xlink:href="#b" transform="rotate(51.428571428571)"/>
+<use xlink:href="#b" transform="rotate(102.857142857143)"/>
+<use xlink:href="#b" transform="rotate(154.285714285714)"/>
+</g>
+<use xlink:href="#b3" transform="rotate(154.285714285714)"/>
+</svg>

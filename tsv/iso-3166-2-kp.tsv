@@ -1,0 +1,29 @@
+; ISO 3166-2:KP
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:KP
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	KP-04	Chagang-do		ko	McCune-Reischauer 1939	
+province	KP-09	Hamgyǒng-bukto		ko	McCune-Reischauer 1939	
+province	KP-08	Hamgyǒng-namdo		ko	McCune-Reischauer 1939	
+province	KP-08	Hamkyeongnamto		ko	KPS 11080:2002	
+province	KP-09	Hamkyeongpukto		ko	KPS 11080:2002	
+province	KP-06	Hwanghae-bukto		ko	McCune-Reischauer 1939	
+province	KP-05	Hwanghae-namdo		ko	McCune-Reischauer 1939	
+province	KP-05	Hwanghainamto		ko	KPS 11080:2002	
+province	KP-06	Hwanghaipukto		ko	KPS 11080:2002	
+province	KP-04	Jakangto		ko	KPS 11080:2002	
+province	KP-07	Kangweonto		ko	KPS 11080:2002	
+province	KP-07	Kangwǒn-do		ko	McCune-Reischauer 1939	
+metropolitan city	KP-14*	Nampho		ko	KPS 11080:2002	
+metropolitan city	KP-14*	Namp’o		ko	McCune-Reischauer 1939	
+province	KP-03	P'yǒngan-bukto		ko	McCune-Reischauer 1939	
+province	KP-02	P'yǒngan-namdo		ko	McCune-Reischauer 1939	
+capital city	KP-01	P'yǒngyang		ko	McCune-Reischauer 1939	
+province	KP-02	Phyeongannamto		ko	KPS 11080:2002	
+province	KP-03	Phyeonganpukto		ko	KPS 11080:2002	
+capital city	KP-01	Phyeongyang		ko	KPS 11080:2002	
+special city	KP-13	Raseon		ko	KPS 11080:2002	
+special city	KP-13	Rasǒn	Najin Sǒnbong	ko	McCune-Reischauer 1939	
+province	KP-10	Ryanggang-do		ko	McCune-Reischauer 1939	
+province	KP-10	Ryangkangto		ko	KPS 11080:2002	

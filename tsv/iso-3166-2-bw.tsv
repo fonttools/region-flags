@@ -1,0 +1,21 @@
+; ISO 3166-2:BW
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:BW
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+district	BW-CE*	Central		en		
+district	BW-CH*	Chobe		en		
+city	BW-FR*	Francistown		en		
+city	BW-GA*	Gaborone		en		
+district	BW-GH*	Ghanzi		en		
+town	BW-JW*	Jwaneng		en		
+district	BW-KG*	Kgalagadi		en		
+district	BW-KL*	Kgatleng		en		
+district	BW-KW*	Kweneng		en		
+town	BW-LO*	Lobatse		en		
+district	BW-NE*	North East		en		
+district	BW-NW*	North West		en		
+town	BW-SP*	Selibe Phikwe		en		
+district	BW-SE*	South East		en		
+district	BW-SO*	Southern		en		
+town	BW-ST*	Sowa Town		en		

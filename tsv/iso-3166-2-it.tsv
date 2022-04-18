@@ -1,0 +1,134 @@
+; ISO 3166-2:IT
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:IT
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	IT-65	Abruzzo		it		
+free municipal consortium	IT-AG	Agrigento		it		IT-82
+province	IT-AL	Alessandria		it		IT-21
+province	IT-AN	Ancona		it		IT-57
+province	IT-AR	Arezzo		it		IT-52
+province	IT-AP	Ascoli Piceno		it		IT-57
+province	IT-AT	Asti		it		IT-21
+province	IT-AV	Avellino		it		IT-72
+metropolitan city	IT-BA	Bari		it		IT-75
+province	IT-BT	Barletta-Andria-Trani		it		IT-75
+region	IT-77	Basilicata		it		
+province	IT-BL	Belluno		it		IT-34
+province	IT-BN	Benevento		it		IT-72
+province	IT-BG	Bergamo		it		IT-25
+province	IT-BI	Biella		it		IT-21
+metropolitan city	IT-BO	Bologna		it		IT-45
+autonomous province	IT-BZ	Bolzano		it		IT-32
+autonomous province	IT-BZ	Bozen		de		IT-32
+province	IT-BS	Brescia		it		IT-25
+province	IT-BR	Brindisi		it		IT-75
+metropolitan city	IT-CA	Cagliari		it		IT-88
+region	IT-78	Calabria		it		
+free municipal consortium	IT-CL	Caltanissetta		it		IT-82
+region	IT-72	Campania		it		
+province	IT-CB	Campobasso		it		IT-67
+province	IT-CE	Caserta		it		IT-72
+metropolitan city	IT-CT	Catania		it		IT-82
+province	IT-CZ	Catanzaro		it		IT-78
+province	IT-CH	Chieti		it		IT-65
+province	IT-CO	Como		it		IT-25
+province	IT-CS	Cosenza		it		IT-78
+province	IT-CR	Cremona		it		IT-25
+province	IT-KR	Crotone		it		IT-78
+province	IT-CN	Cuneo		it		IT-21
+region	IT-45	Emilia-Romagna		it		
+free municipal consortium	IT-EN	Enna		it		IT-82
+province	IT-FM	Fermo		it		IT-57
+province	IT-FE	Ferrara		it		IT-45
+metropolitan city	IT-FI	Firenze		it		IT-52
+province	IT-FG	Foggia		it		IT-75
+province	IT-FC*	Forlì-Cesena		it		IT-45
+autonomous region	IT-36	Friuli Venezia Giulia		it		
+province	IT-FR	Frosinone		it		IT-62
+metropolitan city	IT-GE	Genova		it		IT-42
+decentralized regional entity	IT-GO	Gorizia		it		IT-36
+province	IT-GR	Grosseto		it		IT-52
+province	IT-IM	Imperia		it		IT-42
+province	IT-IS	Isernia		it		IT-67
+province	IT-AQ	L'Aquila		it		IT-65
+province	IT-SP	La Spezia		it		IT-42
+province	IT-LT	Latina		it		IT-62
+region	IT-62	Lazio		it		
+province	IT-LE	Lecce		it		IT-75
+province	IT-LC	Lecco		it		IT-25
+region	IT-42	Liguria		it		
+province	IT-LI	Livorno		it		IT-52
+province	IT-LO	Lodi		it		IT-25
+region	IT-25	Lombardia		it		
+province	IT-LU	Lucca		it		IT-52
+province	IT-MC	Macerata		it		IT-57
+province	IT-MN	Mantova		it		IT-25
+region	IT-57	Marche		it		
+province	IT-MS	Massa-Carrara		it		IT-52
+province	IT-MT	Matera		it		IT-77
+metropolitan city	IT-ME	Messina		it		IT-82
+metropolitan city	IT-MI	Milano		it		IT-25
+province	IT-MO	Modena		it		IT-45
+region	IT-67	Molise		it		
+province	IT-MB	Monza e Brianza		it		IT-25
+metropolitan city	IT-NA	Napoli		it		IT-72
+province	IT-NO	Novara		it		IT-21
+province	IT-NU	Nuoro		it		IT-88
+province	IT-OR	Oristano		it		IT-88
+province	IT-PD	Padova		it		IT-34
+metropolitan city	IT-PA	Palermo		it		IT-82
+province	IT-PR	Parma		it		IT-45
+province	IT-PV	Pavia		it		IT-25
+province	IT-PG	Perugia		it		IT-55
+province	IT-PU	Pesaro e Urbino		it		IT-57
+province	IT-PE	Pescara		it		IT-65
+province	IT-PC	Piacenza		it		IT-45
+region	IT-21	Piemonte		it		
+province	IT-PI	Pisa		it		IT-52
+province	IT-PT	Pistoia		it		IT-52
+decentralized regional entity	IT-PN	Pordenone		it		IT-36
+province	IT-PZ	Potenza		it		IT-77
+province	IT-PO	Prato		it		IT-52
+region	IT-75	Puglia		it		
+free municipal consortium	IT-RG	Ragusa		it		IT-82
+province	IT-RA	Ravenna		it		IT-45
+metropolitan city	IT-RC	Reggio Calabria		it		IT-78
+province	IT-RE	Reggio Emilia		it		IT-45
+province	IT-RI	Rieti		it		IT-62
+province	IT-RN	Rimini		it		IT-45
+metropolitan city	IT-RM	Roma		it		IT-62
+province	IT-RO	Rovigo		it		IT-34
+province	IT-SA	Salerno		it		IT-72
+autonomous region	IT-88	Sardegna		it		
+province	IT-SS	Sassari		it		IT-88
+province	IT-SV	Savona		it		IT-42
+autonomous region	IT-82	Sicilia		it		
+province	IT-SI	Siena		it		IT-52
+free municipal consortium	IT-SR	Siracusa		it		IT-82
+province	IT-SO	Sondrio		it		IT-25
+province	IT-SU	Sud Sardegna		it		IT-88
+province	IT-TA	Taranto		it		IT-75
+province	IT-TE	Teramo		it		IT-65
+province	IT-TR	Terni		it		IT-55
+metropolitan city	IT-TO	Torino		it		IT-21
+region	IT-52	Toscana		it		
+free municipal consortium	IT-TP	Trapani		it		IT-82
+autonomous region	IT-32	Trentino-Alto Adige		it		
+autonomous region	IT-32	Trentino-Südtirol		de		
+autonomous province	IT-TN	Trento		it		IT-32
+province	IT-TV	Treviso		it		IT-34
+decentralized regional entity	IT-TS	Trieste		it		IT-36
+decentralized regional entity	IT-UD	Udine		it		IT-36
+region	IT-55	Umbria		it		
+autonomous region	IT-23	Val d'Aoste		fr		
+autonomous region	IT-23	Valle d'Aosta		it		
+province	IT-VA	Varese		it		IT-25
+region	IT-34	Veneto		it		
+metropolitan city	IT-VE	Venezia		it		IT-34
+province	IT-VB	Verbano-Cusio-Ossola		it		IT-21
+province	IT-VC	Vercelli		it		IT-21
+province	IT-VR	Verona		it		IT-34
+province	IT-VV	Vibo Valentia		it		IT-78
+province	IT-VI	Vicenza		it		IT-34
+province	IT-VT	Viterbo		it		IT-62

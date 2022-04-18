@@ -1,0 +1,46 @@
+; ISO 3166-2:GN
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:GN
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+prefecture	GN-BE*	Beyla		fr		GN-N
+prefecture	GN-BF*	Boffa		fr		GN-B
+administrative region	GN-B*	Boké		fr		
+prefecture	GN-BK*	Boké		fr		GN-B
+governorate	GN-C*	Conakry		fr		
+prefecture	GN-CO*	Coyah		fr		GN-D
+prefecture	GN-DB*	Dabola		fr		GN-F
+prefecture	GN-DL*	Dalaba		fr		GN-M
+prefecture	GN-DI*	Dinguiraye		fr		GN-F
+prefecture	GN-DU*	Dubréka		fr		GN-D
+administrative region	GN-F*	Faranah		fr		
+prefecture	GN-FA*	Faranah		fr		GN-F
+prefecture	GN-FO*	Forécariah		fr		GN-D
+prefecture	GN-FR*	Fria		fr		GN-B
+prefecture	GN-GA*	Gaoual		fr		GN-B
+prefecture	GN-GU*	Guékédou		fr		GN-N
+administrative region	GN-K*	Kankan		fr		
+prefecture	GN-KA*	Kankan		fr		GN-K
+administrative region	GN-D*	Kindia		fr		
+prefecture	GN-KD*	Kindia		fr		GN-D
+prefecture	GN-KS*	Kissidougou		fr		GN-F
+prefecture	GN-KB*	Koubia		fr		GN-L
+prefecture	GN-KN*	Koundara		fr		GN-B
+prefecture	GN-KO*	Kouroussa		fr		GN-K
+prefecture	GN-KE*	Kérouané		fr		GN-K
+administrative region	GN-L*	Labé		fr		
+prefecture	GN-LA*	Labé		fr		GN-L
+prefecture	GN-LO*	Lola		fr		GN-N
+prefecture	GN-LE*	Lélouma		fr		GN-L
+prefecture	GN-MC*	Macenta		fr		GN-N
+prefecture	GN-ML*	Mali		fr		GN-L
+administrative region	GN-M*	Mamou		fr		
+prefecture	GN-MM*	Mamou		fr		GN-M
+prefecture	GN-MD*	Mandiana		fr		GN-K
+administrative region	GN-N*	Nzérékoré		fr		
+prefecture	GN-NZ*	Nzérékoré		fr		GN-N
+prefecture	GN-PI*	Pita		fr		GN-M
+prefecture	GN-SI*	Siguiri		fr		GN-K
+prefecture	GN-TO*	Tougué		fr		GN-L
+prefecture	GN-TE*	Télimélé		fr		GN-D
+prefecture	GN-YO*	Yomou		fr		GN-N

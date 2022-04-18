@@ -1,0 +1,19 @@
+; ISO 3166-2:NA
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:NA
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+region	NA-KA*	//Karas	Karas; !Karas	en		
+region	NA-ER*	Erongo		en		
+region	NA-HA*	Hardap		en		
+region	NA-KE*	Kavango East		en		
+region	NA-KW*	Kavango West		en		
+region	NA-KH*	Khomas		en		
+region	NA-KU*	Kunene		en		
+region	NA-OW*	Ohangwena		en		
+region	NA-OH*	Omaheke		en		
+region	NA-OS*	Omusati		en		
+region	NA-ON*	Oshana		en		
+region	NA-OT*	Oshikoto		en		
+region	NA-OD*	Otjozondjupa		en		
+region	NA-CA*	Zambezi		en		

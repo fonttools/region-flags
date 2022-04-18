@@ -1,0 +1,200 @@
+; ISO 3166-2:PH
+; Source: https://www.iso.org/obp/ui/#iso:code:3166:PH
+; Extracted on: 20220210
+; 
+; Subdivision category	3166-2 code	Subdivision name	Local variant	Language code Romanization system	Parent subdivision
+province	PH-ABR*	Abra		en		PH-15
+province	PH-ABR*	Abra		tl		PH-15
+province	PH-AGN*	Agusan del Norte		en		PH-13
+province	PH-AGS*	Agusan del Sur		en		PH-13
+province	PH-AKL*	Aklan		en		PH-06
+province	PH-AKL*	Aklan		tl		PH-06
+province	PH-ALB*	Albay		en		PH-05
+province	PH-ALB*	Albay		tl		PH-05
+province	PH-ANT*	Antike		tl		PH-06
+province	PH-ANT*	Antique		en		PH-06
+province	PH-APA*	Apayao		en		PH-15
+province	PH-APA*	Apayaw		tl		PH-15
+province	PH-AUR*	Aurora		en		PH-03
+province	PH-AUR*	Aurora		tl		PH-03
+region	PH-14*	Autonomous Region in Muslim Mindanao (ARMM)		en		
+province	PH-BAS*	Basilan		en		PH-09
+province	PH-BAS*	Basilan		tl		PH-09
+province	PH-BAN*	Bataan		en		PH-03
+province	PH-BAN*	Bataan		tl		PH-03
+province	PH-BTN*	Batanes		en		PH-02
+province	PH-BTN*	Batanes		tl		PH-02
+province	PH-BTG*	Batangas		en		PH-40
+province	PH-BTG*	Batangas		tl		PH-40
+province	PH-BEN*	Benget		tl		PH-15
+province	PH-BEN*	Benguet		en		PH-15
+region	PH-05*	Bicol (Region V)		en		
+province	PH-BIL*	Biliran		en		PH-08
+province	PH-BIL*	Biliran		tl		PH-08
+province	PH-BOH*	Bohol		en		PH-07
+province	PH-BOH*	Bohol		tl		PH-07
+province	PH-BUK*	Bukidnon		en		PH-10
+province	PH-BUK*	Bukidnon		tl		PH-10
+province	PH-BUL*	Bulacan		en		PH-03
+province	PH-BUL*	Bulakan		tl		PH-03
+province	PH-CAG*	Cagayan		en		PH-02
+region	PH-02*	Cagayan Valley (Region II)		en		
+region	PH-40*	Calabarzon (Region IV-A)		en		
+province	PH-CAN*	Camarines Norte		en		PH-05
+province	PH-CAS*	Camarines Sur		en		PH-05
+province	PH-CAM*	Camiguin		en		PH-10
+province	PH-CAP*	Capiz		en		PH-06
+region	PH-13*	Caraga (Region XIII)		en		
+province	PH-CAT*	Catanduanes		en		PH-05
+province	PH-CAV*	Cavite		en		PH-40
+province	PH-CEB*	Cebu		en		PH-07
+region	PH-03*	Central Luzon (Region III)		en		
+region	PH-07*	Central Visayas (Region VII)		en		
+region	PH-15*	Cordillera Administrative Region (CAR)		en		
+province	PH-NCO*	Cotabato		en		PH-12
+region	PH-11*	Davao (Region XI)		en		
+province	PH-DVO*	Davao Occidental		en		PH-11
+province	PH-DAO*	Davao Oriental		en		PH-11
+province	PH-COM	Davao de Oro		en		PH-11
+province	PH-DAV*	Davao del Norte		en		PH-11
+province	PH-DAS*	Davao del Sur		en		PH-11
+province	PH-DIN*	Dinagat Islands		en		PH-13
+province	PH-EAS*	Eastern Samar		en		PH-08
+region	PH-08*	Eastern Visayas (Region VIII)		en		
+province	PH-GUI*	Gimaras		tl		PH-06
+province	PH-GUI*	Guimaras		en		PH-06
+province	PH-AGN*	Hilagang Agusan		tl		PH-13
+province	PH-DAV*	Hilagang Dabaw		tl		PH-11
+province	PH-ILN*	Hilagang Iloko		tl		PH-01
+province	PH-CAN*	Hilagang Kamarines		tl		PH-05
+province	PH-LAN*	Hilagang Lanaw		tl		PH-12
+province	PH-NSA*	Hilagang Samar		tl		PH-08
+province	PH-ZAN*	Hilagang Sambuwangga		tl		PH-09
+province	PH-SUN*	Hilagang Surigaw		tl		PH-13
+province	PH-IFU*	Ifugao		en		PH-15
+region	PH-01*	Ilocos (Region I)		en		
+province	PH-ILN*	Ilocos Norte		en		PH-01
+province	PH-ILS*	Ilocos Sur		en		PH-01
+province	PH-ILI*	Iloilo		en		PH-06
+province	PH-ILI*	Iloilo		tl		PH-06
+province	PH-IFU*	Ipugaw		tl		PH-15
+province	PH-ISA*	Isabela		en		PH-02
+province	PH-ISA*	Isabela		tl		PH-02
+province	PH-CAV*	Kabite		tl		PH-40
+province	PH-CAG*	Kagayan		tl		PH-02
+province	PH-KAL*	Kalinga		en		PH-15
+province	PH-KAL*	Kalinga		tl		PH-15
+province	PH-CAM*	Kamigin		tl		PH-10
+province	PH-DVO*	Kanlurang Dabaw		tl		PH-11
+province	PH-MDC*	Kanlurang Mindoro		tl		PH-41
+province	PH-MSC*	Kanlurang Misamis		tl		PH-10
+province	PH-NEC*	Kanlurang Negros		tl		PH-06
+province	PH-CAP*	Kapis		tl		PH-06
+province	PH-CAT*	Katanduwanes		tl		PH-05
+province	PH-SLE*	Katimogang Leyte		tl		PH-08
+province	PH-QUE*	Keson		tl		PH-40
+province	PH-QUI*	Kirino		tl		PH-02
+province	PH-NCO*	Kotabato		tl		PH-12
+province	PH-LUN*	La Union		en		PH-01
+province	PH-LUN*	La Unyon		tl		PH-01
+province	PH-LAG*	Laguna		en		PH-40
+province	PH-LAG*	Laguna		tl		PH-40
+province	PH-MOU*	Lalawigang Bulubundukin		tl		PH-15
+province	PH-LAN*	Lanao del Norte		en		PH-12
+province	PH-LAS*	Lanao del Sur		en		PH-14
+province	PH-LEY*	Leyte		en		PH-08
+province	PH-LEY*	Leyte		tl		PH-08
+province	PH-MAG*	Magindanaw		tl		PH-14
+province	PH-MAG*	Maguindanao		en		PH-14
+province	PH-MAD*	Marinduke		tl		PH-41
+province	PH-MAD*	Marinduque		en		PH-41
+province	PH-MAS*	Masbate		en		PH-05
+province	PH-MAS*	Masbate		tl		PH-05
+region	PH-41*	Mimaropa (Region IV-B)		en		
+province	PH-MDC*	Mindoro Occidental		en		PH-41
+province	PH-MDR*	Mindoro Oriental		en		PH-41
+province	PH-MSC*	Misamis Occidental		en		PH-10
+province	PH-MSR*	Misamis Oriental		en		PH-10
+province	PH-MOU*	Mountain Province		en		PH-15
+region	PH-14*	Nagsasariling Rehiyon ng Muslim sa Mindanaw		tl		
+region	PH-00*	National Capital Region		en		
+province	PH-NEC*	Negros Occidental		en		PH-06
+province	PH-NER*	Negros Oriental		en		PH-07
+region	PH-10*	Northern Mindanao (Region X)		en		
+province	PH-NSA*	Northern Samar		en		PH-08
+province	PH-NUE*	Nueva Ecija		en		PH-03
+province	PH-NUV*	Nueva Vizcaya		en		PH-02
+province	PH-NUV*	Nuweva Biskaya		tl		PH-02
+province	PH-NUE*	Nuweva Esiha		tl		PH-03
+province	PH-PLW*	Palawan		en		PH-41
+province	PH-PLW*	Palawan		tl		PH-41
+region	PH-00*	Pambansang Punong Rehiyon		tl		
+province	PH-PAM*	Pampanga		en		PH-03
+province	PH-PAM*	Pampanga		tl		PH-03
+province	PH-PAN*	Pangasinan		en		PH-01
+province	PH-PAN*	Pangasinan		tl		PH-01
+province	PH-DIN*	Pulo ng Dinagat		tl		PH-13
+province	PH-QUE*	Quezon		en		PH-40
+province	PH-QUI*	Quirino		en		PH-02
+region	PH-15*	Rehiyon ng Administratibo ng Kordilyera		tl		
+region	PH-05*	Rehiyon ng Bikol		tl		
+region	PH-40*	Rehiyon ng Calabarzon		tl		
+region	PH-11*	Rehiyon ng Dabaw		tl		
+region	PH-07*	Rehiyon ng Gitnang Bisaya		tl		
+region	PH-03*	Rehiyon ng Gitnang Luson		tl		
+region	PH-10*	Rehiyon ng Hilagang Mindanaw		tl		
+region	PH-01*	Rehiyon ng Iloko		tl		
+region	PH-06*	Rehiyon ng Kanlurang Bisaya		tl		
+region	PH-13*	Rehiyon ng Karaga		tl		
+region	PH-02*	Rehiyon ng Lambak ng Kagayan		tl		
+region	PH-41*	Rehiyon ng Mimaropa		tl		
+region	PH-08*	Rehiyon ng Silangang Bisaya		tl		
+region	PH-12*	Rehiyon ng Soccsksargen		tl		
+region	PH-09*	Rehiyon ng Tangway ng Sambuwangga		tl		
+province	PH-RIZ*	Risal		tl		PH-40
+province	PH-RIZ*	Rizal		en		PH-40
+province	PH-ROM*	Romblon		en		PH-41
+province	PH-ROM*	Romblon		tl		PH-41
+province	PH-WSA*	Samar	Western Samar	en		PH-08
+province	PH-WSA*	Samar		tl		PH-08
+province	PH-ZMB*	Sambales		tl		PH-03
+province	PH-ZSI*	Sambuwangga Sibugay		tl		PH-09
+province	PH-SAR*	Sarangani		en		PH-11
+province	PH-SAR*	Sarangani		tl		PH-11
+province	PH-CEB*	Sebu		tl		PH-07
+province	PH-SIG*	Sikihor		tl		PH-07
+province	PH-DAO*	Silangang Dabaw		tl		PH-11
+province	PH-MDR*	Silangang Mindoro		tl		PH-41
+province	PH-MSR*	Silangang Misamis		tl		PH-10
+province	PH-NER*	Silangang Negros		tl		PH-07
+province	PH-EAS*	Silangang Samar		tl		PH-08
+province	PH-SIG*	Siquijor		en		PH-07
+region	PH-12*	Soccsksargen (Region XII)		en		
+province	PH-SOR*	Sorsogon		en		PH-05
+province	PH-SOR*	Sorsogon		tl		PH-05
+province	PH-SCO*	South Cotabato		en		PH-11
+province	PH-SLE*	Southern Leyte		en		PH-08
+province	PH-SUK*	Sultan Kudarat		en		PH-12
+province	PH-SUK*	Sultan Kudarat		tl		PH-12
+province	PH-SLU*	Sulu		en		PH-14
+province	PH-SLU*	Sulu		tl		PH-14
+province	PH-SUN*	Surigao del Norte		en		PH-13
+province	PH-SUR*	Surigao del Sur		en		PH-13
+province	PH-TAR*	Tarlac		en		PH-03
+province	PH-TAR*	Tarlak		tl		PH-03
+province	PH-TAW*	Tawi-Tawi		en		PH-14
+province	PH-TAW*	Tawi-Tawi		tl		PH-14
+province	PH-AGS*	Timog Agusan		tl		PH-13
+province	PH-DAS*	Timog Dabaw		tl		PH-11
+province	PH-ILS*	Timog Iloko		tl		PH-01
+province	PH-CAS*	Timog Kamarines		tl		PH-05
+province	PH-SCO*	Timog Kotabato		tl		PH-11
+province	PH-LAS*	Timog Lanaw		tl		PH-14
+province	PH-ZAS*	Timog Sambuwangga		tl		PH-09
+province	PH-SUR*	Timog Surigaw		tl		PH-13
+region	PH-06*	Western Visayas (Region VI)		en		
+province	PH-ZMB*	Zambales		en		PH-03
+region	PH-09*	Zamboanga Peninsula (Region IX)		en		
+province	PH-ZSI*	Zamboanga Sibugay		en		PH-09
+province	PH-ZAN*	Zamboanga del Norte		en		PH-09
+province	PH-ZAS*	Zamboanga del Sur		en		PH-09
