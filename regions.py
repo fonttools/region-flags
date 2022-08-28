@@ -170,10 +170,10 @@ def load_subregions():
             'Subdivision name': e['Subdivision name'],
         }
         for e in load_subregion_entries('data/iso-3166-2-de.tsv')
-        if e['Subdivision category'] in ['land']
+        if e['Subdivision category'] in ['Land']
     })
 
-    # JP: Prefectures (16)
+    # JP: Prefectures (47)
     subregions.update({
         e['3166-2 code']: {
             'Subdivision name': e['Subdivision name'] + '_Prefecture',
