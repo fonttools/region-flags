@@ -44,9 +44,9 @@ def load_regions():
         e['Subtag']: e
         for e in entries
         if e['Type'] == 'region'
-        and len(e['Subtag']) == 2
-        and e['Description'] != 'Private use'
-        and 'Deprecated' not in e
+           and len(e['Subtag']) == 2
+           and e['Description'] != 'Private use'
+           and 'Deprecated' not in e
     }
 
     for r_val_key in regions.values():
@@ -58,9 +58,9 @@ def load_regions():
 
 def strip_accents(s):
     return ''.join(c
-        for c in unicodedata.normalize('NFD', s)
-        if unicodedata.category(c) != 'Mn'
-    )
+                   for c in unicodedata.normalize('NFD', s)
+                   if unicodedata.category(c) != 'Mn'
+                   )
 
 
 def full_title(s):
@@ -79,6 +79,7 @@ def load_subregion_entries(filename):
         'Subdivision category',
         '3166-2 code',
         'Subdivision name',
+        'Local variant',
         'Language code',
         'Romanization system',
         'Parent subdivision',
@@ -100,7 +101,7 @@ def load_subregions():
         }
         for e in load_subregion_entries('data/iso-3166-2-us.tsv')
         if e['Language code'] == 'en'
-        and e['Subdivision category'] in ['state', 'district']
+           and e['Subdivision category'] in ['state', 'district']
     })
 
     # GB: Countries (3) and provinces (1)
@@ -110,7 +111,7 @@ def load_subregions():
         }
         for e in load_subregion_entries('data/iso-3166-2-gb.tsv')
         if e['Language code'] == 'en'
-        and e['Subdivision category'] in ['country', 'province']
+           and e['Subdivision category'] in ['country', 'province']
     })
 
     # CA: Provinces (10) and territories (3)
@@ -120,7 +121,7 @@ def load_subregions():
         }
         for e in load_subregion_entries('data/iso-3166-2-ca.tsv')
         if e['Language code'] == 'en'
-        and e['Subdivision category'] in ['province', 'territory']
+           and e['Subdivision category'] in ['province', 'territory']
     })
 
     # CO: departments (32) and capital districts (1)
@@ -139,7 +140,7 @@ def load_subregions():
         }
         for e in load_subregion_entries('data/iso-3166-2-mx.tsv')
         if e['Language code'] == 'es'
-        and e['Subdivision category'] in ['state', 'federal district']
+           and e['Subdivision category'] in ['state', 'federal district']
     })
 
     # ES: Autonomous communities(17) and autonomous cities in North Africa (2)
@@ -150,7 +151,7 @@ def load_subregions():
         for e in load_subregion_entries('data/iso-3166-2-es.tsv')
         if e['Subdivision category'] in ['autonomous community',
                                          'autonomous city in North Africa']
-        and not e['Subdivision name'].endswith('*')
+           and not e['Subdivision name'].endswith('*')
     })
 
     # AU: States (6) and territories (2)
@@ -160,7 +161,7 @@ def load_subregions():
         }
         for e in load_subregion_entries('data/iso-3166-2-au.tsv')
         if e['Language code'] == 'en'
-        and e['Subdivision category'] in ['state', 'territory']
+           and e['Subdivision category'] in ['state', 'territory']
     })
 
     # DE: Lands (16)
@@ -169,7 +170,18 @@ def load_subregions():
             'Subdivision name': e['Subdivision name'],
         }
         for e in load_subregion_entries('data/iso-3166-2-de.tsv')
-        if e['Subdivision category'] in ['land']
+        if e['Subdivision category'] in ['Land']
+    })
+
+    # JP: Prefectures (47)
+    subregions.update({
+        e['3166-2 code']: {
+            'Subdivision name': e['Subdivision name'] + '_Prefecture',
+        }
+        for e in load_subregion_entries('data/iso-3166-2-jp.tsv')
+        if e['Language code'] == 'ja'
+        # Exclude due to license
+        and not e['3166-2 code'] in ['JP-34', 'JP-37']
     })
 
     return subregions
